@@ -6,24 +6,17 @@ and here are my thoughts.
 
 It's...
 
-A metaphysics
-of unity
+A metaphysics of unity
 that puts a word,
 Dao,
 on the mystical,
-ineffable nothingness of all,
-that others might call Brahman,
-or what I might call the God of Abraham
-that appears as fire,
-that must not be named,
-that burns forever
-and says only I am.
+ineffable nothingness of all.
 
 A physics of dualism
 that explains everything that exists
-as an interplay between opposites,
+as an interplay between complementary opposites,
 as yin and yang mediated by qi,
-and Doa
+and Dao
 as the tendency
 of systems to return
 to a peaceful,
@@ -40,11 +33,10 @@ and to apply its lessons in our lives.
 A leadership manual
 that counsels us to recognize
 that people know what's best for themselves,
-and to leave them alone as much as possible,
+so leave them alone as much as possible,
 that the best government is the least government,
-that power corrupts,
-that leaders should be cautious
-and avoid unintended consequences,
+that power corrupts
+and actions have consequences,
 and that the essential role
 of wise leadership
 is to mediate,
@@ -53,15 +45,20 @@ conflict.
 
 A gentle warning
 that we're not in it only for ouselves,
-that we're not somehow special or elite,
+that we're not somehow special or privileged,
 that we should have character
 and we shouldn't be lazy,
 that we should listen closely and trust people,
-be normal and keep it simple,
-stay calm and reserve judgement.
+be humble and keep it simple,
+stay calm,
+reserve judgement,
+don't take offense.
 
-A calm reminder
-that walking the middle way
-is the proper way
-to be a civilized,
-decent human being.
+A cautious optimism
+that walking the middle way is
+what it means to be enlightened
+and what it takes to create anything that lasts,
+that you can be selfless without losing yourself,
+that a meaningful life isn't built
+by looking after yourself,
+but by being kind and helping others.
