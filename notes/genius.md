@@ -1,16 +1,22 @@
-The genius of the Dao De Jing
+The genius of the Dao De Jing.
 
-I've been reading the Dao De Jing
-for about five years now,
-and here are my thoughts.
-
-It's...
+People seem to post their own Daoism-related thoughts and beliefs on here pretty often,
+so I thought I'd try.
+I've been reading the Dao De Jing and Wenzi
+pretty closely for about five years now,
+and a conversation with u/lkjdf
+prompted me to prove their point
+by writing this
+on how being a kind and decent person
+flows naturally
+from an apprehension
+of the mystical unity
+beyond self.
 
 A metaphysics of unity
-that puts a word,
-Dao,
+that puts a word
 on the mystical,
-ineffable nothingness of all.
+ineffable nothingness of it all.
 
 A physics of dualism
 that explains everything that exists
@@ -27,38 +33,38 @@ a stone dropping in water.
 A humanistic philosophy
 that encourages us
 to observe the universe deeply,
-and to see it as moral,
+to see it as moral,
 and to apply its lessons in our lives.
 
 A leadership manual
-that counsels us to recognize
-that people know what's best for themselves,
-so leave them alone as much as possible,
+that counsels us
+to recognize
 that the best government is the least government,
-that power corrupts
-and actions have consequences,
-and that the essential role
-of wise leadership
-is to mediate,
-and not engage in,
-conflict.
+that people know what's best for themselves,
+that power corrupts and actions have consequences,
+and that wise leadership
+mediates conflict and doesn't engage in it,
+gets out of the way and lets people get to work,
+and nothing more.
 
 A gentle warning
-that we're not in it only for ouselves,
-that we're not somehow special or privileged,
+that we're not in it only for ourselves,
+that we're not special or privileged,
 that we should have character
-and we shouldn't be lazy,
-that we should listen closely and trust people,
+and we shouldn't be lazy.
+That we should listen closely and trust people,
 be humble and keep it simple,
 stay calm,
 reserve judgement,
 don't take offense.
 
 A cautious optimism
+that we're in it together,
 that walking the middle way is
 what it means to be enlightened
-and what it takes to create anything that lasts,
-that you can be selfless without losing yourself,
-that a meaningful life isn't built
-by looking after yourself,
-but by being kind and helping others.
+and what it takes to create anything that lasts.
+That you can be selfless without losing yourself,
+and that a meaningful life isn't built
+by looking out for yourself,
+but by being kind
+and considering others.
