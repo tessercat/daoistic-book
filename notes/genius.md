@@ -1,6 +1,8 @@
 The genius of the Dao De Jing.
 
-People seem to post their own Daoism-related thoughts and beliefs on here pretty often,
+People seem to post their own 
+Daoism-related thoughts and beliefs
+on here pretty often,
 so I thought I'd try.
 I've been reading the Dao De Jing and Wenzi
 pretty closely for about five years now,
@@ -12,6 +14,9 @@ flows naturally
 from an apprehension
 of the mystical unity
 beyond self.
+
+The genius of the Dao De Jing
+is that it's...
 
 A metaphysics of unity
 that puts a word
@@ -39,9 +44,10 @@ and to apply its lessons in our lives.
 A leadership manual
 that counsels us
 to recognize
-that the best government is the least government,
-that people know what's best for themselves,
-that power corrupts and actions have consequences,
+that people know what's best for themselves
+and that the best government is the least government.
+
+That power corrupts and actions have consequences,
 and that wise leadership
 mediates conflict and doesn't engage in it,
 gets out of the way and lets people get to work,
@@ -52,6 +58,7 @@ that we're not in it only for ourselves,
 that we're not special or privileged,
 that we should have character
 and we shouldn't be lazy.
+
 That we should listen closely and trust people,
 be humble and keep it simple,
 stay calm,
@@ -59,12 +66,12 @@ reserve judgement,
 don't take offense.
 
 A cautious optimism
-that we're in it together,
-that walking the middle way is
-what it means to be enlightened
+that walking the middle way
+is what it means to be enlightened
 and what it takes to create anything that lasts.
+
 That you can be selfless without losing yourself,
-and that a meaningful life isn't built
-by looking out for yourself,
+and that a long and healthy life isn't built
+by looking out for number one,
 but by being kind
 and considering others.
