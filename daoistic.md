@@ -68,7 +68,7 @@ Rejection
 
 ## Published (yes)
 
-June 21, 2019
+August 27, 2019
 
 ## Hanzi
 
@@ -112,7 +112,7 @@ there's already evil.
 
 When everyone knows
 what's right,
-there's already wrong.
+it's already gone wrong.
 
 Since
 
@@ -153,9 +153,9 @@ so they don't get left behind.
 
 Government
 
-## Published
+## Published (yes)
 
-May 03, 2019
+August 29, 2019
 
 ## Hanzi
 
@@ -202,11 +202,11 @@ settles the belly,
 weakens the will,
 strengthens the bone.
 
-It makes sure people
+Makes sure people
 don't suspect anything,
 don't expect anything.
 
-It makes sure leaders
+Makes sure leaders
 know not to interfere,
 not to allow it,
 and nothing more.
@@ -215,16 +215,17 @@ Then it doesn't mess anything up.
 
 # Chapter 4
 
-Ancestry
+Family
 
 ## Published
 
-June 26, 2019
+August 29, 2019
 
 ## Hanzi
 
 道沖
-而用之有弗盈也。
+而用之有
+弗盈也。
 
 淵呵若萬物之宗，
 銼其銳，
@@ -238,16 +239,17 @@ June 26, 2019
 
 ## English
 
-The road is empty
-and there's no point in taking it.
+Dao is an empty pot
+but putting something in it
+doesn't fill it up.
 
-As deep as the ancestor of everything,
-it dulls edges,
-releases tension,
-dims brilliance,
-mixes dust.
+As deep as the past, it
+grinds up sharp blades,
+loosens tangled knots,
+dims bright lights,
+dissolves tiny specks.
 
-As wide as eternity,
+As wide as the future, it's the
 child of who knows what,
 parent of Xiangdi, saints of old.
 
@@ -257,6 +259,8 @@ parent of Xiangdi, saints of old.
 解其[紛芬]，
 和其光，
 同其塵。
+
+用之有 is a thing in ctext, 用之或 is not. Having a purpose for one. See chapter 10 有車之用, the purpose of having a cart.
 
 # Chapter 5
 
@@ -442,7 +446,7 @@ because it doesn't object to anything.
 
 Retirement
 
-## Published (yes)
+## Published
 
 June 07, 2019
 
@@ -744,7 +748,7 @@ Since goodness disciplines people
 as they rule the world,
 the world can trust them,
 
-and since compassion changes people 
+and since compassion changes people
 as they change the world,
 the world should encourage it.
 
@@ -1136,27 +1140,29 @@ loyal subjects.
 
 # Chapter 19
 
-Temptation
+Privilege
 
-## Published
+## Published (yes)
 
-June 29, 2019
+August 27, 2019
 
 ## Hanzi
 
-絕智棄辯，
+絕智
+棄辯，
 民利百倍。
 
-絕巧棄利，
+絕巧
+棄利，
 盜賊無有。
 
-絕偽棄慮，
+絕偽
+棄慮，
 民復季子。
 
-三言以為文不足。
-
-故令之有所屬
-
+三言以為
+文不足，
+故令之有所屬，
 視素，
 保樸，
 少私，
@@ -1164,23 +1170,25 @@ June 29, 2019
 
 ## English
 
-Stop being clever, refuse to argue,
+Stop trying to educate them
+and refuse to lecture them,
 people are a hundred times better off.
 
-Stop being shrewd, refuse to profit,
-thieves have nothing to steal.
+Stop trying to bullshit them
+and refuse to take advantage of them,
+you won't rob or hurt anyone.
 
-Stop being the  boss, refuse to interfere,
-people remember how to co-operate.
+Stop trying to force them
+and refuse to threaten them,
+people start helping again.
 
-These three sayings don't have enough words.
-
-Since  we have to put them somewhere,
-
-Appreciate simplicity,
-stay natural,
-take it less seriously,
-lower your expectations.
+You might think these three sayings
+aren't very good advice,
+but when you let people take responsibility,
+they know what matters
+and keep it simple,
+swallow their pride
+and check their privilege.
 
 ## Notes
 
@@ -1196,11 +1204,11 @@ lower your expectations.
 
 # Chapter 20
 
-Motherhood
+Mothers
 
 ## Published (yes)
 
-June 29, 2019
+September 12, 2019
 
 ## Hanzi
 
@@ -1370,11 +1378,11 @@ Variations:
 
 # Chapter 21
 
-Fatherhood
+Fathers
 
 ## Published (yes)
 
-June 10, 2019
+September 12, 2019
 
 ## Hanzi
 
@@ -1452,7 +1460,7 @@ Like this.
 
 Redemption
 
-## Published (yes)
+## Published
 
 July 26, 2019
 
@@ -2660,7 +2668,7 @@ Authenticity
 
 ## Published (yes)
 
-June 29, 2019
+September 24, 2019
 
 ## Hanzi
 
@@ -2700,14 +2708,13 @@ June 29, 2019
 
 故必貴
 而以
-賤為本。
+賤為本，
 
 必高矣
 而以
-下為基。
+下為基，
 
-夫是以
-侯王自謂
+夫是以侯王自謂
 孤
 寡，
 不穀。
@@ -2772,11 +2779,11 @@ lonely,
 forsaken,
 undeserving.
 
-Was that really
+Is that really
 remembering
 that privilege is based on privation?
 
-No, it wasn't.
+No, it's not.
 
 Since the ultimate trick
 is to play the part without pretending,
@@ -2843,7 +2850,7 @@ Accommodation
 
 ## Published (yes)
 
-July 25, 2019
+September 27, 2019
 
 ## Hanzi
 
@@ -2882,16 +2889,16 @@ July 25, 2019
 ## English
 
 When good leaders are shown the way,
-hard work lets them walk right down the middle.
+it's hard, but they can walk right down the middle.
 
 When average leaders are shown the way,
-some create and some destroy,
+some create, some destroy.
 
-When bad leaders are shown the way,
+When poor leaders are shown the way,
 they laugh at it.
 
-If it's not funny,
-it's not worth thinking of as Dao.
+If they didn't laugh at it,
+it wouldn't be worth thinking of as Dao.
 
 So to set it down in words,
 
@@ -5192,11 +5199,11 @@ soft and weak have the upper hand.
 
 # Chapter 77
 
-Virtue
+Talent
 
 ## Published (yes)
 
-June 21, 2019
+August 28, 2019
 
 ## Hanzi
 
@@ -5224,8 +5231,7 @@ June 21, 2019
 唯有道者乎。
 
 是以聖人為而弗有，
-成功而弗居也。
-
+成功而弗居也，
 其不欲見賢也。
 
 ## English
@@ -5248,15 +5254,14 @@ and serves the rich.
 
 Who among us is capable
 of having riches,
-but of having what it takes
+but has what it takes
 to receive what the universe offers?
 
 Only those of us on the road.
 
-So the wise make but don't keep it,
-build but don't stay there.
-
-They don't want to get credit for it.
+So the wise take but don't keep it,
+build but don't stay there,
+and they don't want to be seen as heroes.
 
 ## Notes
 
