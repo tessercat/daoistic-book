@@ -3,7 +3,7 @@
 The old guy used to say that
 a beached whale is at the mercy of ants,
 and the prince who forgets his place
-and tells ministers what to do
+and tells his ministers what to do
 is at the mercy of bureaucrats.
 
 The prince maintains his authority by doing nothing.
@@ -21,7 +21,7 @@ his power erodes every day
 and he has only himself to blame.
 Getting involved
 makes it impossible to get good advice,
-and abandoning the throne
+and stepping down from the throne
 makes it impossible to stay in charge.
 If he’s not powerful enough to make them obey,
 not ruthless enough to make them pay,
