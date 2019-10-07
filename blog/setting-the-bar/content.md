@@ -14,13 +14,13 @@ Teachers, farmers, builders, merchants,
 we all have different callings,
 separate concerns.
 
-Farmers like talking to each other about their crops
+Farmers talk to each other about crops
 and teachers talk about discipline.
 Builders talk about building
 and merchants talk about prices.
-Then teachers don’t lose control
+That way teachers don’t lose control
 and builders don’t botch jobs.
-Then farmers don’t waste effort
+That way farmers don’t waste effort
 and merchants don’t lose money.
 Happy with our lot in life,
 we look different
