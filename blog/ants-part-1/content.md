@@ -1,10 +1,12 @@
+# At the Mercy of Ants - Part 1
+
 The old guy used to say that
 a beached whale is at the mercy of ants,
-and a prince who forgets his place
+and the prince who forgets his place
 and tells ministers what to do
 is at the mercy of bureaucrats.
 
-A prince maintains his authority by doing nothing.
+The prince maintains his authority by doing nothing.
 He knows his place
 and builds trust by listening closely.
 Ministers conceal their power
@@ -35,7 +37,7 @@ and do as they please,
 when they’re not rewarded for merit,
 not held accountable for corruption,
 that’s when the boss and his lackeys
-are working against each other.
+are at each other's throats.
 
 When the prince and his ministers hate each other,
 when the administration is in chaos
