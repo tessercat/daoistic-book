@@ -4,8 +4,8 @@ The old guy used to say that
 in a healthy society,
 promises are easy to keep,
 jobs are easy to do,
-tradition is easy to follow,
-debt is easy to repay.
+traditions are easy to follow,
+debts are easy to repay.
 
 He meant that
 being a student isn’t like being an administrator,
