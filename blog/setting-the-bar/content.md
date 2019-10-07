@@ -1,3 +1,5 @@
+# Setting the Bar
+
 The old guy used to say that
 in a healthy society,
 promises are easy to keep,
@@ -12,18 +14,18 @@ Teachers, farmers, builders, merchants,
 we all have different callings,
 separate concerns.
 
-Since farmers talk to each other about crops,
-and teachers talk to each other about discipline,
-and builders talk to each other about their craft,
-and merchants talk to each other about prices,
-teachers don’t lose control,
-builders don’t botch jobs,
-farmers don’t waste resources,
+Farmers like talking to each other about their crops
+and teachers talk about discipline.
+Builders talk about building
+and merchants talk about prices.
+Then teachers don’t lose control
+and builders don’t botch jobs.
+Then farmers don’t waste effort
 and merchants don’t lose money.
 Happy with our lot in life,
-we look different,
-we have different skills,
-we do easy jobs
+we look different
+and we have different skills,
+but all we do easy jobs
 and don’t get in each other’s way,
 make mistakes and get corrected,
 get it right and get credit.
@@ -45,7 +47,7 @@ its teachers are tyrants,
 but a healthy society
 doesn't have to control people.
 
-Since we don’t hold students
+Since we don’t hold our students
 to impossibly high standards,
 we shouldn’t expect our institutions
 to live up to utopian ideals.
@@ -57,8 +59,8 @@ and since government institutions
 should be protected from corruption
 and armed forces
 should be subject to law,
-we don’t need mythic heroes of the past,
-but normal people,
+we don't need heroes,
+we need normal people,
 because they know what’s real
 and what to do about it.
 
