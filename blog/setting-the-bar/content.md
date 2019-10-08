@@ -3,8 +3,8 @@
 The old guy used to say that
 in a healthy society,
 promises are easy to keep,
-jobs are easy to do,
-traditions are easy to follow,
+work is easy to do,
+tradition is easy to follow,
 debts are easy to repay.
 
 He meant that
@@ -49,8 +49,8 @@ doesn't have to control people.
 
 Since we don’t hold our students
 to impossibly high standards,
-we shouldn’t expect our institutions
-to live up to utopian ideals.
+we shouldn’t expect institutions
+to live up to our utopian ideals.
 
 Since we shouldn’t rely too much on genius
 and basic literacy
