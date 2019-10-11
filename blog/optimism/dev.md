@@ -9,10 +9,10 @@ https://ctext.org/wenzi/shang-de#n58604
 故能有形，
 
 The old guy used to say that
-a drum makes sound
-because it doesn't hide the sound,
+a drum makes a sound
+because it doesn't bury the sound,
 and a mirror reflects an image
-because it doesn't absorb the light.
+because it doesn't sink the light.
 
 金石有聲，
 不動不鳴，
@@ -64,7 +64,7 @@ When cosmic energy ebbs,
 and earth energy rises,
 yin and yang mix together
 and everything evens out.
-Straight shooters call the shots,
+Gentlemen call the shots,
 tyrants wither and rot,
 that's the way of heaven and earth.
 
@@ -82,9 +82,9 @@ and earth energy doesn't flow,
 yin and yang don't mix
 and everything seems hopeless.
 Tyrants get their way,
-democracies wither and die,
+gentlemen wither and die,
 crops don't grow,
-and the power of the way takes it all in.
+and the power of the way absorbs.
 
 ---
 
@@ -99,16 +99,16 @@ and the power of the way takes it all in.
 聖人之道，
 卑而莫能上也。
 
-The full moon wanes and the new moon waxes,
-that's the Dao of the heavens.
-High mountains tumble and hollows fill,
-that's the Dao of earth.
-Sacrificing the fat and giving to the poor,
-that's the Dao of gods.
-Not giving to those with plenty,
-that's the Dao of human beings.
-Humility that none can surpass,
-that's the Dao of the wise.
+Heaven's way
+hurts plenty, helps few.
+Earth's way
+hurts top, helps low.
+Deamon/angel's way
+overly proud, give to low.
+Human way
+the rich don't give.
+Wise person't way 
+humble but unsupassable.
 
 天明日明，
 而後能照四方，
@@ -127,6 +127,8 @@ It lasts for as long
 as the four lights shine,
 shining on those who shine the light
 shining on their transformations.
+
+---
 
 天道為丈，
 地道為理，
@@ -201,6 +203,7 @@ world settles
 
 與而取者，
 下德也，
+
 「下德不失德，
 是以無德。」
 
@@ -211,6 +214,7 @@ because it gives, but also takes from them
 
 give but also take ones
 low de
+
 low de doesn't lack de
 from this, there's no de.
 
@@ -274,7 +278,7 @@ yang bends itself
 yin advances, yang retreats
 small people get power
 prince escape harm
-heaven way like that.
+heaven earth way like that.
 
 陽氣動，
 萬物緩而得其所，
@@ -292,7 +296,7 @@ Those who follow others,
 others follow them too.
 Those who resist others,
 others resist them too
-because they don't forget the true nature
+that's why they don't forget the true nature
 
 ---
 
@@ -307,7 +311,7 @@ stagnant marsh fills
 everything gets its share
 stagnant marsh drains
 everything has no share to tend.
-that's because rain marsh doesn't come
+that's why rain marsh doesn't come
 world waste destroy
 
 陽上而復下，
@@ -359,7 +363,7 @@ yin extinguishes yang
 everything declines
 
 that's why king duke rather yang dao, then everyhing is fat
-rather yin dao then ethe world is destroyed
+rather yin dao then world destroyed
 
 陽不下陰，
 則萬物不成，
@@ -412,7 +416,6 @@ at the moisture of rain, everything loosens
 
 heroes get up and go,
 something like this,
-
 the action of yin and yang has regular portion
 the action of heroes doesn't extreme things
 
@@ -430,7 +433,7 @@ the action of heroes doesn't extreme things
 Thunder shakes the earth
 everything slows
 wind shakes trees
-grass trees fails
+grass trees fail
 
 heroes repel evil attract good
 people don't separate far
@@ -455,7 +458,7 @@ villains have no story
 fire's emergence, also receives fuel
 hero's words also have truth
 have truth, but real,
-what past didn't finish?
+what past unresolved?
 
 ---
 
@@ -474,7 +477,7 @@ yellow river deep
 soil in mountain
 hill mound high
 above penetrates deep
-yang chi ful
+yang chi full
 transforms to be yin
 yin chi full
 transforms to be yin
