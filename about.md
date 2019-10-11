@@ -20,40 +20,9 @@ it's a learnable technical skill,
 so I've been learning it,
 and staring at poems,
 and building techy crutches,
-and letting it change me,
 and this site is what has become of it.
 I think of it as
 an ongoing personal art project.
-
-Something I've noticed about
-English translations I've looked at
-is that chapters sometimes seem more like 
-collections of pithy saying
-than poems that hang together as a whole.
-But the more I look a them
-in something like the original,
-the more surprising connections appear
-that weren't there for me
-in English.
-Close reading
-makes the poems look
-more like jazz,
-a master riffing
-point and counterpoint
-on a theme,
-practical lessons on
-what the universe is like,
-how to live in it,
-and how to lead.
-So my interpretation
-is an attempt
-to make those connections as clear as possible
-in English that's as readable
-as I can make it
-in the hope that
-some of the jazz,
-and maybe a lesson or two,
-comes through.
 
 ### References
 
@@ -89,13 +58,6 @@ including hanzi and English interpretations,
 are © 2018-2019 Peter Christensen,
 shared under the
 Creative Commons Attribution-NonCommercial-ShareAlike license.
-In other words,
-you're welcome to share
-and build on my versions of the poems,
-but you have to attribute me as your source,
-and you can't sell my poems,
-or your derivatives,
-for love or money.
 
 ### Blog
 
