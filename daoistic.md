@@ -1140,11 +1140,11 @@ loyal subjects.
 
 # Chapter 19
 
-Privilege
+Expectations
 
 ## Published (yes)
 
-August 27, 2019
+October 12, 2019
 
 ## Hanzi
 
@@ -1162,7 +1162,8 @@ August 27, 2019
 
 三言以為
 文不足，
-故令之有所屬，
+故令之有所屬。
+
 視素，
 保樸，
 少私，
@@ -1170,25 +1171,26 @@ August 27, 2019
 
 ## English
 
-Stop trying to educate them
-and refuse to lecture them,
-people are a hundred times better off.
+Stop explaining it to them
+and don't argue with them,
+people would do a hundred times more.
 
-Stop trying to bullshit them
-and refuse to take advantage of them,
-you won't rob or hurt anyone.
+Stop lying to them
+and don't exploit them,
+there would be no thieves or rebels.
 
-Stop trying to force them
-and refuse to threaten them,
-people start helping again.
+Stop forcing them
+and don't threaten them,
+people would start helping again.
 
 You might think these three sayings
 aren't very good advice,
-but when you let people take responsibility,
-they know what matters
-and keep it simple,
-swallow their pride
-and check their privilege.
+but you set the standard.
+
+Keep it simple,
+stay natural,
+swallow your pride,
+check your privilege.
 
 ## Notes
 
@@ -1208,7 +1210,7 @@ Mothers
 
 ## Published (yes)
 
-September 12, 2019
+October 11, 2019
 
 ## Hanzi
 
@@ -1286,7 +1288,7 @@ and they're raising the maypole.
 I stay out of it, not even a joke,
 like a newborn, not even a smile.
 
-I'm so bummed out,
+I'm so depressed,
 like I'm homeless.
 
 Everyone else gets it
@@ -1299,10 +1301,10 @@ I'm so confused.
 Their arguments are brilliant,
 I just seem so dim.
 
-Their arguments are incisive,
+Their arguments are cutting,
 I'm just so dull.
 
-I'm so detached,
+I'm so alone,
 it's like I'm lost at sea.
 
 They're so enthusiastic,
