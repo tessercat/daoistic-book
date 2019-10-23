@@ -9,7 +9,7 @@ the team settles under the yoke.
 Bólè trained them,
 Wángliǎng harnessed them,
 an enlightened master called for them.
-He did none of the work of training or harnessing,
+He did none of the work of training or outfitting,
 but he drove them a thousand miles,
 admired by every expert charioteer.
 
@@ -35,16 +35,17 @@ promises to preserve them mean nothing.
 He can live up to them
 only through a complete change of heart.
 
-When he keeps ego in check,
-they say he's content.
-When pressure doesn’t get to him,
-they say he's confident.
+Contentment means
+not expressing inner desire.
+Confidence means
+not letting outside pressure get in.
+
 Inwardly content,
 outwardly confident,
 when does he act irresponsibly?
 Outwardly confident,
 inwardly content,
-when doesn’t he get results?
+when doesn't he get results?
 
 Since he doesn’t manipulate them,
 doesn’t force them,
@@ -59,4 +60,4 @@ He leads the way in ignorance,
 he's the boss to prevent abuse.
 
 When he's like that,
-his administration is always well in hand.
+his team is always well in hand.
