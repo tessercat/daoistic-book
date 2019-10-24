@@ -6,7 +6,7 @@ and the prince who forgets his place
 and tells ministers what to do
 is at the mercy of bureaucrats.
 
-The prince stays on top
+A prince keeps his throne
 by doing nothing.
 He knows his place
 and builds trust
@@ -18,12 +18,12 @@ they control the boss by doing their job.
 
 When a prince
 doesn’t trust the experts
-and has ideas of his own,
+and likes to get involved,
 his authority erodes every day
 and he has only himself to blame.
 Meddling makes it impossible to get good advice,
 and mingling makes it impossible to stay in charge.
-When his authority no longer inspires obedience,
+When his authority no longer inspires obedience
 and his power no longer commands respect,
 there’s no way for him to influence subordinates.
 
@@ -37,18 +37,18 @@ and do as they please,
 when they’re not rewarded for merit,
 not held accountable for corruption,
 that’s when high and low
-work against each other.
+are at odds.
 
 When prince and ministers hate each other,
 when the cabinet is in chaos
 and he can't impose order,
 when accusations are made
-and he can't judge fairly,
+and he can't get the facts,
 when the accused are wronged
-and he can't hold them to account,
+and won't take the blame,
 that’s when the master is weak
 and servants are lazy.
 
-So those who would guide
+So those who wield
 the great craftsman’s blade
 rarely don’t cut their hands.
