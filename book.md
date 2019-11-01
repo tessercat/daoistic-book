@@ -64,28 +64,26 @@ the teaching of Zhongmiao, hidden crew.
 
 # Chapter 2
 
-Rejection
+Exile
 
 ## Published (yes)
 
-August 27, 2019
+October 31, 2019
 
 ## Hanzi
 
-天下皆知
-美之為美，
+天下皆知美之為美，
 斯惡已。
 
-皆知
-善，
+皆知善，
 斯不善已。
 
-故
-
-有無之相生也，
+故有無之相生也，
 難易之相成也，
+
 長短之相形也，
 高下之相呈也，
+
 音聲之相和也，
 先後之相隨也，
 
@@ -106,31 +104,29 @@ August 27, 2019
 
 ## English
 
-When the whole world knows
-what's good about being good,
-there's already evil.
+Everyone thinks that beauty is what makes us beautiful,
+but it's our flaws.
 
-When everyone knows
-what's right,
-it's already gone wrong.
+We all think we're right
+when we're wrong.
 
-Since
+It's because something and nothing create each other,
+and hard and easy become each other.
 
-something and nothing create each other,
-and hard and easy become each other,
-and long and short measure each other,
-and top and bottom rely on each other,
-and playing and hearing tune each other,
-and first and last follow each other,
+It's because long and short measure each other,
+and high and low average each other.
 
-the wise stay busy doing nothing,
-follow the instructions of silence.
+It's because playing and hearing tune each other,
+and intro and coda follow each other.
 
-Everything helps out,
+So the wise are in the business of doing nothing,
+they go to the school of silence.
+
+Everyone helps out,
 but they don't organize it.
 
-Everything behaves,
-but they don't tell it what to do.
+Everyone behaves,
+but they don't tell them what to do.
 
 Everything works out,
 but they don't stay there.
@@ -139,6 +135,13 @@ Above all they don't stay there
 so they don't get left behind.
 
 ## Notes
+
+The key character here is 處 in R, 居 in G and MWD.
+
+Literally stay,
+both having the meaning of
+preside over,
+take responsibility for.
 
 [亡無]
 [形刑較]
@@ -155,18 +158,18 @@ Government
 
 ## Published (yes)
 
-August 29, 2019
+October 24, 2019
 
 ## Hanzi
 
-不上賢
-使民不爭。
+不上賢使民
+不爭。
 
-不貴難得之貨
-使民不為盜。
+不貴難得之貨使民
+不為盜。
 
-不見可欲
-使民不亂。
+不見可欲使民
+不亂。
 
 是以聖人之治也，
 虛其心，
@@ -197,16 +200,16 @@ People who don't have dreams
 don't make trouble.
 
 So the government of the wise
-empties the mind,
-settles the belly,
-weakens the will,
-strengthens the bone.
+empties their minds,
+settles their bellies,
+weakens their will,
+strengthens their bone.
 
-Makes sure people
+It makes sure that people
 don't suspect anything,
-don't expect anything.
+don't expect anything,
 
-Makes sure leaders
+that leaders
 know not to interfere,
 not to allow it,
 and nothing more.
@@ -219,13 +222,13 @@ Family
 
 ## Published
 
-August 29, 2019
+October 25, 2019
 
 ## Hanzi
 
 道沖
-而用之有
-弗盈也。
+而用之
+有弗盈也。
 
 淵呵若萬物之宗，
 銼其銳，
@@ -239,18 +242,18 @@ August 29, 2019
 
 ## English
 
-Dao is an empty pot
-but putting something in it
+Dao is an empty pot,
+but using it
 doesn't fill it up.
 
-As deep as the past, it
-grinds up sharp blades,
-loosens tangled knots,
-dims bright lights,
-dissolves tiny specks.
+As deep as the past,
+it wears down the sharpest blade,
+loosens the tightest knot,
+dims the brightest sun,
+splits the tiniest atom.
 
-As wide as the future, it's the
-child of who knows what,
+As wide as the future,
+it's the child of who knows what,
 parent of Xiangdi, saints of old.
 
 ## Notes
@@ -312,7 +315,7 @@ Devotion
 
 ## Published (yes)
 
-May 03, 2019
+October 24, 2019
 
 ## Hanzi
 
@@ -337,7 +340,7 @@ Xuanpin, deeply female.
 
 Xuanpin's teachings,
 they call them
-the fundamentals of heaven and earth.
+the philosophy of heaven and earth.
 
 Known far and wide,
 they seem eternal.
@@ -1144,7 +1147,7 @@ Expectations
 
 ## Published (yes)
 
-October 12, 2019
+October 24, 2019
 
 ## Hanzi
 
@@ -1173,7 +1176,7 @@ October 12, 2019
 
 Stop explaining it to them
 and don't argue with them,
-people would do a hundred times more.
+people would be a hundred times better off.
 
 Stop lying to them
 and don't exploit them,
@@ -1210,7 +1213,7 @@ Mothers
 
 ## Published (yes)
 
-October 11, 2019
+October 21, 2019
 
 ## Hanzi
 
@@ -1236,14 +1239,15 @@ October 11, 2019
 我薄焉，未佻，
 若嬰兒，未孩。
 
-儽儽呵，
+儽儽呵。
+
 若無所歸。
 
 眾人皆有餘，
 而我獨遺。
 
-我愚人之心也。
 
+我愚人之心也，
 蠢蠢呵。
 
 鬻人昭昭，
@@ -1276,39 +1280,39 @@ Good and evil,
 how are they the same?
 
 Be it resolved that what some people consider sacred
-shouldn't be used to demonize others.
+should not be used to demonize others.
 
 They're so enthusiastic,
 they haven't even started yet.
 
 Everyone is excited,
-like they're at a village fair
+like they're at the village fair
 and they're raising the maypole.
 
 I stay out of it, not even a joke,
 like a newborn, not even a smile.
 
-I'm so depressed,
-like I'm homeless.
+It's so depressing,
+I feel like an outcast.
 
 Everyone else gets it
 and I just get lost.
 
 My poor brain.
 
-I'm so confused.
+It's so confusing.
 
 Their arguments are brilliant,
-I just seem so dim.
+and I just feel so dim.
 
-Their arguments are cutting,
-I'm just so dull.
+Their arguments are incisive,
+and I'm just so dull.
 
-I'm so alone,
-it's like I'm lost at sea.
+It's so chaotic,
+I feel like I'm lost at sea.
 
-They're so enthusiastic,
-it's like it will never end.
+They're still going strong,
+when will it ever end?
 
 Everyone else has what it takes,
 and I'm just a small town hick.
@@ -1464,7 +1468,7 @@ Redemption
 
 ## Published
 
-July 26, 2019
+October 23, 2019
 
 ## Hanzi
 
@@ -1623,7 +1627,7 @@ Tolerance
 
 ## Published
 
-June 22, 2019
+October 23, 2019
 
 ## Hanzi
 
@@ -1637,8 +1641,7 @@ June 22, 2019
 
 其在道也
 曰餘食贅行，物或惡之，
-故有道者
-弗居。
+故有道者弗居。
 
 ## English
 
@@ -1650,10 +1653,9 @@ explaining it doesn't make it clear,
 bragging about it doesn't make it worthwhile,
 praising it doesn't make it excellent.
 
-When you're on the road,
-they say that nature abhors gluttony and excess,
-because those who [possess] the road
-won't put up with it.
+On the road,
+they say that nature abhors hoarding food and wasting effort,
+so wayfarers won't abide them.
 
 ## Notes
 
@@ -1989,7 +1991,7 @@ Extremism
 
 ## Published (yes)
 
-March 19, 2019
+October 23, 2019
 
 ## Hanzi
 
@@ -2023,7 +2025,7 @@ Legitimacy.
 
 That's not something you can change.
 
-Activists are defeated by it,
+Progressives are defeated by it,
 conservatives lose it.
 
 They're either too far ahead or too far behind,
@@ -2124,7 +2126,7 @@ Remembrance
 
 ## Published
 
-June 01, 2019
+October 23, 2019
 
 ## Hanzi
 
@@ -2146,8 +2148,7 @@ June 01, 2019
 不可以得志於天下。
 
 故吉事上左，
-喪事上右。
-
+喪事上右，
 偏將軍居左，
 上將軍居右。
 
@@ -2174,13 +2175,12 @@ is really celebrating murder.
 Taking pleasure in killing people
 won't get you far in the world.
 
-They say festivals favour the east,
-and funerals favour the west.
+Since they say that festivals favour the east,
+and funerals favour the west,
+seat the conquered in the east,
+seat the victor in the west.
 
-So put the second in command on the left,
-put the general on the right.
-
-Hold a service in remembrance,
+When you hold a service in remembrance,
 mourn the dead in sadness and sorrow,
 hold a wake for victory in war.
 
@@ -2280,7 +2280,7 @@ Immortality
 
 ## Published
 
-June 05, 2019
+October 23, 2019
 
 ## Hanzi
 
@@ -2300,7 +2300,7 @@ June 05, 2019
 A good judge of character is shrewd,
 the self-aware are enlightened.
 
-A conqueror has power,
+A conqueror is powerful,
 the self-possessed are strong.
 
 The satisfied are rich,
@@ -5205,12 +5205,11 @@ Talent
 
 ## Published (yes)
 
-August 28, 2019
+November 01, 2019
 
 ## Hanzi
 
-天之道猶張弓者也。
-
+天之道猶張弓者也，
 高者抑之，
 下者舉之，
 有餘者損之，
@@ -5218,10 +5217,8 @@ August 28, 2019
 
 故天之道
 損有餘
-而益不足。
-
-人之道則不然。
-
+而益不足，
+人之道則不然
 損不足
 而奉有餘。
 
@@ -5239,19 +5236,16 @@ August 28, 2019
 ## English
 
 The universal way is like an archer,
-
 pulling down the top,
 lifting up the bottom,
 releasing when there's plenty,
 drawing when there's not enough.
 
-So the universal way
-takes from the rich,
-and gives to the poor.
-
-The human way isn't like that.
-
-It takes from the poor
+Since the universal way
+takes from the rich
+and gives to the poor,
+the human way is unnatural
+because it takes from the poor
 and serves the rich.
 
 Who among us is capable
@@ -5263,7 +5257,7 @@ Only those of us on the road.
 
 So the wise take but don't keep it,
 build but don't stay there,
-and they don't want to be seen as heroes.
+and don't expect to get credit for it.
 
 ## Notes
 
