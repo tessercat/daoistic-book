@@ -1,6 +1,6 @@
 # Setting the Bar
 
-The old guy used to say that
+Laozi used to say that
 in a healthy society,
 promises are easy to keep,
 work is easy to do,

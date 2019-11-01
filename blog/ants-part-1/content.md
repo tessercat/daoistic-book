@@ -1,6 +1,6 @@
 # At the Mercy of Ants - Part 1
 
-The old guy used to say that
+Laozi used to say that
 a beached whale is at the mercy of ants,
 and the prince who forgets his place
 and tells ministers what to do
@@ -18,7 +18,7 @@ they control the boss by doing their job.
 
 When a prince
 doesn’t trust the experts
-and likes to get involved,
+and likes doing it himself,
 his authority erodes every day
 and he has only himself to blame.
 Meddling makes it impossible to get good advice,
