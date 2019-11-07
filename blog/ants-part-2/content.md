@@ -9,7 +9,7 @@ the team settles under the yoke.
 Bólè trained them,
 Wángliǎng harnessed them,
 an enlightened master called for them.
-He did none of the work of training or outfitting,
+He did none of the work of training or tackling,
 but he drove them a thousand miles,
 admired by every expert charioteer.
 
@@ -35,17 +35,19 @@ promises to preserve them mean nothing.
 He can live up to them
 only through a complete change of heart.
 
-Contentment means
-not expressing inner desire.
-Confidence means
-not letting outside pressure get in.
+They say he's stable
+when he doesn't act impulsively.
+They say he's confident
+when he doesn't let it get to him.
 
-Inwardly content,
-outwardly confident,
-when does he act irresponsibly?
-Outwardly confident,
-inwardly content,
-when doesn't he get results?
+When he's self-possessed,
+tolerant of others,
+isn't that why
+he doesn't act irrationally?
+When he manifests confidence,
+embodies forebearance,
+isn't that why
+he's the one in charge?
 
 Since he doesn’t manipulate them,
 doesn’t force them,

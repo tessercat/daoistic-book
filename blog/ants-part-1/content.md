@@ -12,7 +12,7 @@ He knows his place
 and builds trust
 by listening closely.
 Ministers hide their authority
-and don’t conspire against him.
+but don’t conspire against him.
 Instead,
 they control the boss by doing their job.
 
@@ -49,6 +49,6 @@ and won't take the blame,
 that’s when the master is weak
 and servants are lazy.
 
-So those who wield
+So those who reach for
 the great craftsman’s blade
 rarely don’t cut their hands.
