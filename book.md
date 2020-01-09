@@ -68,7 +68,7 @@ Denial
 
 ## Published (yes)
 
-November 22, 2019
+January 04, 2020
 
 ## Hanzi
 
@@ -115,7 +115,7 @@ hard and easy become each other,
 long and short measure each other,
 high and low average each other,
 
-cause and effect cancel each other,
+cause and effect balance each other,
 before and after follow each other.
 
 So the wise are in the business of doing nothing,
@@ -209,7 +209,7 @@ Family
 
 ## Published
 
-November 13, 2019
+December 18, 2019
 
 ## Hanzi
 
@@ -231,13 +231,13 @@ November 13, 2019
 
 Dao is an empty pot,
 but using it
-doesn't fill it.
+doesn't seem to fill it.
 
 As deep as the past,
-it wears down edges,
-releases tension,
-dims brilliance,
-connects dots.
+it questions our faith,
+answers our questions,
+tempers our passion,
+mixes our dust.
 
 As wide as the future,
 it's the child of who knows what,
@@ -258,7 +258,7 @@ Neutrality
 
 ## Published
 
-May 02, 2019
+January 06, 2020
 
 ## Hanzi
 
@@ -269,32 +269,30 @@ May 02, 2019
 以百省為芻狗。
 
 天地之間，
-其猶橐籥輿？
+其猶橐籥乎？
 
 虛而不屈，
 動而愈出。
 
-多聞，
-數窮，
-不若守於中。
+多言數窮，
+不如守中。
 
 ## English
 
-Heaven and earth aren't humane,
-they're indifferent to everything.
+Heaven and earth aren't humane.
+They treat everything like straw dogs.
 
-The wise aren't humane,
-they're indifferent to everyone.
+The wise aren't humane.
+They treat everyone like straw dogs.
 
 Between heaven and earth,
-isn't it like bagpipes?
+isn't it like a bellows?
 
-Empty but it doesn't collapse,
-squeeze and it plays louder.
+It's empty, but it doesn't collapse.
+Force it and more comes out.
 
-Knowing a lot,
-technical chops,
-they're not the same as playing in tune.
+Lecturing and criticizing
+aren't the same as staying neutral.
 
 # Chapter 6
 
@@ -378,14 +376,15 @@ Opinions
 
 ## Published
 
-November 13, 2019
+December 04, 2019
 
 ## Hanzi
 
 上善如水。
 
 水善利萬物
-而不爭，
+而不爭。
+
 居眾之所惡.，
 故幾於道矣。
 
@@ -405,16 +404,17 @@ November 13, 2019
 The best are like water.
 
 Water is good at helping everything
-and doesn't argue,
-puts up with everyone's crap
+and doesn't argue.
+
+It puts up with everyone's crap
 because it embodies Dao.
 
 The earth is good at settling down,
-the deep are good at thinking,
+the calm are good at thinking,
 the kind are good at giving,
-the sincere are good at convincing,
+the sincere are good at communicating,
 the organized are good at leading,
-the able are good at helping,
+the capable are good at helping,
 the seasons are good at changing.
 
 Above all they don't argue
@@ -426,7 +426,7 @@ Retirement
 
 ## Published
 
-June 07, 2019
+January 09, 2020
 
 ## Hanzi
 
@@ -442,7 +442,7 @@ June 07, 2019
 貴富而驕，
 自遺咎也。
 
-功遂身退，
+功遂身退
 天之道也。
 
 ## English
@@ -459,8 +459,8 @@ who'll keep it safe?
 Ambitious for wealth and power,
 you have only yourself to blame.
 
-Do the job and step aside,
-the universal way.
+Achieve and retire,
+it's the universal way.
 
 ## Notes
 
@@ -664,7 +664,7 @@ Politics
 
 ## Published
 
-June 27, 2019
+December 17, 2019
 
 ## Hanzi
 
@@ -700,18 +700,18 @@ June 27, 2019
 
 ## English
 
-A blessing is as bad as blame,
+Privilege is as dangerous as punishment,
 good is as selfish as evil.
 
 What were they saying
-about favour and disgrace?
+about privilege and punishment?
 
 Privilege is a put down.
 
-When getting it was trouble
-or losing it was trouble,
+When getting it means trouble
+and forgetting it means trouble,
 they were right to say
-that blessings and blame are trouble.
+that privilege and punishment are dangerous.
 
 Why did they say
 that good is as selfish as evil?
@@ -722,13 +722,13 @@ we're selfish.
 When we're selfless,
 who gets hurt?
 
-Since goodness disciplines people
-as they rule the world,
-the world can trust them,
+Since goodness rules you
+when you rule the world,
+the world trusts you,
 
-and since compassion changes people
-as they change the world,
-the world should encourage it.
+and since compassion disciplines you
+when you discipline the world,
+the world obeys.
 
 # Chapter 14
 
@@ -736,7 +736,7 @@ History
 
 ## Published
 
-June 01, 2019
+December 16, 2019
 
 ## Hanzi
 
@@ -763,7 +763,8 @@ June 01, 2019
 是謂忽望。
 
 迎之而不見其首，
-隨之而不見其後，
+隨之而不見其後。
+
 執今之道，
 以御今之有，
 以知古始，
@@ -793,9 +794,10 @@ they call that a description of the indescribable.
 Thinking about nothing at all,
 they call that refusing to believe.
 
-Welcoming it without seeing its face,
-following it without seeing its back,
-staying on today's road
+Welcome it without seeing its face,
+follow without seeing its back.
+
+Staying on today's road
 by navigating today's reality,
 by learning the lessons of the past,
 they call that Daoji, rules of the road.
@@ -1015,49 +1017,45 @@ the way leads to selfless integrity.
 
 # Chapter 17
 
-Commitment
+Acceptance
 
 ## Published (yes)
 
-November 08, 2019
+December 31, 2019
 
 ## Hanzi
 
-大上
-下知有之。
-
+太上
+下知有之，
 其次親譽之，
 其次畏之，
 其次侮之。
 
 信不足焉，
-有不信。
+有不信焉，
+悠呵其貴言也。
 
-猷呵，
-其貴言也。
-
-成事遂功
-而百姓曰
+功成
+事遂，
+百姓皆謂
 我自然也。
 
 ## English
 
 In the beginning
-people didn't even know they had them.
-
-Then they were loved,
+people knew they had them,
+but then they were loved,
 then they were feared,
 then they were hated.
 
-When you don't trust them enough,
-they won't trust you.
+They don't trust them
+and they aren't trusted,
+but they have such high standards.
 
-It's tricky,
-getting their consent.
-
-Do the job and do it well
-and people say,
-I'm like that too.
+They get ahead
+and they get their way,
+but the people all say
+it's only natural.
 
 ## Notes
 
@@ -1076,35 +1074,29 @@ Loyalty
 
 ## Published (yes)
 
-July 25, 2019
+December 26, 2019
 
 ## Hanzi
 
 故大道廢，
-案有
-仁義。
+案有仁義。
 
 六親不和，
-案有
-孝慈。
+案有孝慈。
 
 邦家昏亂，
-案有
-正臣。
+案有正臣。
 
 ## English
 
-Since a decadent society
-expects us to be
-kind and decent,
+That's why a decadent society
+expects us to be kind and decent,
 
-and a dysfunctional family
-expects us to be
-obedient and committed,
+a dysfunctional family
+expects us to be obedient and committed,
 
-a corrupt ruling class
-expects us to be
-loyal subjects.
+and a corrupt ruling class
+expects us to be loyal subjects.
 
 ## Notes
 
@@ -1188,7 +1180,7 @@ Mothers
 
 ## Published (yes)
 
-November 05, 2019
+December 26, 2019
 
 ## Hanzi
 
@@ -1243,8 +1235,8 @@ November 05, 2019
 
 ## English
 
-Stop arguing,
-you've got nothing to lose.
+Stop debating,
+there's no point.
 
 Consent and concede,
 how are they different?
@@ -1255,42 +1247,42 @@ how are they the same?
 Be it resolved that what some people consider sacred
 should not be used to demonize others.
 
-They're so enthusiastic,
-they haven't even started yet.
+They were so enthusiastic,
+even before it started.
 
-Everyone is excited,
-like they're at the village fair
-and they're raising the maypole.
+Everyone was excited,
+like they were at the village fair
+and they were raising the maypole.
 
-I stay out of it, not even a joke,
+I stayed out of it, not even a joke,
 like a newborn, not even a smile.
 
-It's so depressing,
-I feel like an outcast.
+It was so depressing,
+like I was the village idiot.
 
-Everyone else gets it
-and I just get lost.
+Everyone else got it
+and I just got lost.
 
 My poor brain,
-it's so confusing.
+it was so confusing.
 
-Their arguments are brilliant,
-and I just feel so dim.
+Their arguments were brilliant,
+and I was just so dim.
 
-Their arguments are incisive,
-and I'm just so dull.
+Their arguments were incisive,
+and I was just so dull.
 
-It's so chaotic,
-I feel like I'm lost at sea.
+It was so overwhelming,
+like I was lost at sea.
 
-They're still going strong,
-when will it ever end?
+It was so abstract,
+like nothing was true.
 
-Everyone else has what it takes,
-and I'm just a small town hick.
+Everyone else had what it takes,
+and I was just a small town hick.
 
-We just want different things,
-and I yearn for mother's milk.
+We just wanted different things,
+and I yearned for mother's milk.
 
 ## Notes
 
@@ -1440,7 +1432,7 @@ Redemption
 
 ## Published
 
-November 10, 2019
+January 09, 2020
 
 ## Hanzi
 
@@ -1476,7 +1468,7 @@ bends and straightens,
 ebbs and flows,
 destroys and rebuilds,
 shrinks and grows,
-spreads and diversifies,
+spreads and diversifies.
 
 So the wise are committed to
 applying it in their lives.
@@ -1599,7 +1591,7 @@ Discipline
 
 ## Published
 
-November 11, 2019
+December 16, 2019
 
 ## Hanzi
 
@@ -1627,7 +1619,7 @@ praising it doesn't make it last.
 
 On the road,
 they say that nature abhors wasted energy and extra effort,
-and that's why following the road means not tolerating them.
+and that's why following the road means not insisting.
 
 ## Notes
 
@@ -1806,7 +1798,7 @@ Subtlety
 
 ## Published
 
-November 13, 2019
+December 16, 2019
 
 ## Hanzi
 
@@ -1854,7 +1846,7 @@ there's no wasted potential.
 
 They call it passing the torch.
 
-Since good people are experts at being good people,
+Since good people are good at being good people,
 and bad people learn from good people,
 
 not respecting the master,
@@ -1890,28 +1882,22 @@ Division
 
 ## Published
 
-May 29, 2019
+January 09, 2020
 
 ## Hanzi
 
-知其雄，
-守其雌，
+知其雄，守其雌，
 為天下谿。
-
 為天下谿，恆德不離。
 恆德不離，復歸於嬰兒。
 
-知其榮，
-守其辱，
+知其榮，守其辱，
 為天下谷。
-
 為天下谷，恆德乃足。
 恆德乃足，復歸於朴。
 
-知其白，
-守其黑，
+知其白，守其黑，
 為天下式。
-
 為天下式，恆德不忒。
 恆德不忒，復歸於無極。
 
@@ -1921,24 +1907,18 @@ May 29, 2019
 
 ## English
 
-Mind the rooster,
-protect the hen,
+Mind the rooster, protect the hen,
 build a chicken coop for the world.
-
 A high quality coop isn't a cage,
 it takes us back to innocence.
 
-Mind the crop,
-protect it from weeds,
+Mind the crop, protect it from weeds,
 plant a garden for the world.
-
 A high quality garden is just enough,
 it takes us back to nature.
 
-Mind what's right,
-protect it from wrong,
+Mind what's right, protect it from wrong,
 set standards for the world.
-
 High quality standards aren't strict,
 they take us back to freedom.
 
@@ -1963,7 +1943,7 @@ Extremism
 
 ## Published (yes)
 
-October 23, 2019
+December 06, 2019
 
 ## Hanzi
 
@@ -1991,7 +1971,7 @@ October 23, 2019
 
 Everybody wants to change the world.
 
-I say we have no choice in the matter.
+I say it changes no matter what we do.
 
 Legitimacy.
 
@@ -2025,7 +2005,7 @@ Leadership
 
 ## Published (yes)
 
-June 05, 2019
+December 26, 2019
 
 ## Hanzi
 
@@ -2052,9 +2032,9 @@ don't fight wars to get your way in the world.
 Good ones get results and nothing more,
 they don't get their way by force.
 
-They get results but they don't hurt anyone,
-they don't bully anyone,
-they don't threaten anyone.
+They get results but don't hurt anyone,
+don't bully anyone,
+don't threaten anyone.
 
 They call it getting results
 but not getting their way.
@@ -2642,7 +2622,7 @@ Authenticity
 
 ## Published (yes)
 
-September 24, 2019
+December 31, 2019
 
 ## Hanzi
 
@@ -2700,7 +2680,8 @@ September 24, 2019
 非也。
 
 故至數
-譽無譽，
+譽無譽。
+
 不欲琭琭若玉，
 碌碌若石。
 
@@ -2740,15 +2721,15 @@ would exhaust the fields,
 endless ranks of aristocrats
 would topple lords and kings.
 
-Since they were elite
+That's why they were elite
 but remembered
 that privilege is based on privation,
 
-and since they were on top
+and they were on top
 but remembered
-that authority comes from below,
+that authority comes from below.
 
-lords and kings called themselves
+Lords and kings call themselves
 lonely,
 forsaken,
 undeserving.
@@ -2759,10 +2740,11 @@ that privilege is based on privation?
 
 No, it's not.
 
-Since the ultimate trick
-is to play the part without pretending,
-they didn't want to seem polished like jade,
-they looked plain like granite.
+That's why the ultimate trick
+is to play the part without pretending.
+
+Don't try to look polished like jade,
+look plain like granite.
 
 ## Notes
 
@@ -2908,7 +2890,7 @@ Principles
 
 ## Published
 
-July 07, 2019
+December 31, 2019
 
 ## Hanzi
 
@@ -2926,10 +2908,10 @@ July 07, 2019
 寡，
 不穀，
 而王公
-以為稱。
-
+以為稱
 故物或損之而益，
-或益之而損，
+或益之而損。
+
 人之所教，
 我亦教之，
 強梁者不得其死。
@@ -2952,11 +2934,11 @@ the lonely orphan,
 the forsaken,
 the undeserving,
 but kings and princes
-took them as namesakes.
+took them as namesakes
+because some things harm us but help,
+and some help us but harm.
 
-Since some things harmed them but helped,
-and some helped them but harmed,
-people taught them,
+Others teach it,
 and we teach it too,
 that tyrants don't live out their days.
 
@@ -3072,7 +3054,7 @@ Standards
 
 ## Published
 
-February 15, 2019
+December 04, 2019
 
 ## Hanzi
 
@@ -3096,17 +3078,17 @@ February 15, 2019
 
 ## English
 
-Great success seems disappointing,
-it doesn't make people fail.
+True success seems lacking.
+Achieving it doesn't hurt anyone.
 
-Great wealth seems wanting,
-it doesn't make people poor.
+True fulfillment seems boring.
+Achieving it doesn't degrade anyone.
 
-Great skill seems crude.
+True skill seems crude.
 
-Great wit seems humble.
+True wit seems humble.
 
-Great piety seems forgiving.
+True piety seems forgiving.
 
 Warm beats cold,
 peace beats passion.
@@ -3115,6 +3097,10 @@ Peace and quiet
 keep the world on track.
 
 ## Notes
+
+Practicing it doesn't endanger anyone,
+practicing it doesn't demean anyone,
+practicing it doesn't demonize anyone.
 
 [敝幣弊]
 [盅沖]
@@ -3139,15 +3125,6 @@ keep the world on track.
 [熱炅]
 [清請]
 [靜靚]
-
-Great skill seems clumsy,
-achieving it isn't an accident.
-
-Great wit seems vulgar,
-achieving it isn't cruel.
-
-Great piety seems forgiving,
-achieving it isn't a sin.
 
 # Chapter 46
 
@@ -3228,7 +3205,7 @@ Accomplishments
 
 ## Published (yes)
 
-May 02, 2019
+December 26, 2019
 
 ## Hanzi
 
@@ -3251,7 +3228,7 @@ May 02, 2019
 Don’t step out the door
 to understand the world.
 
-Don’t stare out the window
+Don’t look out the window
 to understand the universe.
 
 Stepping outside is even more isolating,
@@ -3327,7 +3304,7 @@ Consideration
 
 ## Published (yes)
 
-May 14, 2019
+December 06, 2019
 
 ## Hanzi
 
@@ -3354,12 +3331,12 @@ May 14, 2019
 The wise never have anything in mind,
 they take everyone's heart to heart.
 
-They treat good ones well,
-they treat bad ones well,
+They treat good people well,
+they treat bad people well,
 character is decency.
 
-They trust honest ones,
-they trust dishonest ones,
+They trust honest people,
+they trust dishonest people,
 character is trust.
 
 The role of the wise in the world
@@ -3381,49 +3358,63 @@ Death
 
 ## Published
 
-July 14, 2019
+November 26, 2019
 
 ## Hanzi
 
-出生入死。
+出生
+入死。
 
 生之徒，十有三，
 死之徒，十有三，
 人之生，動之死地，十有三。
 
-夫何故也？ 以其生，生之厚也。
+夫何故也？ 
+以其生，生之厚也。
 
-蓋聞善執生者。
+蓋聞善
+執生者。
 
-路行不遇兕虎，
-入軍不被甲兵。
+路行
+不遇兕虎，
+
+入軍
+不被甲兵。
 
 兕無所投其角，
 虎無所措其爪，
 兵無所容其刃。
 
-夫何故也？以其無死地。
+夫何故也？
+以其無死地。
 
 ## English
 
-Leave life, join death.
+We come out and live,
+go back when we die.
 
-Life's followers, three in ten,
-death's followers, three in ten,
-people's lives, get themselves killed, three in ten.
+Three in ten fight to live,
+three in ten long for death,
+three in ten love life so much it kills them.
 
-But why? They're just living their lives.
+But why are they like that?
+They're alive, so they're full of life.
 
-Perhaps you've heard of those who are good at staying alive.
+Maybe you've heard of
+people who are good at staying alive.
 
-They travel the world but don't fight bulls or hunt tigers,
-join the army but don't wear armour or carry weapons.
+They travel the world
+but don't face bulls or tigers.
 
-There's nothing for the bull to smash with his horns.
-nothing for the tiger to catch in her claws,
-nothing for the soldier to hack with his sword.
+They join the army
+but don't carry shields or weapons.
 
-But why? There's just nothing left to kill.
+There's nothing for bulls to smash with their horns,
+nothing for tigers to catch in their claws,
+nothing for soldiers to hack with their swords.
+
+But why are they like that?
+They have nothing left to kill.
 
 ## Notes
 
@@ -3662,7 +3653,7 @@ Human Nature
 
 ## Published
 
-March 29, 2019
+November 23, 2019
 
 ## Hanzi
 
@@ -3719,7 +3710,7 @@ Good bonds
 aren't easy to break.
 
 They're why our descendants
-don't stop following tradition.
+won't stop following tradition.
 
 We develop it in ourselves
 and character becomes real.
@@ -5129,7 +5120,7 @@ Dominance
 
 ## Published (yes)
 
-November 09, 2019
+December 06, 2019
 
 ## Hanzi
 
@@ -5150,7 +5141,7 @@ November 09, 2019
 ## English
 
 A newborn babe, soft and weak,
-is stiff and stubborn in the end.
+is tough and stubborn in the end.
 
 Every new life, soft and tender,
 withers and rots in the end.
@@ -5336,7 +5327,7 @@ Utopia
 
 ## Published (yes)
 
-November 09, 2019
+December 06, 2019
 
 ## Hanzi
 
@@ -5375,7 +5366,7 @@ November 09, 2019
 ## English
 
 A small town,
-sparsely populated.
+a few people.
 
 Put them in squads and battalions
 but they'll never drill.
@@ -5419,7 +5410,7 @@ Confilct
 
 ## Published
 
-May 02, 2019
+December 18, 2019
 
 ## Hanzi
 
@@ -5443,7 +5434,7 @@ May 02, 2019
 故天之道
 利而不害。
 
-人之道
+聖人之道
 為而弗爭。
 
 ## English
@@ -5468,6 +5459,6 @@ they do a lot more for themselves.
 The universal way
 helps and doesn't harm.
 
-The human way
+The way of the wise
 follows along and doesn't struggle against it.
 
