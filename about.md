@@ -55,7 +55,7 @@ is derived from the
 
 The poems,
 including hanzi and English interpretations,
-are © 2018-2019 Peter Christensen,
+are © 2019-2020 Peter Christensen,
 shared under the
 Creative Commons Attribution-NonCommercial-ShareAlike license.
 
