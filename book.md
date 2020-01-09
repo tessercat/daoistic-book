@@ -64,11 +64,11 @@ the teaching of Zhongmiao, hidden crew.
 
 # Chapter 2
 
-Exile
+Denial
 
 ## Published (yes)
 
-October 31, 2019
+November 22, 2019
 
 ## Hanzi
 
@@ -78,7 +78,9 @@ October 31, 2019
 皆知善，
 斯不善已。
 
-故有無之相生也，
+故
+
+有無之相生也，
 難易之相成也，
 
 長短之相形也，
@@ -90,14 +92,9 @@ October 31, 2019
 是以聖人居無為之事，
 行不言之教。
 
-萬物作
-而弗治也。
-
-為
-而弗志也。
-
-成
-而弗居。
+萬物作而弗治也，
+為而弗志也，
+成而弗居。
 
 夫唯弗居也
 是以弗去也。
@@ -110,38 +107,28 @@ but it's our flaws.
 We all think we're right
 when we're wrong.
 
-It's because something and nothing create each other,
-and hard and easy become each other.
+It's because
 
-It's because long and short measure each other,
-and high and low average each other.
+something and nothing create each other,
+hard and easy become each other,
 
-It's because playing and hearing tune each other,
-and intro and coda follow each other.
+long and short measure each other,
+high and low average each other,
+
+cause and effect cancel each other,
+before and after follow each other.
 
 So the wise are in the business of doing nothing,
-they go to the school of silence.
+take orders from silence.
 
-Everyone helps out,
-but they don't organize it.
-
-Everyone behaves,
-but they don't tell them what to do.
-
-Everything works out,
-but they don't stay there.
+They organize things but don't control them,
+manage but don't force them,
+build but don't stay there.
 
 Above all they don't stay there
 so they don't get left behind.
 
 ## Notes
-
-The key character here is 處 in R, 居 in G and MWD.
-
-Literally stay,
-both having the meaning of
-preside over,
-take responsibility for.
 
 [亡無]
 [形刑較]
@@ -158,7 +145,7 @@ Government
 
 ## Published (yes)
 
-October 24, 2019
+November 12, 2019
 
 ## Hanzi
 
@@ -205,16 +192,16 @@ settles their bellies,
 weakens their will,
 strengthens their bone.
 
-It makes sure that people
+Then people
 don't suspect anything,
-don't expect anything,
+don't expect anything.
 
-that leaders
+Then leaders
 know not to interfere,
 not to allow it,
 and nothing more.
 
-Then it doesn't mess anything up.
+Then we don't mess anything up.
 
 # Chapter 4
 
@@ -222,7 +209,7 @@ Family
 
 ## Published
 
-October 25, 2019
+November 13, 2019
 
 ## Hanzi
 
@@ -244,13 +231,13 @@ October 25, 2019
 
 Dao is an empty pot,
 but using it
-doesn't fill it up.
+doesn't fill it.
 
 As deep as the past,
-it wears down the sharpest blade,
-loosens the tightest knot,
-dims the brightest sun,
-splits the tiniest atom.
+it wears down edges,
+releases tension,
+dims brilliance,
+connects dots.
 
 As wide as the future,
 it's the child of who knows what,
@@ -391,7 +378,7 @@ Opinions
 
 ## Published
 
-May 08, 2019
+November 13, 2019
 
 ## Hanzi
 
@@ -399,21 +386,15 @@ May 08, 2019
 
 水善利萬物
 而不爭，
-居眾之所惡，
+居眾之所惡.，
 故幾於道矣。
 
 居善地。
-
 心善淵。
-
 予善仁。
-
 言善信。
-
 正善治。
-
 事善能。
-
 動善時。
 
 夫唯不爭
@@ -425,25 +406,19 @@ The best are like water.
 
 Water is good at helping everything
 and doesn't argue,
-puts up with everyone's crap,
-so it embodies Dao.
+puts up with everyone's crap
+because it embodies Dao.
 
-The earth is good at enduring.
+The earth is good at settling down,
+the deep are good at thinking,
+the kind are good at giving,
+the sincere are good at convincing,
+the organized are good at leading,
+the able are good at helping,
+the seasons are good at changing.
 
-The calm are good at thinking.
-
-The kind are good at giving.
-
-The sincere are good at convincing.
-
-The organized are good at leading.
-
-The capable are good at working.
-
-The seasons are good at changing.
-
-Above all it doesn't argue
-because it doesn't object to anything.
+Above all they don't argue
+because they don't object to anything.
 
 # Chapter 9
 
@@ -633,7 +608,7 @@ Intuition
 
 ## Published
 
-June 07, 2019
+November 20, 2019
 
 ## Hanzi
 
@@ -656,15 +631,15 @@ June 07, 2019
 
 ## English
 
-Bright colors dim the eye,
-strong flavours numb the mouth,
-loud music dulls the ear.
+Bright colors tire the eye,
+strong flavour numbs the mouth,
+loud music deafens the ear.
 
 Racing and hunting
 drive us crazy.
 
 The finer things
-get in the way,
+get in the way.
 
 So the government of the wise
 serves the belly,
@@ -848,7 +823,7 @@ Innovation
 
 ## Published
 
-June 22, 2019
+November 20, 2019
 
 ## Hanzi
 
@@ -907,7 +882,7 @@ slowly arise?
 
 Those who took this path
 didn't want to fill up
-so could they save up
+so they could save up
 and not start from scratch.
 
 ## Notes
@@ -1044,7 +1019,7 @@ Commitment
 
 ## Published (yes)
 
-May 02, 2019
+November 08, 2019
 
 ## Hanzi
 
@@ -1082,7 +1057,7 @@ getting their consent.
 
 Do the job and do it well
 and people say,
-I’ll be like that too.
+I'm like that too.
 
 ## Notes
 
@@ -1213,7 +1188,7 @@ Mothers
 
 ## Published (yes)
 
-October 21, 2019
+November 05, 2019
 
 ## Hanzi
 
@@ -1239,13 +1214,11 @@ October 21, 2019
 我薄焉，未佻，
 若嬰兒，未孩。
 
-儽儽呵。
-
+儽儽呵，
 若無所歸。
 
 眾人皆有餘，
 而我獨遺。
-
 
 我愚人之心也，
 蠢蠢呵。
@@ -1298,9 +1271,8 @@ I feel like an outcast.
 Everyone else gets it
 and I just get lost.
 
-My poor brain.
-
-It's so confusing.
+My poor brain,
+it's so confusing.
 
 Their arguments are brilliant,
 and I just feel so dim.
@@ -1468,7 +1440,7 @@ Redemption
 
 ## Published
 
-October 23, 2019
+November 10, 2019
 
 ## Hanzi
 
@@ -1499,15 +1471,15 @@ October 23, 2019
 
 ## English
 
-It divides then unites,
-bends then straightens,
-ebbs then flows,
-destroys then rebuilds,
-shrinks then grows,
-spreads then diversifies,
+It divides and unites,
+bends and straightens,
+ebbs and flows,
+destroys and rebuilds,
+shrinks and grows,
+spreads and diversifies,
 
-so the wise are committed to
-applying this in their lives.
+So the wise are committed to
+applying it in their lives.
 
 They don't explain it because it's clear,
 don't prove it because it's obvious,
@@ -1623,15 +1595,15 @@ Only in R.
 
 # Chapter 24
 
-Tolerance
+Discipline
 
 ## Published
 
-October 23, 2019
+November 11, 2019
 
 ## Hanzi
 
-炊者不立，
+企者不立，
 跨者不行。
 
 自視者不彰，
@@ -1640,22 +1612,22 @@ October 23, 2019
 自矜者不長。
 
 其在道也
-曰餘食贅行，物或惡之，
+曰餘食贅行，物或惡之
 故有道者弗居。
 
 ## English
 
-Cooking can't be rushed,
-hurrying isn't progress.
+Standing on tip-toes isn't stable,
+going too far isn't progress.
 
 Proving it doesn't make it obvious,
 explaining it doesn't make it clear,
-bragging about it doesn't make it worthwhile,
-praising it doesn't make it excellent.
+bragging about it is pointless,
+praising it doesn't make it last.
 
 On the road,
-they say that nature abhors hoarding food and wasting effort,
-so wayfarers won't abide them.
+they say that nature abhors wasted energy and extra effort,
+and that's why following the road means not tolerating them.
 
 ## Notes
 
@@ -1834,7 +1806,7 @@ Subtlety
 
 ## Published
 
-July 21, 2019
+November 13, 2019
 
 ## Hanzi
 
@@ -1873,7 +1845,7 @@ good fortune-tellers don't use yarrow stalks.
 A good defense doesn't bar the gate
 but can't be breached.
 
-A good alliance doesn't sign treaties
+A good alliance doesn't sign a treaty
 but can't be broken.
 
 So the wise are good at helping others,
@@ -1890,7 +1862,7 @@ not pitying the apprentice,
 might seem smart,
 but they're huge mistakes.
 
-They call it essential but subtle.
+They say it's essential but subtle.
 
 ## Notes
 
@@ -2126,7 +2098,7 @@ Remembrance
 
 ## Published
 
-October 23, 2019
+November 10, 2019
 
 ## Hanzi
 
@@ -2165,7 +2137,7 @@ They say soldiers
 aren't very diplomatic.
 
 When there's no option but to use them,
-surprise attacks work best.
+overwhelming force works best.
 
 Don't glorify them.
 
@@ -2177,10 +2149,10 @@ won't get you far in the world.
 
 Since they say that festivals favour the east,
 and funerals favour the west,
-seat the conquered in the east,
-seat the victor in the west.
+seat the conquered on the right,
+seat the victor on the left.
 
-When you hold a service in remembrance,
+Hold a service in remembrance,
 mourn the dead in sadness and sorrow,
 hold a wake for victory in war.
 
@@ -2852,7 +2824,7 @@ Accommodation
 
 ## Published (yes)
 
-September 27, 2019
+November 08, 2019
 
 ## Hanzi
 
@@ -2869,7 +2841,6 @@ September 27, 2019
 不足以為道矣。
 
 是以建言有之，
-
 明道如悖，
 夷道如纇，
 進道如退。
@@ -2891,7 +2862,7 @@ September 27, 2019
 ## English
 
 When good leaders are shown the way,
-it's hard, but they can walk right down the middle.
+they work hard so they can walk right down the middle.
 
 When average leaders are shown the way,
 some create, some destroy.
@@ -2903,8 +2874,7 @@ If they didn't laugh at it,
 it wouldn't be worth thinking of as Dao.
 
 So to set it down in words,
-
-The right way seems wrong,
+the right way seems wrong,
 the easy way seems hard,
 the way forward might be a step back.
 
@@ -2916,7 +2886,7 @@ absolute truth might be fickle.
 
 The great square has no corners,
 great potential develops slowly,
-great advice is rarely followed,
+the good word is rarely heard,
 the grand plan is never revealed.
 
 Above all, Dao is good
@@ -3185,7 +3155,7 @@ Contentment
 
 ## Published (yes)
 
-May 04, 2019
+November 09, 2019
 
 ## Hanzi
 
@@ -3212,7 +3182,7 @@ May 04, 2019
 The world is on the right track
 when old pack horses are put out to pasture.
 
-The world is on the wrong track
+The world has lost its way
 when war horses breed in the fields.
 
 There's no sin more seductive
@@ -3804,7 +3774,7 @@ Impermanence
 
 ## Published (yes)
 
-March 09, 2019
+November 08, 2019
 
 ## Hanzi
 
@@ -3854,7 +3824,7 @@ The truly powerful
 are like newborn babes.
 
 Wasps, scorpions and snakes
-don't poison them.
+don't sting them.
 
 Birds of prey and savage beasts
 don't attack them.
@@ -3908,19 +3878,16 @@ Budao is temporary.
 
 # Chapter 56
 
-Caring for the World
+Respect
 
 ## Published
 
-May 01, 2019
+November 04, 2019
 
 ## Hanzi
 
-知之者
-弗言。
-
-言之者
-弗知。
+知之者弗言。
+言之者弗知。
 
 閉其兌，
 塞其悶，
@@ -3940,27 +3907,24 @@ May 01, 2019
 
 ## English
 
-Those who understand it
-don't talk about it,
+Understanding it means not talking about it,
+talking about it means not understanding it.
 
-Those who talk about it
-don't understand it.
+Close the shutters,
+bar the gate,
+dim the light,
+stir the ash,
+dull the edge,
+loosen the knot.
 
-It denies us joy,
-banishes our sorrow,
-tempers our cruelty,
-forgives our sin,
-questions our faith,
-relieves us of doubt.
-
-This one is called Xuantong, deep ambivalence,
-so there's no point in caring
-and no point in neglect,
-no point in help
-and no point in harm,
-no point in respect
-and no point in scorn,
-so treat people with respect.
+They call it Xuantong, deep ambivalence,
+because you can't get it and care,
+and you can't get it and forget,
+you can't get it and get ahead,
+and you can't get it and get hurt,
+you can't get it and get respect
+and you can't get it and hate
+because you treat the world with respect.
 
 ## Notes
 
@@ -4306,11 +4270,11 @@ it helps when the strong are humble.
 
 # Chapter 62
 
-Respect
+Reverence
 
 ## Published
 
-November 01, 2018
+November 04, 2019
 
 ## Hanzi
 
@@ -4320,15 +4284,17 @@ November 01, 2018
 
 美言可以市，
 尊行可以加人，
+
 人之不善也，
 何棄之有？
 
 故立天子，
 置三卿，
 雖有共之璧以先四馬，
-不善坐而進此。
+不若坐而進此。
 
 古之所以貴此者何也？
+
 不謂
 求以得，
 有罪以免輿？
@@ -4337,26 +4303,28 @@ November 01, 2018
 
 ## English
 
-Dao is master of all,
-protecting moral people,
-protected by immoral people.
+Everything follows to the road.
+Honest people treasure it.
+Dishonest people take refuge in it.
 
-Pretty sermons can be sold,
-cherished traditions can take advantage of people.
-Man's inhumanity,
-what is there to deny?
+Pretty words might be flattery,
+good deeds might be favours.
 
-So when crowning the Child of Heaven,
-or anointing the Three Lords,
-or even when serving as Jade of Honour by leading the Four Mares,
-it might be immoral to stubbornly insist on a certain way of doing things.
+The lies people tell,
+who can deny they exist?
 
-But why did the ancients respect a certain way of doing things?
+That's why the throne of the Child of Heaven,
+or being anointed as one of the Three Lords,
+or just serving as Jade of Honour by leading the Four Mares,
+isn't as important as sitting and contemplating this.
+
+But why did the ancients want those things?
+
 Didn't they say,
 Ask and ye shall receive,
-Commit sin and ye shall be forgiven?
+sin and ye shall be forgiven?
 
-So they were treating the world with respect.
+That's what made the world want them.
 
 ## Notes
 
@@ -4559,7 +4527,7 @@ Competition
 
 ## Published (yes)
 
-May 04, 2019
+November 08, 2019
 
 ## Hanzi
 
@@ -4607,8 +4575,8 @@ doesn't oppress anyone.
 Their leadership
 doesn't hurt anyone.
 
-The world makes progress
-and doesn't drag them down.
+The world is happy to oblige
+and doesn't resent them.
 
 By not competing,
 they're beyond compare.
@@ -5157,20 +5125,18 @@ are truly capable of caring for life.
 
 # Chapter 76
 
-Superiority
+Dominance
 
 ## Published (yes)
 
-May 08, 2019
+November 09, 2019
 
 ## Hanzi
 
-人之生也
-柔弱，
+人之生也柔弱，
 其死也堅強。
 
-萬物草木之生也
-柔脆，
+萬物草木之生也柔脆，
 其死也枯槁。
 
 故堅強者死之徒也，
@@ -5183,29 +5149,27 @@ May 08, 2019
 
 ## English
 
-A newborn babe
-is soft and weak,
-hard and strong in the end.
+A newborn babe, soft and weak,
+is stiff and stubborn in the end.
 
-Every flower and tree
-starts out soft and tender,
+Every new life, soft and tender,
 withers and rots in the end.
 
-Since hardness and strength describe death
-and softness and weakness describe life,
-the strong army doesn't win,
+Since hard and strong describe death
+and soft and weak describe life,
+strong armies don't win,
 hard timber splits.
 
-Big and strong are a disadvantage,
-soft and weak have the upper hand.
+Size and strength are liabilities,
+the small and weak have the upper hand.
 
 # Chapter 77
 
-Talent
+Virtue
 
 ## Published (yes)
 
-November 01, 2019
+November 13, 2019
 
 ## Hanzi
 
@@ -5222,10 +5186,8 @@ November 01, 2019
 損不足
 而奉有餘。
 
-孰能
-有餘
-而有以
-取奉於天者乎。
+孰能有餘
+而有以取奉於天者乎。
 
 唯有道者乎。
 
@@ -5242,18 +5204,16 @@ releasing when there's plenty,
 drawing when there's not enough.
 
 Since the universal way
-takes from the rich
-and gives to the poor,
+takes the extra
+and puts it where there's not enough,
 the human way is unnatural
 because it takes from the poor
 and serves the rich.
 
-Who among us is capable
-of having riches,
-but has what it takes
-to receive what the universe offers?
+How can we have plenty
+and share what the universe offers?
 
-Only those of us on the road.
+Only by following the way.
 
 So the wise take but don't keep it,
 build but don't stay there,
@@ -5376,7 +5336,7 @@ Utopia
 
 ## Published (yes)
 
-May 02, 2019
+November 09, 2019
 
 ## Hanzi
 
@@ -5414,7 +5374,7 @@ May 02, 2019
 
 ## English
 
-A small country,
+A small town,
 sparsely populated.
 
 Put them in squads and battalions
@@ -5437,7 +5397,7 @@ their clothing is beautiful,
 their ways are friendly,
 their homes are peaceful.
 
-Neighbouring countries
+Neighbouring towns
 are within sight of each other.
 
 Their chickens and dogs
