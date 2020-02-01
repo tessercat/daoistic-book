@@ -1,13 +1,20 @@
-# Glossary
+# A Glossary of Heaven and Earth
 
-Here are some notes on the vocabulary in
+Vocabulary notes for
 <a href="https://daoistic.ca/blog/philosophy" title="Blog post">The Philosophy of Heaven and Earth</a>.
+
+I started looking at this passage
+because it contains a phrase (不遠徙)
+that also appears in the _Dao De Jing_,
+and I decided to look at the passage in detail
+when I realized what an incredible resource it is
+on the physics of Daoist moral philosophy.
 
 Laozi is the pinyin spelling of 老子,
 but it's often written Lao Tzu.
 In either case,
-it refers to the old master,
-the purported author
+it refers to the Old Master,
+the reputed author
 of one of the foundational texts of Chinese civilization,
 the _Dao De Jing_.
 Every passage of the _Wenzi_
@@ -27,7 +34,7 @@ It's De of the _Dao De Jing_.
 Dao De is 道德,
 but if I were to offer an interpretation,
 it would be something like
-moral principles,
+moral principles
 and the _Dao De Jing_ would be
  _The Classic of Moral Principles_.
 
@@ -45,8 +52,8 @@ that isn't in Kroll (first edition),
 and isn't well represented in ctext,
 but that means something like a quiet sob.
 I've interpreted these terms as
-something like optimism and pessimism,
-the moral expression of yin and yang.
+positive and negative influence
+of leaders.
 
 Interpretations of 上, 高 and 下 
 vary depending on context,
@@ -120,27 +127,35 @@ are both 與 and 取.
 The passage quotes [chapter 38](https://daoistic.ca/studies/38)
 of the _Dao De Jing_
 and riffs on [chapter 77](https://daoistic.ca/studies/77)
-to explore them as the answer to the question
-of what makes something moral and what makes it immoral.
+to explore them as an answer to the question
+of what makes us moral and immoral.
 
 The waters are 澤,
 literally a swamp,
 but I've generalized it
 when it's compared to 天, the heavens,
-as something that the wise imitate.
+as something that the wise imitate (法).
 
 Rice patties and canals are both 洿澤,
-and though it's more literally wetlands,
-the term is used in the context of
-the life and death of human societies.
+and though the term refers more literally to wetlands,
+it's used in the context of
+the life and death of human societies,
+so I thought I'd use specific examples
+of wetlands tamed for human use,
+but also dependent on nature's rhythms.
 
 Water also appears in the passage
-as the spring of water (水泉)
+as the fresh water (水泉)
 that earth power (地勢) generates,
-as the rains (雨澤) that don't come
+as the rains (雨澤)
+that don't come
+to replenish the wetlands,
 and the gentle rain (雨)
-that accompanies thunder and helps life flourish,
-as the destructive river (河水深),
+that accompanies thunder and helps life flourish.
+It also appears
+as the destructive river (河水深)
+that harvests extra yang energy
+and sends it to the sea,
 and as the downward flow of water (水下流)
 that either sustains society
 or sinks and drowns it.
@@ -153,18 +168,19 @@ that great leaders manage to avoid.
 The paragraph on thunder and wind
 also plays on 去 and 就.
 As verbs, they're literally leave and approach,
-though repel and attract work as well.
-In either case, I think they describe
+but I think they describe
 the effect on something
 of the potential difference
-between yin and yang.
+between yin and yang,
+so perhaps repel and attract work as well.
 
 Behaving is 去就,
 and Kroll says this is accurate by the Tang.
 Many passages and phrases from the Tang-era _Wenzi_
 have echoes in _Huainanzi_ (early Han),
-but I can't find this passage in _Huainanzi_,
-and it works so well in English as behave.
+but I can't find the paragraph in _Huainanzi_,
+and it works so well in English as behave
+that I've used it here.
 I also like to think of people behaving
 as people repelled by this, attracted to that,
 but oscillating in balanced and predictable patterns
