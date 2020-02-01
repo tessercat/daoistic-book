@@ -13,18 +13,18 @@ debt is easy to repay.
 其禮易行也
 其責易賞也
 
-So being a student isn’t like being a politician
-and politicians aren’t teachers.
+So being a student isn't like being a politician
+and politicians aren't teachers.
 Teachers, farmers, builders, merchants,
 we all have different callings, separate concerns.
 That's why farmers talk to each other about crops
 and teachers talk about discipline.
 It's why builders talk about building
 and merchants talk about prices.
-That way teachers don’t lose control
-and builders don’t botch jobs.
-That way farmers don’t waste effort
-and merchants don’t lose money.
+That way teachers don't lose control
+and builders don't botch jobs.
+That way farmers don't waste effort
+and merchants don't lose money.
 Happy with our lot in life,
 we look different, think different,
 but we all do easy jobs and don't grumble,
@@ -49,10 +49,10 @@ get it right and get credit.
 得勢而貴
 
 Inventors and visionaries are geniuses,
-but a healthy society doesn’t expect much of people.
+but a healthy society doesn't expect much of people.
 Knowledgeable, ambitious, argumentative, eloquent,
 we all know they're talented,
-but an enlightened master doesn’t ask much of apprentices.
+but an enlightened master doesn't ask much of apprentices.
 Decadent societies are in decline,
 out of touch with changing times,
 and teachers are tyrants,
@@ -69,7 +69,7 @@ but healthy societies aren't trying to change people.
 
 That's why we don't hold students to impossibly high standards
 or expect institutions to live up to utopian ideals.
-That's why we don’t have philosopher kings
+That's why we don't have philosopher kings
 and everyone is expected to get a basic education.
 That's why we don't let idiots lead us
 and armed forces are subject to law.
@@ -88,13 +88,13 @@ and work with it.
 因其所有
 而並用之
 
-Society today has high expectations and blames us when we don’t measure up,
-gives us hard jobs and punishes us when we don’t succeed,
-sends us on dangerous missions and executes us when we aren’t brave.
+Society today has high expectations and blames us when we don't measure up,
+gives us hard jobs and punishes us when we don't succeed,
+sends us on dangerous missions and executes us when we aren't brave.
 People respond
 by polishing their stories and lying to authorities,
 by playing dirty tricks and taking stupid risks.
-Laws are harsh, punishment severe, but we can’t help ourselves.
+Laws are harsh, punishment severe, but we can't help ourselves.
 A cornered animal lashes out,
 a frightened hen will peck,
 desperate people lie.
