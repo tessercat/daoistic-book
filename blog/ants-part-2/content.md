@@ -4,8 +4,8 @@ Run with the horses and get trampled.
 It's impossible to get anywhere.
 Mount the chariot and take the reigns.
 The horses settle under the yoke.
-Bólè trained them,
-Wángliǎng harnessed them,
+Bole trained them,
+Wangliang harnessed them,
 and an enlightened master called for them.
 He did none of the work of training or tackling, but he drove them a thousand miles,
 admired by every expert charioteer.
@@ -33,10 +33,10 @@ and if he can't resist flattery, he can be seduced.
 諛即可誘
 
 In either case, when the power to appoint is at the mercy of others,
-it’s impossible to maintain institutions.
-Since good foundations don’t crumble,
+it's impossible to maintain institutions.
+Since good foundations don't crumble,
 promises to preserve them mean nothing.
-He can keep them only through spiritual transformation.
+He can keep them only through spiritual progress.
 夫以建而制於人者
 不能持國
 故善建者不拔
@@ -44,7 +44,7 @@ He can keep them only through spiritual transformation.
 唯神化者物莫能勝
 
 They say he's reliable when he doesn't act impulsively.
-They say he's confident when he doesn't let it get to him.
+They say he's confident when it doesn't get to him.
 They feel safe when he's self-possessed, tolerant of others.
 They succeed when he manifests confidence, embodies forebearance.
 中欲不出謂之赖
@@ -52,12 +52,12 @@ They succeed when he manifests confidence, embodies forebearance.
 中赖外閉何事不節
 外閉中赖何事不成
 
-That's why he doesn’t command them,
-doesn’t force them,
+That's why he doesn't command them,
+doesn't force them,
 but something motivates them,
 something makes them.
-He doesn’t doubt their competence,
-doesn’t do the work for them.
+He doesn't doubt their competence,
+doesn't do the work for them.
 He respects rank and expects results,
 orders the government to run itself.
 He leads the way in ignorance,
