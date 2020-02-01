@@ -1,6 +1,6 @@
 I started looking at this passage
 because it contains part of an obscure word (數窮)
-that also appears in [chapter 5 of the Dao De Jing](/studies/5).
+that also appears in [chapter 5](https://daoistic.ca/studies/5) of the Dao De Jing.
 I'm fairly sure that it means something like "find fault",
 but there are so many ways to read the phrase it appears in
 that I can't be sure of anything
