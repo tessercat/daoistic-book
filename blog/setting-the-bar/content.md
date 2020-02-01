@@ -26,7 +26,7 @@ and builders don’t botch jobs.
 That way farmers don’t waste effort
 and merchants don’t lose money.
 Happy with our lot in life,
-we look different, socialize separately,
+we look different, think different,
 but we all do easy jobs and don't grumble,
 make mistakes and get corrected,
 get it right and get credit.
@@ -48,7 +48,7 @@ get it right and get credit.
 失處而賤
 得勢而貴
 
-Innovators and visionaries are geniuses,
+Inventors and visionaries are geniuses,
 but a healthy society doesn’t expect much of people.
 Knowledgeable, ambitious, argumentative, eloquent,
 we all know they're talented,
@@ -57,16 +57,6 @@ Decadent societies are in decline,
 out of touch with changing times,
 and teachers are tyrants,
 but healthy societies aren't trying to change people.
-That's why they don't hold students to impossibly high standards
-or expect institutions to live up to some utopian ideal.
-That's why they don’t have philosopher kings
-and promote universal literacy.
-That's why they don't have idiots in charge
-and armed forces are subject to law.
-They don't look back to an ideal past
-and they're adaptable.
-They take what exists
-and work with it.
 夫先知遠見之人才之盛也
 而治世不以責於人
 博聞強志口辯辭給
@@ -76,6 +66,17 @@ and work with it.
 不從流俗
 士之伉行也
 而治世不以為化民
+
+That's why we don't hold students to impossibly high standards
+or expect institutions to live up to utopian ideals.
+That's why we don’t have philosopher kings
+and everyone is expected to get a basic education.
+That's why we don't let idiots lead us
+and armed forces are subject to law.
+We don't look back to an ideal past
+and we're adaptable.
+We take what exists
+and work with it.
 故高不可及者不以為人量
 行不可逮者不可為國俗
 故人才不可專用
