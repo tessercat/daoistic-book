@@ -24,8 +24,8 @@ flawless because it moves indivisibly as one.
 輪復其所轉故能致遠
 天行一不差故無過矣
 
-When energy rains down from the heavens, energy rises up from the earth,
-and yin and yang flow and mix and life is fair and balanced.
+When energy rains down from the heavens, energy rises up from the earth.
+Yin and yang flow and mix and life is fair and balanced.
 Good people are in charge and tyranny withers and dies.
 That's the Dao of heaven and earth.
 天氣下地氣上
@@ -33,8 +33,8 @@ That's the Dao of heaven and earth.
 君子用事小人消亡
 天地之道也
 
-When energy doesn't rain down from the heavens, energy doesn't rise up from the earth,
-and yin and yang don't mix and life is desperate.
+When energy doesn't rain down from the heavens, energy doesn't rise up from the earth.
+Yin and yang don't mix and life is desperate.
 Tyrants gain power and good people get killed.
 Crops don't grow and Dao De compensates.
 天氣不下地氣不上
@@ -67,7 +67,7 @@ Unity balances them and time connects them.
 Life is mature when it recognizes Dao.
 Great Dao is wide and easy. If we leave it behind, it's not far.
 We manifest its character when we cultivate it within.
-We sustain its character when we nurture it in others.
+We sustain its character when we promote it in others.
 天道為丈地道為理
 一為之和時為之使
 以成萬物命之曰道
@@ -148,8 +148,8 @@ That's Heaven's Dao.
 
 Positive energy motivates everything to settle down and take its place,
 so the wise follow yang Dao.
-When we follow it, it follows us,
-and when we resist it, it resists us,
+When we follow something, it follows us,
+and when we resist something, it resists us,
 and that's why we can't forget its true nature.
 陽氣動萬物緩而得其所
 是以聖人順陽道
@@ -157,7 +157,7 @@ and that's why we can't forget its true nature.
 逆物者物亦逆之
 故不失物之情性
 
-Rice patties fill when the rhythm of life is complete,
+Rice patties fill when the rhythm of life matures,
 and canals drain when life has no rhyme or reason.
 That's why societies collapse when the rains don't come.
 洿澤盈萬物節成
@@ -210,10 +210,10 @@ and everything runs and hides when tyrants rule.
 小人居民上萬物逃匿
 
 Life stirs to the sound of thunder,
-and life blossoms to the patter of rain.
+and life blossoms in the patter of rain.
 The influence of a great leader is something like this.
 Yin and yang motivate us to take their rhythm,
-and great leaders keep us from going too far.
+and great leaders keep us from losing the beat.
 雷之動也萬物啟
 雨之潤也萬物解
 大人施行有似於此

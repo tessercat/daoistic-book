@@ -6,7 +6,7 @@ Mount the chariot and take the reigns.
 The horses settle under the yoke.
 Bole trained them,
 Wangliang harnessed them,
-and an enlightened master called for them.
+an enlightened master called for them.
 He did none of the work of training or tackling, but he drove them a thousand miles,
 admired by every expert charioteer.
 與馬逐走筋絕
@@ -44,7 +44,7 @@ He can keep them only through spiritual progress.
 唯神化者物莫能勝
 
 They say he's reliable when he doesn't act impulsively.
-They say he's confident when it doesn't get to him.
+They say he's confident when he doesn't let it get to him.
 They feel safe when he's self-possessed, tolerant of others.
 They succeed when he manifests confidence, embodies forebearance.
 中欲不出謂之赖
