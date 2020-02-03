@@ -95,21 +95,38 @@ and it's what Dao De does
 when yin and yang don't mix
 and the five grains don't grow.
 
+Protecting and supporting life are 覆 and 載.
+While 覆 is normally translated as covering,
+both terms are paired with phrases that make heaven and earth seem parental,
+so I've taken the liberty.
+
+The gift of morality
+that shines down from the heavens
+and makes us moral is 施.
+It's also what we can do repeatedly when we
+limit (畜) yang energy.
+
+The earth's embodiment of the heavens is 承,
+a verb to describe the earth receiving, submitting to or accepting
+the moral law granted by the the heavens.
+
+Cultivating and promoting morality
+in self and others is 脩.
+[Chapter 54](https://daoistic.ca/studies/54) of the _Dao Do Jing_
+uses the same character to explain
+the role of tradition in Daoist moral cultivation.
+
 Shine and enlightenment are 明,
 mature and complete are both 成,
 and the rhythm of life is 萬物節.
 
-The gift of morality
-that shines down from the heavens
-and makes us moral
-is 施,
-a word that doesn't appear
-in the _Dao De Jing_.
-
 Progress and change are 化.
 It's the enlightened moral transformation
 that takes place naturally when we stay on 大道,
-the great Dao.
+the great Dao,
+and it's what we can do repeatedly
+when we limit yang energy
+and collect potential (積) yin energy.
 
 The lord of life and the mother of civilization
 are 萬物主 and 天下母.

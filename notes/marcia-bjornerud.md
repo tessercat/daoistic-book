@@ -1,18 +1,17 @@
 Hi Marcia,
 
-I hope it's all right for me to contact you at your work email.
+I hope it's all right for me to contact you at your work address for this.
 
 I've been teaching myself to read classical Chinese
-so I can read and interpret the _Dao De Jing_ for myself,
-and I've been thinking about _Reading the Rocks_ quite a lot lately
+so I can read and interpret the _Dao De Jing_
+in something like the original,
+and I've been thinking a lot about _Reading the Rocks_ lately
 as I interpret a passage from _Wenzi_ on Daoist cosmology.
 
-I'm not an expert in Daoism or classical Chinese,
-just an old software developer with a blog,
-but I think I've channeled the gist of the passage
-as accurately and readably as I can.
-I hope you find it
-a worthy expression of gratitude
-for _Reading the Rocks_.
+I'm not sure that I fully understand the passage,
+and the moralizing is a big much,
+but I was fascinated by its description of the physics of sky, earth and life,
+and it brought _Reading the Rocks_ to mind,
+so I thought you might enjoy it as well.
 
 https://daoistic.ca/blog/philosophy
