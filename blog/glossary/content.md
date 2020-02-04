@@ -100,12 +100,6 @@ While 覆 is normally translated as covering,
 both terms are paired with phrases that make heaven and earth seem parental,
 so I've taken the liberty.
 
-The gift of morality
-that shines down from the heavens
-and makes us moral is 施.
-It's also what we can do repeatedly when we
-limit (畜) yang energy.
-
 The earth's embodiment of the heavens is 承,
 a verb to describe the earth receiving, submitting to or accepting
 the moral law granted by the the heavens.
@@ -120,13 +114,14 @@ Shine and enlightenment are 明,
 mature and complete are both 成,
 and the rhythm of life is 萬物節.
 
+The gift of morality
+that shines down from the heavens
+and makes us moral is 施.
+It's also what we can do repeatedly
+when we limit (畜) yang energy.
 Progress and change are 化.
-It's the enlightened moral transformation
-that takes place naturally when we stay on 大道,
-the great Dao,
-and it's what we can do repeatedly
-when we limit yang energy
-and collect potential (積) yin energy.
+It's the enlightened moral transformation that takes place
+when we collect potential (積) yin energy.
 
 The lord of life and the mother of civilization
 are 萬物主 and 天下母.
