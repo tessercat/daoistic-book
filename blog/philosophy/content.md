@@ -191,7 +191,7 @@ and civilizations die when yin Dao prevails.
 故王公尚陽道則萬物昌
 尚陰道則天下亡
 
-Life is incomplete when yang doesn't defer to yin,
+Life is immature when yang doesn't defer to yin,
 and moral change doesn't come when sovereigns don't defer to ministers.
 That's why reforms are enlightened when sovereigns defer.
 They're blind and deaf when they don't.
@@ -230,8 +230,8 @@ Most people don't like conflict and welcome the relief.
 去尤甚而就少愈者多
 
 When the winds don't blow, fires don't rise,
-and when great leaders are silent, there's nothing for troublemakers to criticize.
-When fires rage, they need fuel,
+and great leaders are silent so there's nothing for troublemakers to criticize.
+When fires start, they need fuel,
 so when great leaders speak, they stick to the facts.
 What could go wrong when they're sincere and tell the truth?
 風不動火不出
