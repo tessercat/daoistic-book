@@ -19,14 +19,14 @@ Teachers, farmers, builders, merchants,
 we all have different callings, separate concerns.
 That's why farmers talk to each other about crops
 and teachers talk about discipline.
-It's why builders talk about building
+It's why builders talk to each other about building
 and merchants talk about prices.
 That way teachers don't lose control
 and builders don't botch jobs.
 That way farmers don't waste effort
 and merchants don't lose money.
 Happy with our lot in life,
-we look different, think different,
+we train separately, we're organized differently,
 but we all do easy jobs and don't grumble,
 make mistakes and get corrected,
 get it right and get credit.
