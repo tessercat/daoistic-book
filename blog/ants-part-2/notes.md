@@ -1,11 +1,19 @@
 I started looking at this passage
-because it contains part of an obscure word (數窮)
+because it contains part of an obscure term (數窮)
 that also appears in [chapter 5](https://daoistic.ca/studies/5) of the Dao De Jing.
-I'm fairly sure that it means something like "find fault",
-but there are so many ways to read the phrase it appears in
-that I can't be sure of anything
-except that it's about what happens
-when a boss likes doing a servant's work.
+I also looked closely
+at a passage in [Lu Shi Chun Qiu](https://ctext.org/pre-qin-and-han?searchu=數窮)
+that contains the full phrase (數窮於其下),
+and it turned out to be
+another warning on the dangers of micro-managing.
+The passage goes into some detail
+on how meritocracies end up with snarky, exhausted leadership,
+and adds a pointed question
+that makes me think it's not a stretch
+to interpret the full phrase (於其下)
+to mean something like
+venting frustration on subordinates
+or maybe taking it out on subordinates.
 
 As the beached whale is at the mercy of ants,
 the activist prince is at the mercy of 有司,
