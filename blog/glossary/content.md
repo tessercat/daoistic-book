@@ -218,9 +218,7 @@ and get things done together,
 I think civilized works quite well.
 [Chapter 80](https://daoistic.ca/studies/80)
 of the Dao De Jing
-uses the term as an explanation
-of why you shouldn't send people into danger,
-and I think it works equally well there.
+uses the term as well.
 
 Making promises and exaggerating is 欲不可盈樂不可極.
 The phrase is literally that
