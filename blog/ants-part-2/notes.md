@@ -10,10 +10,10 @@ The passage goes into some detail
 on how meritocracies end up with snarky, exhausted leadership,
 and adds a pointed question
 that makes me think it's not a stretch
-to interpret the full phrase (於其下)
+to interpret the full phrase
 to mean something like
 venting frustration on subordinates
-or maybe taking it out on subordinates.
+or taking it out on subordinates.
 
 As the beached whale is at the mercy of ants,
 the activist prince is at the mercy of 有司,

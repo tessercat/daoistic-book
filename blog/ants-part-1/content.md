@@ -22,7 +22,7 @@ Instead, they hold superiors accountable by serving them.
 
 When a prince doesn't trust experts and likes getting involved,
 his judgement gets worse every day and he has only himself to blame.
-He's not being reasonable when he vents his frustration on subordinates,
+He's can't be rational when he takes it out on subordinates,
 and he can't be in charge when he steps down from the throne.
 When his judgement no longer inspires obedience
 and his position no longer commands respect,
