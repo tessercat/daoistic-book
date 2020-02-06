@@ -4,57 +4,39 @@ Community
 
 ## Published
 
-May 02, 2019
+February 05, 2020
 
 ## Hanzi
 
-道可道也。
+道可道也
+非恆道也
+名可名也
+非恆名也
 
-非恆道也。
+無名天地之始也
+有名萬物之母也
 
-名可名也。
+故恆無欲也以觀其妙
+恆有欲也以觀其所徼
 
-非恆名也。
+兩者同出
+異名同謂
 
-無名
-天地之始也，
-
-有名
-萬物之母也。
-
-故恆無欲也
-以觀其妙。
-
-恆有欲也
-以觀其所徼。
-
-兩者同出，
-異名同謂。
-
-玄之有玄，
-眾妙之門。
+玄之有玄
+眾妙之門
 
 ## English
 
-It's a way you can go.
+Principles that can be described
+aren't the eternal way,
+and words that can be defined
+aren't the eternal word.
 
-It's not the usual way.
+Naming nothing is the beginning of heaven and earth,
+and naming something is the mother of everything.
 
-It's a word you can say.
-
-It's not a normal word.
-
-Nameless,
-it's the conception of heaven and earth.
-
-Named,
-it's the mother of everything.
-
-So never expect anything,
-discover her secrets.
-
-Always expecting something,
-discover her sorrow.
+Never expect anything to discover her secrets,
+and always want something to discover her sorrow.
 
 Dualities emerge together,
 opposites have meaning together.
@@ -256,9 +238,9 @@ parent of Xiangdi, saints of old.
 
 Neutrality
 
-## Published
+## Published (yes)
 
-January 06, 2020
+February 04, 2020
 
 ## Hanzi
 
@@ -288,10 +270,10 @@ They treat everyone like straw dogs.
 Between heaven and earth,
 isn't it like a bellows?
 
-It's empty, but it doesn't collapse.
-Force it and more comes out.
+Empty, but it doesn't collapse.
+Pump and more comes out.
 
-Lecturing and criticizing
+Chattering and complaining
 aren't the same as staying neutral.
 
 # Chapter 6
@@ -376,28 +358,28 @@ Opinions
 
 ## Published
 
-December 04, 2019
+February 05, 2020
 
 ## Hanzi
 
-上善如水。
+上善如水
 
 水善利萬物
-而不爭。
+而不爭
 
-居眾之所惡.，
-故幾於道矣。
+居眾之所惡
+故幾於道矣
 
-居善地。
-心善淵。
-予善仁。
-言善信。
-正善治。
-事善能。
-動善時。
+居善地
+心善淵
+予善仁
+言善信
+正善治
+事善能
+動善時
 
 夫唯不爭
-故無尤。
+故無尤
 
 ## English
 
@@ -426,7 +408,7 @@ Retirement
 
 ## Published
 
-January 09, 2020
+January 22, 2020
 
 ## Hanzi
 
@@ -459,7 +441,7 @@ who'll keep it safe?
 Ambitious for wealth and power,
 you have only yourself to blame.
 
-Achieve and retire,
+Step up and step back,
 it's the universal way.
 
 ## Notes
@@ -608,7 +590,7 @@ Intuition
 
 ## Published
 
-November 20, 2019
+February 05, 2020
 
 ## Hanzi
 
@@ -632,11 +614,11 @@ November 20, 2019
 ## English
 
 Bright colors tire the eye,
-strong flavour numbs the mouth,
+strong flavours numb the mouth,
 loud music deafens the ear.
 
-Racing and hunting
-drive us crazy.
+The autumn hunt
+drives people insane.
 
 The finer things
 get in the way.
@@ -664,71 +646,67 @@ Politics
 
 ## Published
 
-December 17, 2019
+January 22, 2020
 
 ## Hanzi
 
-寵辱若驚，
-貴大患若身。
+寵辱若驚
+貴大患若身
 
 何謂
-寵辱？
+寵辱
 
-寵為下也。
+寵為下也
 
-得之若驚，
-失之若驚，
+得之若驚
+失之若驚
 是謂
-寵辱驚。
+寵辱驚
 
 何謂
-貴大患若身？
+貴大患若身
 
 吾所以有大患者
-為吾有身。
+為吾有身
 
-及吾無身，
-有何患？
+及吾無身
+有何患
 
-故貴為身
-於為天下
-若可以託天下矣。
+故貴以身為天下
+若可託天下矣
 
-愛為身
-於為天下
-若可以寄天下矣。
+愛以身為天下
+若可寄天下矣
 
 ## English
 
 Privilege is as dangerous as punishment,
-good is as selfish as evil.
+and nobility is as personal as tragedy.
 
 What were they saying
 about privilege and punishment?
 
 Privilege is a put down.
 
-When getting it means trouble
-and forgetting it means trouble,
+When getting it was trouble
+and forgetting it was trouble,
 they were right to say
 that privilege and punishment are dangerous.
 
 Why did they say
-that good is as selfish as evil?
+that nobility is as personal as tragedy?
 
-We're evil when
-we're selfish.
+It's tragic to me
+when I take it personally.
 
-When we're selfless,
-who gets hurt?
+When I don't take it personally,
+why should I care?
 
-Since goodness rules you
-when you rule the world,
-the world trusts you,
+That's why it's noble to take it personally
+as a responsibility to the world.
 
-and since compassion disciplines you
-when you discipline the world,
-the world obeys.
+It's compassionate to take it personally
+as a commitment to the world.
 
 # Chapter 14
 
@@ -1021,41 +999,39 @@ Acceptance
 
 ## Published (yes)
 
-December 31, 2019
+February 05, 2020
 
 ## Hanzi
 
-太上
-下知有之，
-其次親譽之，
-其次畏之，
-其次侮之。
+太上下知有之
+其次親譽之
+其次畏之
+其次侮之
 
-信不足焉，
-有不信焉，
-悠呵其貴言也。
+信不足
+案有不信
 
-功成
-事遂，
+悠呵其貴言也
+
+功成事遂
 百姓皆謂
-我自然也。
+我自然也
 
 ## English
 
-In the beginning
-people knew they had them,
-but then they were loved,
-then they were feared,
-then they were hated.
+At first, subordinates know they have one,
+then they flatter you,
+then they respect you,
+then they make fun of you.
 
-They don't trust them
-and they aren't trusted,
-but they have such high standards.
+When you don't trust them,
+don't expect them to trust you.
 
-They get ahead
-and they get their way,
-but the people all say
-it's only natural.
+Your noble ideals are far from reality.
+
+Just do your job and do it well,
+and everyone else will say
+they did it themselves.
 
 ## Notes
 
@@ -1180,7 +1156,7 @@ Mothers
 
 ## Published (yes)
 
-December 26, 2019
+January 22, 2020
 
 ## Hanzi
 
@@ -1264,7 +1240,7 @@ Everyone else got it
 and I just got lost.
 
 My poor brain,
-it was so confusing.
+I was so confused.
 
 Their arguments were brilliant,
 and I was just so dim.
@@ -1634,82 +1610,82 @@ Only R have 跨者不行.
 
 Natural Law
 
-## Published
+## Published (yes)
 
-May 03, 2019
+January 30, 2020
 
 ## Hanzi
 
-有狀混成
-先天地生。
+有物混成
+先天地生
 
-寂漻，
-獨立不改，
-可以為天下母。
+寂漻
+獨立不改
+可以為天下母
 
-未知其名。
+未知其名
 
-字之曰道。
+字之曰道
 
-吾強為之名，
-曰大。
+吾強為之名
+曰大
 
 大
-曰逝。
+曰逝
 
 逝
-曰遠。
+曰遠
 
 遠
-曰反。
+曰反
 
-天大，
-地大，
-道大，
-王亦大。
+天大
+地大
+道大
+王亦大
 
-域中有四大，
-而王居一焉。
+域中有四大
+而王居一焉
 
-人法地，
-地法天，
-天法道，
-道法自然。
+人法地
+地法天
+天法道
+道法自然
 
 ## English
 
-Reality was whole and complete
+There was something uniform and perfect
 before the creation of heaven and earth.
 
 In silent stillness,
 in unchanging solitude,
-you can think of it as the world's mother.
+think of it as society's mother.
 
 No one knows how to describe it.
 
 I call it Dao.
 
 If you ask me to describe it,
-I call it great.
+I'll call it great.
 
 Greatness,
 I call that mortality.
 
 Mortality,
-I call that going away.
+I call that separation.
 
-Going away,
-I call that coming back.
+Separation,
+I call that revolution.
 
 The heavens are great,
 the earth is great,
 Dao is great,
-kings are great too.
+and kings are great too.
 
-The middle realm has four great pillars,
-kings make up but one of them.
+The greatness of the middle realm is four-fold,
+and kings are but part of one.
 
-Human beings are to the earth,
+Humanity is to the earth,
 as the earth is to the universe,
 as the the universe is to Dao,
 as Dao is to what is.
@@ -2500,115 +2476,71 @@ Everything would work itself out.
 
 Faith
 
-## Published
+## Published (yes)
 
-June 22, 2019
+January 30, 2020
 
 ## Hanzi
 
-上德不德，
-是以有德。
+上德不德是以有德
+下德不失德是以無德
 
-下德不失德，
-是以無德。
+上德無為而無以為也
+下德為之而有以為也
 
-上德無為
-而無以為也。
+上仁為之而無以為也
+上義為之而有以為也
 
-上仁為之
-而無以為也。
+上禮為之而莫之應也
+則攘臂而扔之故失道
 
-上義為之
-而有以為也。
+失道矣而後德
+失德而後仁
+失仁而後義
+失義而後禮
 
-上禮為之
-而莫之應也，
-則攘臂
-而扔之，
-故失道。
+夫禮者
+忠信之薄也
+而亂之首也
 
-失道矣
-而後德。
-
-失德
-而後仁。
-
-失仁
-而後義。
-
-失義
-而後禮。
-
-夫禮者，
-忠信之泊也
-而亂之首也。
-
-前識者，
+前識者
 道之華也
-而愚之首也。
+而愚之[始首]也
 
-是以大丈夫
-居其厚
-而不居其泊。
-
-居其實
-而不居其華。
-
-故去彼
-取此。
+是以大丈夫[處居]其厚而不居其[薄泊]
+[處居]其實而不居其華
+故去彼取此
 
 ## English
 
-The higly moral don't moralize,
-so they have character.
+The highly moral are moral because they don't moralize,
+and the least moral are immoral because they can't stop moralizing.
 
-The least moral don't fail to moralize,
-so they have no character.
+The highly moral do nothing and expect nothing,
+and the least moral do it but expect something in return.
 
-The very moral do nothing
-but don't expect anything.
+The truly kind do it and expect nothing in return,
+and the highly responsible do it and do what's expected.
 
-The very kind do something
-but don't expect anything.
+When the truly righteous do it and we're not worthy,
+when they threaten and denounce us, they lose their way.
 
-The very responsible do something
-but they have expectations.
+They've lost their way and they're not moral.
+They're not moral and they're not kind.
+They're not kind and they're not responsible.
+They're not responsible and they're not righteous. 
 
-When the very righteous do something,
-and no one appreciates it,
-when they threaten
-and denounce us,
-they lose the way.
-
-They've lost the way
-and stop being moral.
-
-Fail to be moral
-and stop being kind.
-
-Fail to be kind
-and stop being responsible.
-
-Fail to be responsible
-and stop being righteous.
-
-Conservative men,
+Such righteous men,
 authorities on legitimacy,
 yet they incite us to violence.
 
-Visionaries,
-[flower of Dao],
+Such visionaries,
+prophets of Dao,
 yet they pander to rubes.
 
-So truly great men
-rely on respect,
-and not on authority.
-
-They rely on facts,
-and not on [flower].
-
-So reject that,
-accept this.
+So truly great leaders rely on respect, not authority,
+on facts, not dogma,
+and they stay away from one to get the other.
 
 ## Notes
 
@@ -2622,7 +2554,7 @@ Authenticity
 
 ## Published (yes)
 
-December 31, 2019
+February 01, 2020
 
 ## Hanzi
 
@@ -2718,7 +2650,7 @@ would extinguish the gods,
 endless bounty
 would exhaust the fields,
 
-endless ranks of aristocrats
+endless ranks of privileged elites
 would topple lords and kings.
 
 That's why they were elite
@@ -2890,7 +2822,7 @@ Principles
 
 ## Published
 
-December 31, 2019
+January 31, 2020
 
 ## Hanzi
 
@@ -2936,7 +2868,7 @@ the undeserving,
 but kings and princes
 took them as namesakes
 because some things harm us but help,
-and some help us but harm.
+some help us but harm.
 
 Others teach it,
 and we teach it too,
@@ -2961,7 +2893,7 @@ Progress
 
 ## Published
 
-June 22, 2019
+January 31, 2020
 
 ## Hanzi
 
@@ -2991,7 +2923,7 @@ the substantial benefit of doing nothing.
 
 Learn from silence,
 get ahead by doing nothing,
-the rest of the world can barely keep up.
+and the rest of the world can barely keep up.
 
 ## Notes
 
@@ -3006,43 +2938,33 @@ Stamina
 
 ## Published
 
-July 12, 2019
+January 31, 2020
 
 ## Hanzi
 
-名與身
-孰親？
+名與身孰親
+身與貨孰多
+得與亡孰病
 
-身與貨
-孰多？
+甚愛必大費
+多藏必厚亡
 
-得與亡
-孰病？
-
-甚愛必大費，
-厚藏必多亡。
-
-故知足不辱，
-知止不殆，
-可以長久。
+知足不辱
+知止不殆.
+可以長久
 
 ## English
 
-Reputation or character,
-which is more important?
+Honour or life, which is more important?
+Health or money, which is more valuable?
+Winning or losing, which is more trouble?
 
-Character or money,
-which is more valuable?
+True love is so expensive
+and a huge fortune is a lot to lose.
 
-Profit or loss,
-which is more trouble?
-
-True love is so expensive,
-a fortune is so much to lose.
-
-Since there's no shame in realizing that you're content,
-and no risk in realizing that it's time to stop,
-that's how to let them grow and last.
+Being content and not being ashamed,
+and knowing when to quit and not taking risks
+are what it takes to make them grow and last.
 
 ## Notes
 
@@ -3132,26 +3054,21 @@ Contentment
 
 ## Published (yes)
 
-November 09, 2019
+February 01, 2020
 
 ## Hanzi
 
 天下有道
-卻走馬以糞。
+卻走馬以糞
 
 天下無道
-戎馬生於郊。
+戎馬生於郊
 
-罪莫厚
-於甚欲，
+罪莫厚於甚欲
+咎莫憯於欲得
+禍莫大於不知足
 
-咎莫憯
-於欲得，
-
-禍莫大
-於不知足。
-
-知足之為足，
+知足之為足
 此恆足矣
 
 ## English
@@ -3162,14 +3079,9 @@ when old pack horses are put out to pasture.
 The world has lost its way
 when war horses breed in the fields.
 
-There's no sin more seductive
-than greed,
-
-no fate more tragic
-than a dream come true,
-
-nothing more painful
-than never being satisfied.
+There's no sin richer than greed,
+no fate more tragic than a dream come true,
+nothing more painful than never being satisfied.
 
 Be thankful for having enough,
 that's always enough.
@@ -3250,21 +3162,17 @@ Ambition
 
 ## Published (yes)
 
-May 02, 2019
+January 30, 2020
 
 ## Hanzi
 
-為學者日
-益。
+為學者日益
+為道者日損
 
-為道者日
-損。
+損之有損
+以至於無為也
 
-損之有損，
-以至於無為也。
-
-無為
-而無不為。
+無為而無不為。
 
 取天下恆
 以無事。
@@ -3274,17 +3182,13 @@ May 02, 2019
 
 ## English
 
-Practice every day
-and get better.
-
-Follow the way every day
-and get worse.
+Practice every day and get better,
+follow the way every day and get worse.
 
 Get worse and worse
 till you end up doing nothing.
 
-You're doing nothing
-but nothing's left undone.
+Doing nothing, but nothing's left undone.
 
 Always get ahead in the world
 by having no work to do.
@@ -3508,75 +3412,67 @@ They say it's Xuande, deeply moral.
 
 # Chapter 52
 
-Permanence
+Persistence
 
-## Published
+## Published (yes)
 
-June 22, 2019
+February 04, 2020
 
 ## Hanzi
 
-天下有始，
-以為天下母。
+天下有始
+以為天下母
 
-既復其母
-以知其子。
+既知其母
+復知其子
+既知其子
+復守其母
+沒身不殆
 
-既知其子，
-復守其母，
-沒身不殆。
+塞其兌閉其門
+終身不勤
 
-塞其兌，
-閉其門，
-終身不勤。
-
-啟其悶，
-濟其事，
-終身不救。
+開其兌濟其事
+終身不救
 
 見小
-曰明。
-
+曰明
 守柔
-曰強。
+曰強
 
-用其光，
-復歸其明，
-無遺身殃。
+用其光
+復歸其明
+無遺身殃
 
-是謂襲常。
+是謂習常
 
 ## English
 
-Something gave birth to [civilization],
-think of it as [civilization]'s mother.
+Society exists for a reason.
+Think of it as society's mother.
 
-When you contemplate the mother,
-you'll understand her child.
+When you recognize the mother,
+go back and think about her children,
+and when you understand her children,
+go back and protect the mother,
+and you'll never be in danger.
 
-Once you understand the child,
-[devote yourself to] the mother,
-[live a life] of integrity.
+Close the shutters and bar the gate
+and you won't worry about anything.
 
-Board up the windows,
-bar the gate,
-[spend your life] [not merit].
+Open the shutters and support the cause
+and you won't save anyone.
 
-Throw open the shutters,
-take up the cause,
-[spend your life] [not helping].
+Looking out for the weak
+is called enlightenment,
+and protecting the vulnerable
+is strength.
 
-Paying attention to the details,
-that's [smart].
+Shine her light
+and return once again to her wisdom
+and you won't get left behind.
 
-Protecting the weak,
-that's strength.
-
-Guided by her light,
-[report back on] her [intelligence],
-[you won't miss out on the pain of life].
-
-This one's called facing facts.
+This one's called Xichang, regular exercise.
 
 ## Notes
 
@@ -3651,100 +3547,50 @@ it's the wrong way.
 
 Human Nature
 
-## Published
+## Published (yes)
 
-November 23, 2019
+February 03, 2020
 
 ## Hanzi
 
-善建者
-不拔。
+善建者不拔
+善抱者不脫
+子孫以其祭祀不輟
 
-善抱者
-不脫。
+修之身其德乃真
+修之家其德有餘
+修之鄉其德乃長
+修之邦其德乃豐
+修之天下其德乃博
 
-子孫以其
-祭祀不輟。
+以身觀身
+以家觀家
+以鄉觀鄉
+以邦觀邦
+以天下觀天下
 
-修之身，
-其德乃真。
-
-修之家，
-其德有餘。
-
-修之鄉，
-其德乃長。
-
-修之邦，
-其德乃豐。
-
-修之天下，
-其德乃博。
-
-以身
-觀身。
-
-以家
-觀家。
-
-以鄉
-觀鄉。
-
-以邦
-觀邦。
-
-以天下
-觀天下。
-
-吾何以知
-天下之然？
-
-以此。
+吾何以知天下之然
+以此
 
 ## English
 
-Good foundations
-don't crumble.
+Good foundations don't crumble,
+good bonds aren't easy to break,
+and family lines don't end when they follow traditions.
 
-Good bonds
-aren't easy to break.
+Cultivate them within, their morality becomes reality,
+practice them as a family, their morality gathers momentum,
+promote them in the community, their morality becomes growth,
+teach them in the nation, their morality becomes abundance,
+practice them in society, their morality becomes tolerance.
 
-They're why our descendants
-won't stop following tradition.
+Every person has them,
+every family has them,
+every community has them,
+every nation has them,
+every society has them.
 
-We develop it in ourselves
-and character becomes real.
-
-Apply it in the family
-and character gathers momentum.
-
-Promote it in the community
-and character becomes leadership.
-
-Deepen it in the nation
-and character becomes abundant.
-
-Practice it in the world
-and character becomes pervasive.
-
-Within ourselves,
-we find ourselves.
-
-Within the family,
-we appreciate family.
-
-In the community,
-we celebrate community.
-
-In the nation,
-we watch over the nation.
-
-In the world,
-we discover the world.
-
-How do I know
-what the world is like?
-
+So how do I know what society is like?
 Like this.
 
 ## Notes
@@ -5160,7 +5006,7 @@ Virtue
 
 ## Published (yes)
 
-November 13, 2019
+January 22, 2020
 
 ## Hanzi
 
@@ -5188,11 +5034,11 @@ November 13, 2019
 
 ## English
 
-The universal way is like an archer,
-pulling down the top,
-lifting up the bottom,
-releasing when there's plenty,
-drawing when there's not enough.
+The universal way is like an archer
+who pulls down the top,
+lifts up the bottom,
+releases when there's plenty,
+draws when there's not enough.
 
 Since the universal way
 takes the extra
@@ -5327,66 +5173,64 @@ Utopia
 
 ## Published (yes)
 
-December 06, 2019
+February 05, 2020
 
 ## Hanzi
 
-小國
-寡民。
+小國寡民
 
-使有十百人器
-而勿用。
+使有什伯之器
+而勿用
 
 使民重死
-而遠徙。
+而不遠徙
 
-有周車
-無所乘之。
+雖有周車
+無所乘之
 
-有甲兵
-無所陳之。
+雖有甲兵
+無所陳之
 
 使民復結繩
-而用之。
+而用之
 
-甘其食，
-美其服，
-樂其俗，
-安其居。
+甘其食
+美其服
+安其居
+樂其俗
 
 鄰國
-相望。
+相望
 
 雞犬之聲
-相聞。
+相聞
 
 民至老死
-不相往來。
+不相往來
 
 ## English
 
-A small town,
-a few people.
+A small town, a few people.
 
-Put them in squads and battalions
-but they'll never drill.
+Give them tools that do the work of ten,
+but they won't use them.
 
-Put the fear of death in them
-but they'll just desert.
+Threaten them with consequences,
+but they're civilized.
 
-You might have chariots,
-there's no point in manning them.
+They have war chariots
+they don't take anywhere.
 
-You might have soldiers,
-there's no point in mustering them.
+They have armor and weapons
+they don't show off.
 
-Put them back in civilian life
+Give them back their plumb lines
 and take them as they are.
 
 Their food is delicious,
 their clothing is beautiful,
-their ways are friendly,
-their homes are peaceful.
+their homes are peaceful,
+their parties are fun.
 
 Neighbouring towns
 are within sight of each other.
