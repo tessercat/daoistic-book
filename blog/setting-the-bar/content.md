@@ -48,7 +48,7 @@ get it right and get credit.
 失處而賤
 得勢而貴
 
-Inventors and visionaries are geniuses,
+Prophets and visionaries are geniuses,
 but a healthy society doesn't expect much of people.
 Knowledgeable, ambitious, argumentative, eloquent,
 we all know they're talented,
@@ -71,7 +71,7 @@ That's why we don't hold students to impossibly high standards
 or expect institutions to live up to utopian ideals.
 That's why we don't have philosopher kings
 and everyone is expected to get a basic education.
-That's why we don't let idiots lead us
+That's why we don't let idiots lead
 and armed forces are subject to law.
 We don't look back to an ideal past
 and we're adaptable.
@@ -88,7 +88,7 @@ and work with it.
 因其所有
 而並用之
 
-Society today has high expectations and blames us when we don't measure up,
+Society today sets a high bar and blames us when we don't measure up,
 gives us hard jobs and punishes us when we don't succeed,
 sends us on dangerous missions and executes us when we aren't brave.
 People respond
