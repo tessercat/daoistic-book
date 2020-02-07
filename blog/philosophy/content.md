@@ -42,11 +42,11 @@ Crops don't grow and Dao De compensates.
 小人得勢君子消亡
 五穀不植道德內藏
 
-The Dao of the heavens eases pressure and fills empty space.
-The Dao of earth erodes the heights and fills the hollows.
-The Dao of gods frightens the comfortable and helps the oppressed.
-The Dao of man hoards and doesn't help.
-The Dao of the wise is humble but nothing could be higher.
+Dao of the heavens eases pressure and fills empty space.
+Dao of earth erodes the heights and fills the hollows.
+Dao of gods frightens the comfortable and helps the oppressed.
+Dao of man hoards and doesn't help.
+Dao of the wise is humble but nothing could be higher.
 天之道損盈益寡
 地之道損高益下
 鬼神之道驕溢與下
@@ -62,7 +62,7 @@ to enlighten those who shine the light, to enlighten their progress.
 有四明乃能長久
 明其施明者明其化也
 
-Heaven's Dao makes the laws and earth Dao obeys them.
+Universal Dao makes the laws and earth Dao obeys them.
 Unity balances them and time connects them.
 Life is mature when it recognizes Dao.
 Great Dao is wide and easy. If we leave it behind, it's not far.
@@ -140,7 +140,7 @@ When it's happy, it's never upset.
 When yin destroys, yang adapts.
 Yin advances, yang retreats.
 Tyrants gain power and good people escape unharmed.
-That's Heaven's Dao.
+That's universal Dao.
 陰害物陽自屈
 陰進陽退
 小人得勢君子避害
