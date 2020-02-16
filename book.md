@@ -4,7 +4,7 @@ Community
 
 ## Published
 
-February 05, 2020
+February 06, 2020
 
 ## Hanzi
 
@@ -27,16 +27,16 @@ February 05, 2020
 
 ## English
 
-Principles that can be described
-aren't the eternal way,
-and words that can be defined
-aren't the eternal word.
+A way that can be followed
+isn't the eternal way,
+and a word that can be defined
+isn't the eternal word.
 
-Naming nothing is the beginning of heaven and earth,
-and naming something is the mother of everything.
+Not calling it anything is the beginning of heaven and earth,
+and calling it something is the mother of everything.
 
-Never expect anything to discover her secrets,
-and always want something to discover her sorrow.
+Never expect anything to discover its secrets,
+and always want something to discover its sorrow.
 
 Dualities emerge together,
 opposites have meaning together.
@@ -1024,7 +1024,7 @@ then they flatter you,
 then they respect you,
 then they make fun of you.
 
-When you don't trust them,
+When you don't trust them enough,
 don't expect them to trust you.
 
 Your noble ideals are far from reality.
@@ -1050,7 +1050,7 @@ Loyalty
 
 ## Published (yes)
 
-December 26, 2019
+February 10, 2020
 
 ## Hanzi
 
@@ -1060,7 +1060,7 @@ December 26, 2019
 六親不和，
 案有孝慈。
 
-邦家昏亂，
+國家昏亂，
 案有正臣。
 
 ## English
@@ -1612,7 +1612,7 @@ Natural Law
 
 ## Published (yes)
 
-January 30, 2020
+February 05, 2020
 
 ## Hanzi
 
@@ -1683,7 +1683,7 @@ Dao is great,
 and kings are great too.
 
 The greatness of the middle realm is four-fold,
-and kings are but part of one.
+and kings are part of but one.
 
 Humanity is to the earth,
 as the earth is to the universe,
@@ -2478,26 +2478,41 @@ Faith
 
 ## Published (yes)
 
-January 30, 2020
+February 07, 2020
 
 ## Hanzi
 
-上德不德是以有德
-下德不失德是以無德
+上德不德
+是以有德
+下德不失
+德是以無德
 
-上德無為而無以為也
-下德為之而有以為也
+上德無為
+而無以為也
+下德為之
+而有以為也
 
-上仁為之而無以為也
-上義為之而有以為也
+上仁為之
+而無以為也
+上義為之
+而有以為也
 
-上禮為之而莫之應也
-則攘臂而扔之故失道
+上禮為之
+而莫之應也
+則攘臂而扔之
+故失道
 
-失道矣而後德
-失德而後仁
-失仁而後義
-失義而後禮
+失道矣
+而後德
+
+失德
+而後仁
+
+失仁
+而後義
+
+失義
+而後禮
 
 夫禮者
 忠信之薄也
@@ -2505,30 +2520,46 @@ January 30, 2020
 
 前識者
 道之華也
-而愚之[始首]也
+而愚之首也
 
-是以大丈夫[處居]其厚而不居其[薄泊]
-[處居]其實而不居其華
+是以大丈夫
+居其厚而不居其薄
+居其實而不居其華
 故去彼取此
 
 ## English
 
-The highly moral are moral because they don't moralize,
-and the least moral are immoral because they can't stop moralizing.
+The highly moral are moral
+because they don't moralize,
+and the least moral are immoral
+because they can't stop moralizing.
 
-The highly moral do nothing and expect nothing,
-and the least moral do it but expect something in return.
+The highly moral do nothing
+and expect nothing,
+and when the least moral do something,
+they expect something in return.
 
-The truly kind do it and expect nothing in return,
-and the highly responsible do it and do what's expected.
+When the truly kind do something,
+they expect nothing,
+and when the highly responsible do it,
+they do what's expected.
 
-When the truly righteous do it and we're not worthy,
-when they threaten and denounce us, they lose their way.
+When the truly righteous do something
+and no one else wants to do it,
+when they threaten and force us,
+they've lost the way.
 
-They've lost their way and they're not moral.
-They're not moral and they're not kind.
-They're not kind and they're not responsible.
-They're not responsible and they're not righteous. 
+They've lost the way
+and they're not moral.
+
+They're not moral
+and they're not kind.
+
+They're not kind
+and they're not responsible.
+
+They're not responsible
+and they're not righteous. 
 
 Such righteous men,
 authorities on legitimacy,
@@ -2538,8 +2569,9 @@ Such visionaries,
 prophets of Dao,
 yet they pander to rubes.
 
-So truly great leaders rely on respect, not authority,
-on facts, not dogma,
+So truly great leaders
+rely on respect, not authority,
+they rely on facts, not dogma,
 and they stay away from one to get the other.
 
 ## Notes
@@ -2738,7 +2770,7 @@ Accommodation
 
 ## Published (yes)
 
-November 08, 2019
+February 07, 2020
 
 ## Hanzi
 
@@ -2776,7 +2808,7 @@ November 08, 2019
 ## English
 
 When good leaders are shown the way,
-they work hard so they can walk right down the middle.
+hard work lets them walk right down the middle.
 
 When average leaders are shown the way,
 some create, some destroy.
@@ -2893,7 +2925,7 @@ Progress
 
 ## Published
 
-January 31, 2020
+February 07, 2020
 
 ## Hanzi
 
@@ -2921,7 +2953,7 @@ permeates the impenetrable.
 So I ponder
 the substantial benefit of doing nothing.
 
-Learn from silence,
+I learn from silence,
 get ahead by doing nothing,
 and the rest of the world can barely keep up.
 
@@ -2938,13 +2970,18 @@ Stamina
 
 ## Published
 
-January 31, 2020
+February 07, 2020
 
 ## Hanzi
 
-名與身孰親
-身與貨孰多
-得與亡孰病
+名與身
+孰親
+
+身與貨
+孰多
+
+得與亡
+孰病
 
 甚愛必大費
 多藏必厚亡
@@ -2955,12 +2992,17 @@ January 31, 2020
 
 ## English
 
-Honour or life, which is more important?
-Health or money, which is more valuable?
-Winning or losing, which is more trouble?
+Honour or life,
+which is more important?
+
+Health or money,
+which is more valuable?
+
+Winning or losing,
+which is more trouble?
 
 True love is so expensive
-and a huge fortune is a lot to lose.
+and a huge fortune is so much to lose.
 
 Being content and not being ashamed,
 and knowing when to quit and not taking risks
@@ -3549,7 +3591,7 @@ Human Nature
 
 ## Published (yes)
 
-February 03, 2020
+February 10, 2020
 
 ## Hanzi
 
@@ -3557,16 +3599,25 @@ February 03, 2020
 善抱者不脫
 子孫以其祭祀不輟
 
-修之身其德乃真
-修之家其德有餘
-修之鄉其德乃長
-修之邦其德乃豐
-修之天下其德乃博
+修之身
+其德乃真
+
+修之家
+其德有餘
+
+修之鄉
+其德乃長
+
+修之國
+其德乃豐
+
+修之天下
+其德乃博
 
 以身觀身
 以家觀家
 以鄉觀鄉
-以邦觀邦
+以國觀國
 以天下觀天下
 
 吾何以知天下之然
@@ -3576,13 +3627,22 @@ February 03, 2020
 
 Good foundations don't crumble,
 good bonds aren't easy to break,
-and family lines don't end when they follow traditions.
+and family lines don't end when they follow tradition.
 
-Cultivate them within, their morality becomes reality,
-practice them as a family, their morality gathers momentum,
-promote them in the community, their morality becomes growth,
-teach them in the nation, their morality becomes abundance,
-practice them in society, their morality becomes tolerance.
+Cultivate them within,
+their morality becomes reality.
+
+Practice them as a family,
+their morality gathers momentum.
+
+Promote them in the community,
+their morality becomes growth.
+
+Teach them in the nation,
+their morality becomes abundance.
+
+Practice them in society,
+their morality becomes tolerance.
 
 Every person has them,
 every family has them,
@@ -3787,31 +3847,43 @@ Improvising
 
 ## Published
 
-October 28, 2018
+February 10, 2020
 
 ## Hanzi
 
-以正之邦，
-以奇用兵，
-以無事取天下。
+以正治國
+以奇用兵
+以無事取天下
 
-吾何以知其然也。
+吾何以知其然也
 
-夫天多忌諱而民彌叛，
-民多利器而邦滋昏，
-人多智而奇物滋起，
-法物滋章，盜賊多有。
+以此
 
-是以聖人之言曰，
+天下多忌諱
+而民彌叛
+
+民多利器
+而國滋昏
+
+人多智
+而奇物滋起
+
+法物滋章
+盜賊多有
+
+是以聖人之言曰
 
 我無事
-而民自富。
+而民自富
+
 我無為
-而民自化。
+而民自化
+
 我好靜
-而民自正。
+而民自正
+
 我欲不欲
-而民自樸。
+而民自樸
 
 ## English
 
@@ -3819,22 +3891,34 @@ Lead the nation predictably,
 wage war unpredictably,
 conquer the world by doing nothing.
 
-How do you know?
+How do I know it's true?
 
-Authorities crack down and people break the law,
-people make progress and the nation starts to decline,
-people get smarter and strange things start happening,
-laws start getting passed, criminals get [?].
+Like this.
+
+When the world has too many morals,
+people 
+
+When people profit instruments,
+the country is dark.
+
+When people are too talented and clever,
+strange things start happening.
+
+When laws pass,
+too many thieves and bandits exist.
 
 So the wise tell themselves,
 
-I should provide nothing
+We should provide nothing
 and people will provide for themselves.
-I should do nothing
+
+We should do nothing
 and people will work it out for themselves.
-I should stay very quiet
+
+We should just keep quiet
 and people will straighten it out for themselves.
-I should try to expect nothing
+
+We should try to expect nothing
 and people will figure it out for themselves.
 
 ## Notes
@@ -3850,12 +3934,12 @@ Leading the Way
 
 ## Published
 
-October 28, 2018
+February 10, 2020
 
 ## Hanzi
 
 其正閔閔，其民屯屯，
-其正察察，其邦缺缺。
+其正察察，其政缺缺。
 
 禍福之所倚，
 福禍之所伏，
@@ -4043,11 +4127,11 @@ Inferiority
 
 ## Published
 
-May 02, 2019
+February 10, 2020
 
 ## Hanzi
 
-大邦者下流也
+大國者下流也
 天下之牝。
 
 天下之交也，
@@ -4055,15 +4139,15 @@ May 02, 2019
 為其靚也，
 故宜為下。
 
-大邦以下小邦，
-則取小邦。
-小邦以下大邦，
-則取於大邦。
+大國以下小國，
+則取小國。
+小國以下大國，
+則取於大國。
 故或下以取，
 或下而取。
 
-故大邦者不過欲兼畜人，
-小邦者不過欲入事人。
+故大國者不過欲兼畜人，
+小國者不過欲入事人。
 
 夫皆得其欲
 則大者宜為下。
@@ -4249,70 +4333,93 @@ Revolution
 
 ## Published
 
-May 02, 2019
+February 15, 2020
 
 ## Hanzi
 
-其安也易持也，
-其未兆也易謀也，
-其脆也易破也，
-其微也易散也。
-為之於未有，
-治之於未亂。
+其安也易持也
+其未兆也易謀也
+其脆也易破也
+其微也易散也
 
-合抱之木作於毫末，
-九成之臺作於纍土，
-百亍之高始於足下。
+為之於未有
+治之於未亂
 
-為之者敗之，
-執之者失之。
-聖人無為故無敗也，
-無執故無失也。
-人之敗也，
-恆於其且成也敗之，
-故慎終若始，
-則無敗事矣。
+合抱之木
+作於毫末
+
+九成之臺
+作於纍土
+
+千里之行
+始於足下
+
+為之者敗之
+執之者失之
+
+聖人無為故無敗也
+無執故無失也
+
+人之敗也
+恆於其且成也敗之
+
+故
+慎終若始
+則無敗事矣
 
 是以聖人
-欲不欲而不貴難得之貨，
-學不學而復眾之所過。
-是以能輔萬物之自然，
+
+欲不欲
+而不貴難得之貨
+
+學不學
+而復眾之所過
+
+是以能輔萬物之自然
 而弗敢為。
 
 ## English
 
-It's easy to keep the peace,
-easy to plan the future,
-easy to crush the vulnerable,
-easy to give up on the weak.
-Make them till they happen,
-maintain them till they fall apart.
+It's calm and easy to control,
+uncertain and easy to plan.
+fragile and easily broken,
+small and easy to lose.
+
+Practice before it happens,
+organize before it gets out of hand.
 
 A tree of many arms around
-arises from a tiny shoot,
-a tower of nine stories
-arises from a bucket of dirt,
-a climb of a hundred steps
+grows from a tiny sprout.
+
+A tower of nine stories
+rises from a pile of dirt.
+
+A journey of a thousand miles
 starts from beneath your feet.
 
-Making them breaks them,
-keeping them abandons them.
-Wise people make nothing
-so nothing gets broken,
-keep nothing
-so nothing gets abandoned.
-People always get hurt
-when they accomplish something and try to hold on to it,
-so be as cautious at the end as the beginning,
-then nothing gets broken accidentally.
+Practicing means failing,
+keeping means losing.
 
-From this, a wise person
-wants what others don't want
-and doesn't set high standards,
-learns what others haven't learned
-and returns to the place everyone else has abandoned.
-From there, they're able to affirm everything’s true nature,
-and wouldn't dare force them.
+So the wise don't fail because they don't do anything,
+don't lose anything because they don't keep anything.
+
+People fail,
+and they always fail just as they're about to succeed.
+
+That's why when you're
+as cautious at the end as you were at the beginning,
+you won't fail to get it done.
+
+So the wise
+
+try not to expect anything
+and don't appreciate the finer things,
+
+learn not to learn
+and return to what everyone else rejects.
+
+So they can affirm everything’s true nature,
+and they wouldn't dare manage them.
 
 ## Notes
 
@@ -4324,7 +4431,7 @@ Obedience
 
 ## Published
 
-May 02, 2019
+February 10, 2020
 
 ## Hanzi
 
@@ -4332,8 +4439,8 @@ May 02, 2019
 非以明民也，
 將以愚之也，
 民之難治也，以其知也。
-故以知邦，邦之賊也，
-以不知邦，邦之德也。
+故以知國，國之賊也，
+以不知國，國之德也。
 
 恆知此兩者亦稽式也。
 恆知稽式此謂玄德。
@@ -4668,45 +4775,35 @@ So the wise wear plain clothes and cover jade.
 
 # Chapter 71
 
-Anxiety
+Disease
 
 ## Published
 
-May 01, 2019
+February 07, 2020
 
 ## Hanzi
 
-知不知
-上。
+知不知上
+不知知病
 
-不知知
-病。
-
-夫唯
-病病
-是以不病。
+夫唯病病
+是以不病
 
 聖人不病
-以其病病。
-
-是以不病。
+以其病病
+是以不病
 
 ## English
 
-Have faith in doubt,
-that's best.
+Knowing you don't know is best,
+but not admitting that you know is a problem.
 
-Having doubts about faith,
-that's troubling.
+Above all, worry about getting sick
+so you don't get sick.
 
-Above all,
-sick of getting sick
-doesn't get sick.
-
-The wise don't worry
-because they're sick of worrying.
-
-So they don't worry about it.
+The wise don't get sick
+because they worry about getting sick
+so they don't have to get sick.
 
 # Chapter 72
 
@@ -4768,7 +4865,7 @@ Failure
 
 ## Published
 
-May 02, 2019
+February 07, 2020
 
 ## Hanzi
 
@@ -4778,8 +4875,7 @@ May 02, 2019
 此兩者，或利
 或害。
 
-天之所惡，
-孰知其故。
+天之所惡，孰知其故。
 
 天之道。
 
@@ -4808,8 +4904,7 @@ the unadventurous stay safe.
 Some are helped by this,
 some are harmed.
 
-The wrath of God,
-who knows what provokes it?
+Who knows what provokes the wrath of God?
 
 The universal way
 
@@ -4916,7 +5011,7 @@ Gratitude
 
 ## Published
 
-May 15, 2019
+February 07, 2020
 
 ## Hanzi
 
@@ -4937,17 +5032,17 @@ May 15, 2019
 
 ## English
 
-People are hungry
-because taxes are too high,
+People are hungry.
+Their leaders tax them too much,
 so they starve.
 
-Workers are discontented
-because expectations are too high,
-so they grumble.
+Workers are upset.
+Their leaders have opinions,
+so they're disorganized.
 
-People are [scornful of death]
-because we demand the most of life,
-so we scoff at death.
+People ignore death.
+They're desperate to make the most of life,
+so they scoff at death.
 
 Only those who don't take life for granted
 are truly capable of caring for life.
@@ -5067,7 +5162,7 @@ Dissent
 
 ## Published
 
-May 15, 2019
+February 10, 2020
 
 ## Hanzi
 
@@ -5085,11 +5180,11 @@ May 15, 2019
 
 故聖人之言云
 
-受邦之垢，
+受國之垢，
 是謂
 社稷之主，
 
-受邦之不祥，
+受國之不祥，
 是謂
 天下之王，
 
