@@ -1,6 +1,6 @@
 # At the Mercy of Ants - Part 1
 
-Laozi used to say
+Laozi said
 that a beached whale
 is at the mercy of ants,
 and the prince who forgets his place and does a servant's work

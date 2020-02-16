@@ -1,7 +1,7 @@
 # The Philosophy of Heaven and Earth
 
-Laozi used to say
-that drums make sound because they don't muffle sound,
+Laozi said that
+drums make sound because they don't muffle sound,
 and mirrors reflect light because they don't absorb light.
 Bells make sound but don't ring till they're struck,
 and flutes make music but not till they're played.

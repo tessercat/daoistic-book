@@ -1,6 +1,6 @@
 # Setting the Bar
 
-Laozi used to say that
+Laozi said that
 in a healthy society,
 promises are easy to keep,
 work is easy to do,
