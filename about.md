@@ -12,7 +12,7 @@ they can be,
 so a software developer
 with a history degree
 started wondering
-what the source code looked like.
+what the source code looks like.
 It turns out that
 even though classical Chinese
 isn't exactly a programming language,
