@@ -14,13 +14,13 @@ is at the mercy of bureaucrats.
 A prince keeps his throne by doing nothing.
 He knows his place and builds trust by listening closely.
 Ministers and subordinates respect his judgement and don't question it.
-Instead, they hold superiors accountable by serving them.
+Instead, they hold superiors to account by serving them.
 以無為持位
 守職者以聽從取容
 臣下藏智而不用
 反以事專其上
 
-When a prince doesn't trust experts and likes getting involved,
+When a prince doesn't trust the experts and likes getting involved,
 his judgement gets worse every day and he has only himself to blame.
 He can't be fair when he gets frustrated with subordinates,
 and he can't stay in charge when he steps down from the throne.
