@@ -240,7 +240,7 @@ Neutrality
 
 ## Published (yes)
 
-February 04, 2020
+March 10, 2020
 
 ## Hanzi
 
@@ -262,10 +262,10 @@ February 04, 2020
 ## English
 
 Heaven and earth aren't humane.
-They treat everything like straw dogs.
+They treat everything as straw dogs.
 
 The wise aren't humane.
-They treat everyone like straw dogs.
+They treat clan chiefs as straw dogs.
 
 Between heaven and earth,
 isn't it like a bellows?
@@ -273,7 +273,7 @@ isn't it like a bellows?
 Empty, but it doesn't collapse.
 Pump and more comes out.
 
-Chattering and complaining
+Lecturing and criticizing
 aren't the same as staying neutral.
 
 # Chapter 6
@@ -646,7 +646,7 @@ Politics
 
 ## Published
 
-January 22, 2020
+March 10, 2020
 
 ## Hanzi
 
@@ -681,7 +681,7 @@ January 22, 2020
 ## English
 
 Privilege is as dangerous as punishment,
-and nobility is as personal as tragedy.
+virtue is as personal as suffering.
 
 What were they saying
 about privilege and punishment?
@@ -694,19 +694,19 @@ they were right to say
 that privilege and punishment are dangerous.
 
 Why did they say
-that nobility is as personal as tragedy?
+that virtue is as personal as suffering?
 
-It's tragic to me
+It's painful to me
 when I take it personally.
 
 When I don't take it personally,
 why should I care?
 
-That's why it's noble to take it personally
-as a responsibility to the world.
+That's why my virtue takes it personally
+when I'm responsible for society,
 
-It's compassionate to take it personally
-as a commitment to the world.
+and my compassion takes it personally
+when I'm committed to society.
 
 # Chapter 14
 
@@ -714,39 +714,40 @@ History
 
 ## Published
 
-December 16, 2019
+March 10, 2020
 
 ## Hanzi
 
-視之而弗見，
-名之曰夷。
+視之而弗見
+名之曰夷
 
-聽之而弗聞，
-名之曰希。
+聽之而弗聞
+名之曰希
 
-搏之而弗得，
-名之曰微。
+搏之而弗得
+名之曰微
 
-三者，不可至計，
-故混而為一。
+三者不可至計
+故混而為一
 
-一者，其上不收，
-其下不忽。
+一者其上不，
+其下不忽
 
 繩繩呵不可名也
-復歸於無物，
-是謂無狀之狀。
+復歸於無物
+是謂無狀之狀
 
-無物之象，
-是謂忽望。
+無物之象
+是謂忽望
 
-迎之而不見其首，
-隨之而不見其後。
+迎之而不見其首
+隨之而不見其後
 
-執今之道，
-以御今之有，
-以知古始，
-是謂道紀。
+執今之道
+以御今之有
+以知古始
+
+是謂道紀
 
 ## English
 
@@ -760,10 +761,10 @@ Reaching for it but not getting it,
 they say it's elusive.
 
 These three, they're inconclusive,
-so merge and become one.
+so mix them together as one.
 
-That one, promoting it doesn't prove it,
-rejecting it doesn't refute it.
+That one, promoting it doesn't prove it
+and rejecting it doesn't refute it.
 
 So vast it's immeasurable,
 dwindling to nothing at all,
@@ -773,12 +774,13 @@ Thinking about nothing at all,
 they call that refusing to believe.
 
 Welcome it without seeing its face,
-follow without seeing its back.
+follow along without seeing its back.
 
-Staying on today's road
-by navigating today's reality,
-by learning the lessons of the past,
-they call that Daoji, rules of the road.
+Stay on today's road
+by navigating today's reality
+by learning the lessons of the past.
+
+They call that Daoji, rules of the road.
 
 ## Notes
 
@@ -801,7 +803,7 @@ James Hutton, No vestige of a beginning, no prospect of an end.
 
 Innovation
 
-## Published
+## Published (yes)
 
 November 20, 2019
 
@@ -919,7 +921,7 @@ Missing from G:
 
 Integrity
 
-## Published (yes)
+## Published
 
 March 20, 2019
 
@@ -995,15 +997,16 @@ the way leads to selfless integrity.
 
 # Chapter 17
 
-Acceptance
+Independence
 
 ## Published (yes)
 
-February 05, 2020
+March 04, 2020
 
 ## Hanzi
 
 太上下知有之
+
 其次親譽之
 其次畏之
 其次侮之
@@ -1019,18 +1022,19 @@ February 05, 2020
 
 ## English
 
-At first, subordinates know they have one,
-then they flatter you,
-then they respect you,
+At first, your subordinates know they have one.
+
+Then they flatter you,
+then they fear you,
 then they make fun of you.
 
-When you don't trust them enough,
-don't expect them to trust you.
+They're not very trusting,
+and you should expect disrespect.
 
-Your noble ideals are far from reality.
+Preaching is pointless.
 
-Just do your job and do it well,
-and everyone else will say
+Just do the job and do it well
+so the chiefs can all say
 they did it themselves.
 
 ## Notes
@@ -1050,29 +1054,29 @@ Loyalty
 
 ## Published (yes)
 
-February 10, 2020
+March 10, 2020
 
 ## Hanzi
 
-故大道廢，
-案有仁義。
+故大道廢
+案有仁義
 
-六親不和，
-案有孝慈。
+六親不和
+案有孝慈
 
-國家昏亂，
-案有正臣。
+國家昏亂
+案有正臣
 
 ## English
 
-That's why a decadent society
-expects us to be kind and decent,
+Because a decadent society
+expects kindness and decency,
 
-a dysfunctional family
-expects us to be obedient and committed,
+and an unhealthy relationship
+expects obedience and devotion,
 
 and a corrupt ruling class
-expects us to be loyal subjects.
+expects loyal subjects.
 
 ## Notes
 
@@ -1090,44 +1094,38 @@ Expectations
 
 ## Published (yes)
 
-October 24, 2019
+March 10, 2020
 
 ## Hanzi
 
-絕智
-棄辯，
-民利百倍。
+絕智棄辯
+民利百倍
 
-絕巧
-棄利，
-盜賊無有。
+絕巧棄利
+盜賊無有
 
-絕偽
-棄慮，
-民復季子。
+絕偽棄慮
+民復季子
 
 三言以為
-文不足，
-故令之有所屬。
+文不足
+故令之有所屬
 
-視素，
-保樸，
-少私，
-寡欲。
+視素
+保樸
+少私
+寡欲
 
 ## English
 
-Stop explaining it to them
-and don't argue with them,
-people would be a hundred times better off.
+Stop explaining it to them and don't argue with them
+and people would be a hundred times better off.
 
-Stop lying to them
-and don't exploit them,
-there would be no thieves or rebels.
+Stop lying to them and don't exploit them
+and there would be no rebels and thieves.
 
-Stop forcing them
-and don't threaten them,
-people would start helping again.
+Stop forcing them and don't threaten them
+and people would start helping again.
 
 You might think these three sayings
 aren't very good advice,
@@ -1408,7 +1406,7 @@ Redemption
 
 ## Published
 
-January 09, 2020
+March 10, 2020
 
 ## Hanzi
 
@@ -1447,7 +1445,7 @@ shrinks and grows,
 spreads and diversifies.
 
 So the wise are committed to
-applying it in their lives.
+applying this in their lives.
 
 They don't explain it because it's clear,
 don't prove it because it's obvious,
@@ -1858,49 +1856,59 @@ Division
 
 ## Published
 
-January 09, 2020
+March 10, 2020
 
 ## Hanzi
 
-知其雄，守其雌，
-為天下谿。
-為天下谿，恆德不離。
-恆德不離，復歸於嬰兒。
+知其雄守其雌
+為天下谿
 
-知其榮，守其辱，
-為天下谷。
-為天下谷，恆德乃足。
-恆德乃足，復歸於朴。
+為天下谿恆德不離
+恆德不離復歸於嬰兒
 
-知其白，守其黑，
-為天下式。
-為天下式，恆德不忒。
-恆德不忒，復歸於無極。
+知其榮守其辱
+為天下谷
 
-樸散則為器，
-聖人用則為官長，
-故大制無割。
+為天下谷恆德乃足
+恆德乃足復歸於朴
+
+知其白守其黑
+為天下式
+
+為天下式恆德不忒
+恆德不忒復歸於無極
+
+樸散則為器
+聖人用則為官長
+
+夫大制
+無割
 
 ## English
 
 Mind the rooster, protect the hen,
 build a chicken coop for the world.
+
 A high quality coop isn't a cage,
 it takes us back to innocence.
 
 Mind the crop, protect it from weeds,
 plant a garden for the world.
+
 A high quality garden is just enough,
 it takes us back to nature.
 
 Mind what's right, protect it from wrong,
 set standards for the world.
+
 High quality standards aren't strict,
 they take us back to freedom.
 
 When timber splits, improvise,
-when the wise approve, make it official
-because [big control has no splits].
+and when the wise approve, make it official,
+
+In the grand scheme of things,
+there are no mistakes.
 
 ## Notes
 
@@ -2354,7 +2362,7 @@ Inspiration
 
 ## Published
 
-July 26, 2019
+March 10, 2020
 
 ## Hanzi
 
@@ -2385,17 +2393,17 @@ July 26, 2019
 
 ## English
 
-Try to control them,
-end up unleashing them.
+When you try to control them,
+you'll end up unleashing them.
 
-Try to weaken them,
-end up strengthening them.
+When you try to weaken them,
+you'll end up strengthening them.
 
-Try to crush them,
-end up inspiring them.
+When you try to crush them,
+you'll end up inspiring them.
 
-Try to beat them,
-end up joining them.
+When you try to beat them,
+you'll end up joining them.
 
 They call that
 a glimmer of enlightenment.
@@ -2478,7 +2486,7 @@ Faith
 
 ## Published (yes)
 
-February 07, 2020
+March 10, 2020
 
 ## Hanzi
 
@@ -2545,8 +2553,8 @@ and when the highly responsible do it,
 they do what's expected.
 
 When the truly righteous do something
-and no one else wants to do it,
-when they threaten and force us,
+and no one goes along with it,
+when they threaten and denounce us,
 they've lost the way.
 
 They've lost the way
@@ -2561,17 +2569,17 @@ and they're not responsible.
 They're not responsible
 and they're not righteous. 
 
-Such righteous men,
-authorities on legitimacy,
-yet they incite us to violence.
+Does a righteous man,
+an authority on legitimacy,
+incite us to violence?
 
-Such visionaries,
-prophets of Dao,
-yet they pander to rubes.
+Does a visionary,
+a prophet of God,
+take us for fools?
 
 So truly great leaders
 rely on respect, not authority,
-they rely on facts, not dogma,
+on facts, not dogma,
 and they stay away from one to get the other.
 
 ## Notes
@@ -2742,23 +2750,23 @@ Ex Nihilo
 
 ## Published
 
-May 01, 2019
+March 05, 2020
 
 ## Hanzi
 
-反也者，道之動也，
-弱也者，道之用也。
+反也者道之動也
+弱也者道之用也
 
-天下之物生於有，
-有生於無。
+天下之物生於有
+有生於無
 
 ## English
 
-Dao's action is to resist,
-Dao's effect is to weaken.
+The force of Dao is to resist,
+ and the purpose of Dao is to weaken.
 
-Civilization was created for a reason,
-the reason was that something was missing.
+Problems in society are created by property,
+and having property was created by having nothing.
 
 ## Notes
 
@@ -4263,7 +4271,7 @@ Work
 
 ## Published (yes)
 
-June 29, 2019
+March 10, 2020
 
 ## Hanzi
 
@@ -4309,7 +4317,7 @@ do big jobs as little ones.
 Hardship comes from taking it easy,
 greatness comes from humility.
 
-So the wise end up not doing big jobs,
+So the wise end up not doing big jobs
 so they can get big jobs done.
 
 An easy promise
