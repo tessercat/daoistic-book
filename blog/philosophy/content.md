@@ -67,7 +67,7 @@ Unity balances them and time connects them.
 Life is mature when it recognizes Dao.
 Great Dao is wide and easy. If we leave it behind, it's not far.
 We manifest its character when we cultivate it within.
-We sustain its character when we promote it in others.
+We sustain its character when we practice it with others.
 天道為丈地道為理
 一為之和時為之使
 以成萬物命之曰道
