@@ -8,13 +8,35 @@ and it turned out to complement
 the _Wenzi_ passage remarkably well,
 almost a footnote
 that explains the exact process
-that takes micro-managers
+that takes the activist prince
 from power to irrelevance.
 In this passage,
 I've interpreted 窮 as failure,
 and I think it works quite well.
 
-Since the middle paragraph
+The passage is about the fate that befalls the 主
+who 詔 while others 請.
+In my interpretation, it's about the fate of the master or teacher
+who explains to followers who ask questions,
+but it could as easily be about the fate of the ruler or lord
+who gives orders to subordinates who have to ask permission.
+
+Despite my word choice,
+國 and 官使 appear in the passage,
+and it wraps up with statements by
+culture hero leaders
+[Yao](https://en.wikipedia.org/wiki/Emperor_Yao "Read about Yao"),
+[Shun](https://en.wikipedia.org/wiki/Emperor_Shun "Read about Shun")
+and [Yu](https://en.wikipedia.org/wiki/Yu_the_Great "Read about Yu"),
+so the passage definitely speaks
+to the problems of political power.
+However, I think the passage works as well
+for leaders in positions of moral influence over others
+at every level of society,
+and I have to think
+the ambiguity is intentional.
+
+Since the second paragraph
 contains two double negatives (無不)
 and two triple negatives (未無不)
 that don't work very well in English,
@@ -22,25 +44,15 @@ to make them more readable,
 無不 becomes "everything"
 instead of "there's nothing not".
 
-The last three lines
-don't really flow with the rest,
-and they seem quite dense,
-but I'm fairly confident
-they express more or less what's there,
-and it was enlightening to read about
-[Yao](https://en.wikipedia.org/wiki/Emperor_Yao "Read about Yao"),
-[Shun](https://en.wikipedia.org/wiki/Emperor_Shun "Read about Shun")
-and [Yu](https://en.wikipedia.org/wiki/Yu_the_Great "Read about Yu").
-
 There aren't many helpful references
 to 九陽 and 奇怪 in ctext,
-and it's possible that these three lines,
+and it's possible that the last three lines,
 and the Yu line in particular,
 reflect some esoteric teaching
 that's lost in time (or at least to me),
 but I'd rather think they say
 exactly what they seem to say
-about the author's idea of a great leader.
+about the author's idea of good leadership.
 If so, verbs and nouns get more specific line by line,
 so Yao rules over everything
 and transfers power
