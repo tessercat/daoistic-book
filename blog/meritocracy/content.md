@@ -2,7 +2,7 @@
 
 Some masters think they're smart and everyone else is stupid.
 They think they're the expert and everyone else is incompetent.
-With a master like that, the idiots ask questions
+With a master like that, idiots ask questions
 and the guru explains.
 人主自智而愚人
 自巧而拙人
@@ -20,8 +20,8 @@ the only way forward is to fail.
 If you're a master like that and blame followers for failing,
 how does that make you superior?
 When you've failed and don't know you've failed,
-suffering comes back as more suffering.
-They call you the master of dead ends
+every problem turns back on itself and creates more.
+They call you the master of dead ends,
 and nothing you establish survives.
 詔多則請者愈多矣
 請者愈多
@@ -39,14 +39,14 @@ and nothing you establish survives.
 無存國矣
 
 That's why masters of the road ahead
-inspire but don't control,
-assert but don't explain,
-reject belief, reject theory,
-stay still and empty to be prepared.
-They don't speak in anger
-and don't take by force.
+expect but don't enforce,
+inspire but don't explain.
+They reject belief, reject theory,
+prepare by staying still and empty.
+They don't criticize
+and they don't demean.
 They set terms, establish facts,
-let delegates decide for themselves.
+and let apprentices decide for themselves.
 They follow the road in ignorance
 and let facts speak for themselves.
 故有道之主

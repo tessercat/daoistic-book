@@ -15,21 +15,17 @@ I've interpreted 窮 as failure,
 and I think it works quite well.
 
 The passage is about the fate that befalls the 主
-who 詔 while others 請.
-In my interpretation, it's about the fate of the master as teacher
-who explains to followers who ask questions,
-but it could as easily be about the fate of the master as ruler or lord
-who gives orders to subordinates who have to ask permission.
-The passage wraps up with statements by culture heroes
-[Yao](https://en.wikipedia.org/wiki/Emperor_Yao "Read about Yao"),
-[Shun](https://en.wikipedia.org/wiki/Emperor_Shun "Read about Shun")
-and [Yu](https://en.wikipedia.org/wiki/Yu_the_Great "Read about Yu"),
-so the passage definitely speaks
-to the problems of political power,
-but I think it works as well
-for leaders at every level of society,
-and I have to think
-the ambiguity is intentional.
+who 詔 when others 請.
+In my interpretation,
+it's about the fate of
+the master (主) as teacher
+who explains (詔) to followers (下) and apprentices (官使)
+who ask questions (請),
+but it's more accurate to say
+it's about the fate of
+the master as ruler or lord (主)
+who gives orders (詔) to subordinates (下), staff (官) and envoys (使)
+who have to ask permission (請).
 
 Since the second paragraph
 contains two double negatives (無不)
@@ -39,16 +35,20 @@ to make them more readable,
 無不 becomes "everything"
 instead of "there's nothing not".
 
+The passage wraps up with statements by culture heroes
+[Yao](https://en.wikipedia.org/wiki/Emperor_Yao "Read about Yao"),
+[Shun](https://en.wikipedia.org/wiki/Emperor_Shun "Read about Shun")
+and [Yu](https://en.wikipedia.org/wiki/Yu_the_Great "Read about Yu").
 There aren't many helpful references
 to 九陽 and 奇怪 in ctext,
-and it's possible that the last three lines,
+and it's possible that these three lines,
 and the Yu line in particular,
 reflect some esoteric teaching
 that's lost in time (or at least to me),
 but I'd rather think they say
 exactly what they seem to say
 about the author's idea of good leadership.
-If so, verbs and nouns get more specific line by line,
+Verbs and nouns get more specific line by line,
 so Yao rules over everything
 and transfers power
 to an unrelated successor,
