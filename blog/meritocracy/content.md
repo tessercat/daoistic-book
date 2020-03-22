@@ -1,16 +1,16 @@
 # Meritocracy
 
-Some masters think they're the smart one and everyone else is stupid.
+Some masters think they're smart and everyone else is stupid.
 They think they're the expert and everyone else is incompetent.
-With a master like that, idiots ask questions
+With a master like that, the idiots ask questions
 and the guru explains.
 人主自智而愚人
 自巧而拙人
 若此則愚拙者請矣
 巧智者詔矣
 
-But when the master explains, people ask even more questions,
-and those questions become even more questions,
+But when the master explains, people ask more questions,
+and questions become even more questions,
 and eventually, people ask about everything.
 Even if the master really is a genius,
 it's impossible to know everything,
@@ -18,7 +18,7 @@ and since they don't know everything,
 but people ask about everything,
 the only way forward is to fail.
 If you're a master like that and blame followers for failing,
-how does that make you a good person?
+how does that make you superior?
 When you've failed and don't know you've failed,
 suffering comes back as more suffering.
 They call you the master of dead ends
@@ -39,15 +39,15 @@ and nothing you establish survives.
 無存國矣
 
 That's why masters of the road ahead
-inspire but don't act,
-insist but don't explain,
-reject discussion, reject analysis,
+inspire but don't control,
+assert but don't explain,
+reject belief, reject theory,
 stay still and empty to be prepared.
-They don't say anything critical,
-don't do anything destructive.
-They set terms, establish facts.
-As public servants they manage themselves,
-follow the road in ignorance,
+They don't speak in anger
+and don't take by force.
+They set terms, establish facts,
+let delegates decide for themselves.
+They follow the road in ignorance
 and let facts speak for themselves.
 故有道之主
 因而不為

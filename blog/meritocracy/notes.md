@@ -16,23 +16,18 @@ and I think it works quite well.
 
 The passage is about the fate that befalls the 主
 who 詔 while others 請.
-In my interpretation, it's about the fate of the master or teacher
+In my interpretation, it's about the fate of the master as teacher
 who explains to followers who ask questions,
-but it could as easily be about the fate of the ruler or lord
+but it could as easily be about the fate of the master as ruler or lord
 who gives orders to subordinates who have to ask permission.
-
-Despite my word choice,
-國 and 官使 appear in the passage,
-and it wraps up with statements by
-culture hero leaders
+The passage wraps up with statements by culture heroes
 [Yao](https://en.wikipedia.org/wiki/Emperor_Yao "Read about Yao"),
 [Shun](https://en.wikipedia.org/wiki/Emperor_Shun "Read about Shun")
 and [Yu](https://en.wikipedia.org/wiki/Yu_the_Great "Read about Yu"),
 so the passage definitely speaks
-to the problems of political power.
-However, I think the passage works as well
-for leaders in positions of moral influence over others
-at every level of society,
+to the problems of political power,
+but I think it works as well
+for leaders at every level of society,
 and I have to think
 the ambiguity is intentional.
 
