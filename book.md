@@ -4,22 +4,22 @@ Community
 
 ## Published
 
-February 06, 2020
+March 17, 2020
 
 ## Hanzi
 
 道可道也
-非恆道也
+非常道也
 名可名也
-非恆名也
+非常名也
 
 無名天地之始也
 有名萬物之母也
 
-故恆無欲也以觀其妙
-恆有欲也以觀其所徼
+故常無欲也以觀其妙
+常有欲也以觀其所徼
 
-兩者同出
+此兩者同出
 異名同謂
 
 玄之有玄
@@ -27,16 +27,16 @@ February 06, 2020
 
 ## English
 
-A way that can be followed
-isn't the eternal way,
-and a word that can be defined
-isn't the eternal word.
+Roads can be followed.
+It's not a normal road.
+Names can be called.
+It's not a normal name.
 
-Not calling it anything is the beginning of heaven and earth,
-and calling it something is the mother of everything.
+Nameless, it's the conception of heaven and earth.
+Named, it's the mother of myriad things.
 
-Never expect anything to discover its secrets,
-and always want something to discover its sorrow.
+Therefore, normally want nothing to discover its secrets,
+and make a habit of desire to find it's you're looking for.
 
 Dualities emerge together,
 opposites have meaning together.
@@ -1404,7 +1404,7 @@ Like this.
 
 Redemption
 
-## Published
+## Published (yes)
 
 March 10, 2020
 
@@ -2486,14 +2486,14 @@ Faith
 
 ## Published (yes)
 
-March 10, 2020
+March 18, 2020
 
 ## Hanzi
 
 上德不德
 是以有德
-下德不失
-德是以無德
+下德不失德
+是以無德
 
 上德無為
 而無以為也
@@ -2567,7 +2567,7 @@ They're not kind
 and they're not responsible.
 
 They're not responsible
-and they're not righteous. 
+and they're not righteous.
 
 Does a righteous man,
 an authority on legitimacy,
@@ -2577,10 +2577,10 @@ Does a visionary,
 a prophet of God,
 take us for fools?
 
-So truly great leaders
-rely on respect, not authority,
+So a truly great leader
+relies on respect, not authority,
 on facts, not dogma,
-and they stay away from one to get the other.
+and stays away from one to get the other.
 
 ## Notes
 
@@ -2763,7 +2763,7 @@ March 05, 2020
 ## English
 
 The force of Dao is to resist,
- and the purpose of Dao is to weaken.
+and the purpose of Dao is to weaken.
 
 Problems in society are created by property,
 and having property was created by having nothing.
@@ -3104,7 +3104,7 @@ Contentment
 
 ## Published (yes)
 
-February 01, 2020
+March 18, 2020
 
 ## Hanzi
 
@@ -3129,7 +3129,7 @@ when old pack horses are put out to pasture.
 The world has lost its way
 when war horses breed in the fields.
 
-There's no sin richer than greed,
+There's no sin more deadly than ambition,
 no fate more tragic than a dream come true,
 nothing more painful than never being satisfied.
 
@@ -3323,7 +3323,7 @@ November 26, 2019
 死之徒，十有三，
 人之生，動之死地，十有三。
 
-夫何故也？ 
+夫何故也？
 以其生，生之厚也。
 
 蓋聞善
@@ -3904,7 +3904,7 @@ How do I know it's true?
 Like this.
 
 When the world has too many morals,
-people 
+people
 
 When people profit instruments,
 the country is dark.

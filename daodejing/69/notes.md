@@ -1,0 +1,3 @@
+攘無臂 - If you go through ctext looking for instances of 攘臂, it means to roll up the sleeves and show the arms, and it's used in the context of people showing off or getting down to work. In English, I think it means something like "gird loins" or "flex muscles", so in my mind, the most likely interpretation of 攘無臂 in its context is something like, Flex where there are no muscles. Since deception in warfare is such an important element in ancient Chinese thought, I think this line reflection it.
+
+Received texts use 輕 where the Mawangdui texts both use 無, changing the saying dramatically. The MWD version uses 近 to express the importance of knowing the enemy, or, in the received text, not underestimating them, so the meaning is similar, but very differently expressed.
