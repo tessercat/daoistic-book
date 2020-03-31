@@ -17,12 +17,17 @@ and I think it works quite well.
 The passage is about the fate of
 the master (主) as ruler or lord
 who gives orders (詔) to subordinates (下), staff (官) and envoys (使)
-who have to ask permission (請).
+who have to ask permission (請)
+of their superior (君).
+
 In my interpretation,
 it's about the fate of
 the master (主) as teacher
 who explains (詔) to followers (下) and apprentices (官使)
-who ask questions (請).
+who ask questions (請)
+of their leader (君).
+Kroll's definitions of 主, 詔 and 請
+make me think I'm not too far off the mark.
 
 Since the second paragraph
 contains two double negatives (無不)

@@ -18,7 +18,7 @@ and since they don't know everything,
 but people ask about everything,
 the only way forward is to fail.
 If you're a master like that and blame followers for failing,
-how does that make you superior?
+how does that make you a good leader?
 When you've failed and don't know you've failed,
 every mistake turns back on itself and creates more.
 They call you the master of dead ends,
@@ -46,7 +46,7 @@ prepare by staying still and empty.
 They don't criticize
 and they don't demean.
 They set terms, establish facts,
-and let apprentices decide for themselves.
+and let apprentices figure it out for themselves.
 They follow the road in ignorance,
 let facts speak for themselves.
 故有道之主
