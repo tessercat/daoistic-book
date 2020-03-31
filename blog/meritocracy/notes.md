@@ -14,18 +14,15 @@ In this passage,
 I've interpreted 窮 as failure,
 and I think it works quite well.
 
-The passage is about the fate that befalls the 主
-who 詔 when others 請.
+The passage is about the fate of
+the master (主) as ruler or lord
+who gives orders (詔) to subordinates (下), staff (官) and envoys (使)
+who have to ask permission (請).
 In my interpretation,
 it's about the fate of
 the master (主) as teacher
 who explains (詔) to followers (下) and apprentices (官使)
-who ask questions (請),
-but it's more accurate to say
-it's about the fate of
-the master as ruler or lord (主)
-who gives orders (詔) to subordinates (下), staff (官) and envoys (使)
-who have to ask permission (請).
+who ask questions (請).
 
 Since the second paragraph
 contains two double negatives (無不)

@@ -1,6 +1,6 @@
 # Meritocracy
 
-Some masters think they're smart and everyone else is stupid.
+Some masters think they're the smart one and everyone else is stupid.
 They think they're the expert and everyone else is incompetent.
 With a master like that, idiots ask questions
 and the guru explains.
@@ -20,9 +20,9 @@ the only way forward is to fail.
 If you're a master like that and blame followers for failing,
 how does that make you superior?
 When you've failed and don't know you've failed,
-every problem turns back on itself and creates more.
+every mistake turns back on itself and creates more.
 They call you the master of dead ends,
-and nothing you establish survives.
+and your legacy is to vanish without a trace.
 詔多則請者愈多矣
 請者愈多
 且無不請也
@@ -39,16 +39,16 @@ and nothing you establish survives.
 無存國矣
 
 That's why masters of the road ahead
-expect but don't enforce,
-inspire but don't explain.
+encourage us but don't do it for us,
+inspire us but don't explain.
 They reject belief, reject theory,
 prepare by staying still and empty.
 They don't criticize
 and they don't demean.
 They set terms, establish facts,
 and let apprentices decide for themselves.
-They follow the road in ignorance
-and let facts speak for themselves.
+They follow the road in ignorance,
+let facts speak for themselves.
 故有道之主
 因而不為
 責而不詔
