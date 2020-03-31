@@ -17,12 +17,6 @@ it's impossible to know everything,
 and since they don't know everything,
 but people ask about everything,
 the only way forward is to fail.
-If you're a master like that and blame followers for failing,
-how does that make you a good leader?
-When you've failed and don't know you've failed,
-every mistake turns back on itself and creates more.
-They call you the master of dead ends,
-and your legacy is to vanish without a trace.
 詔多則請者愈多矣
 請者愈多
 且無不請也
@@ -31,6 +25,13 @@ and your legacy is to vanish without a trace.
 以未無不知
 應無不請
 其道固窮
+
+If you're a master like that and blame followers for failing,
+how does that make you a good leader?
+When you've failed and don't know you've failed,
+every mistake turns back on itself and creates more.
+They call you the master of dead ends,
+and your legacy is to vanish without a trace.
 為人主而數窮於其下
 將何以君人乎
 窮而不知其窮
