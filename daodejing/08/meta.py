@@ -1,0 +1,4 @@
+{
+    'title': 'Opinions',
+    'published': False,
+}

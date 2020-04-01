@@ -1,0 +1,4 @@
+{
+    'title': 'Community',
+    'published': False,
+}

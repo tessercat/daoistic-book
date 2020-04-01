@@ -1,28 +1,3 @@
-# Opinions
-
-## Hanzi
-
-上善如水
-
-水善利萬物
-而不爭
-
-居眾之所惡
-故幾於道矣
-
-居善地
-心善淵
-予善仁
-言善信
-正善治
-事善能
-動善時
-
-夫唯不爭
-故無尤
-
-## English
-
 The best are like water.
 
 Water is good at helping everything

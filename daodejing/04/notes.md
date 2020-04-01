@@ -3,4 +3,13 @@
 和其光，
 同其塵。
 
-用之有 is a thing in ctext, 用之或 is not. Having a purpose for one. See chapter 10 有車之用, the purpose of having a cart.
+用之有 is a thing in ctext, 
+用之或 is not.
+Having a use for it.
+
+Also see chapter 10 有車之用,
+having use for cart.
+
+I prefer to use 呵 where 乎/兮 appear in Heshangong/Wangbi
+because they seem interchangeable,
+and Mawangdui and Guodian both use 呵.
