@@ -1,37 +1,3 @@
-# Fathers
-
-## Hanzi
-
-孔德之客
-唯道是從。
-
-道之物
-唯望
-唯忽。
-
-忽呵望呵，
-中有象呵。
-
-望呵忽呵，
-中有物呵。
-
-幽呵鳴呵，
-中有請也。
-
-其請甚真，
-其中有信。
-
-自今及古，
-其名不去，
-以閱眾父。
-
-吾何以知
-眾父之然？
-
-以此。
-
-## English
-
 Apostles of the open heart
 are devoted only to the road.
 

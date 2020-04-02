@@ -1,21 +1,3 @@
-# Discipline
-
-## Hanzi
-
-企者不立，
-跨者不行。
-
-自視者不彰，
-自見者不明，
-自伐者無功，
-自矜者不長。
-
-其在道也
-曰餘食贅行，物或惡之
-故有道者弗居。
-
-## English
-
 Standing on tip-toes isn't stable,
 going too far isn't progress.
 
