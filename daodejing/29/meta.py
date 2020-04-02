@@ -1,0 +1,4 @@
+{
+    'title': 'Extremism',
+    'published': False,
+}
