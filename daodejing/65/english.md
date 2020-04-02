@@ -1,23 +1,3 @@
-# Obedience
-
-## Hanzi
-
-故曰為道者，
-非以明民也，
-將以愚之也，
-民之難治也，以其知也。
-故以知國，國之賊也，
-以不知國，國之德也。
-
-恆知此兩者亦稽式也。
-恆知稽式此謂玄德。
-玄德深矣，
-遠矣，
-與物反矣，
-乃至大順。
-
-## English
-
 Since they say follow the way
 not by enlightening people,
 but by keeping them in the dark,

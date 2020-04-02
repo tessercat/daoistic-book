@@ -1,25 +1,3 @@
-# Honour
-
-## Hanzi
-
-吾言甚易知也，
-甚易行也，
-而天下莫之能知也，
-而莫之能行也。
-
-言有宗，
-事有君。
-
-夫唯無知也，
-是以不我知。
-
-知者希，
-則我貴矣。
-
-是以聖人被褐而褱玉。
-
-## English
-
 Our words are very easy to understand,
 very easy to apply,
 but no one in politics can understand them,

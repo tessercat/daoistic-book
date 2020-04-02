@@ -1,26 +1,3 @@
-# Authority
-
-## Hanzi
-
-民不畏威，
-則大威至矣。
-
-無狎其所居，
-無厭其所生，
-夫唯弗厭，
-是以不厭。
-
-是以聖人自知
-而不自見也。
-
-自愛
-而不自貴也。
-
-故去罷
-取此。
-
-## English
-
 When people don't fear your power,
 you've become truly powerful.
 

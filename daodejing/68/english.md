@@ -1,26 +1,3 @@
-# Idealism
-
-## Hanzi
-
-善為士者
-不武。
-
-善戰者
-不怒。
-
-善勝敵者
-弗與。
-
-善用人者
-為之下。
-
-是謂不諍之德，
-是謂用人，
-是謂配天，
-古之極也。
-
-## English
-
 To be civilized,
 don't be warlike.
 
