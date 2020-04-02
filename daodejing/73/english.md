@@ -1,36 +1,3 @@
-# Failure
-
-## Hanzi
-
-勇於敢者則殺，
-勇於不敢者則栝。
-
-此兩者，或利
-或害。
-
-天之所惡，孰知其故。
-
-天之道。
-
-不戰
-而善勝。
-
-不言
-而善應。
-
-弗召
-而自來。
-
-戰
-而善謀。
-
-天罔恢恢。
-
-疏
-而不失。
-
-## English
-
 The adventurous get slaughtered,
 the unadventurous stay safe.
 
