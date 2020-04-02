@@ -1,4 +1,4 @@
 {
     'title': 'Utopia',
-    'published': False,
+    'published': True,
 }

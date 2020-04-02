@@ -1,4 +1,4 @@
 {
     'title': 'Consideration',
-    'published': False,
+    'published': True,
 }

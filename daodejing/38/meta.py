@@ -1,4 +1,4 @@
 {
     'title': 'Faith',
-    'published': False,
+    'published': True,
 }

@@ -1,4 +1,4 @@
 {
     'title': 'Work',
-    'published': False,
+    'published': True,
 }

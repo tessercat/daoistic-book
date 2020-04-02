@@ -1,4 +1,4 @@
 {
     'title': 'Loyalty',
-    'published': False,
+    'published': True,
 }

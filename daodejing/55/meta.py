@@ -1,4 +1,4 @@
 {
     'title': 'Impermanence',
-    'published': False,
+    'published': True,
 }

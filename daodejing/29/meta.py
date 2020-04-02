@@ -1,4 +1,4 @@
 {
     'title': 'Extremism',
-    'published': False,
+    'published': True,
 }

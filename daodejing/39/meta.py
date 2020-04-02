@@ -1,4 +1,4 @@
 {
     'title': 'Authenticity',
-    'published': False,
+    'published': True,
 }

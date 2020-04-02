@@ -1,4 +1,4 @@
 {
     'title': 'Communication',
-    'published': False,
+    'published': True,
 }

@@ -1,4 +1,4 @@
 {
     'title': 'Idealism',
-    'published': False,
+    'published': True,
 }

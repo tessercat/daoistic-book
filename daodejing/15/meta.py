@@ -1,4 +1,4 @@
 {
     'title': 'Innovation',
-    'published': False,
+    'published': True,
 }

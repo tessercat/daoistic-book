@@ -1,4 +1,4 @@
 {
     'title': 'Devotion',
-    'published': False,
+    'published': True,
 }

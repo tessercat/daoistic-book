@@ -1,4 +1,4 @@
 {
     'title': 'Virtue',
-    'published': False,
+    'published': True,
 }

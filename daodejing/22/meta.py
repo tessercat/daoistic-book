@@ -1,4 +1,4 @@
 {
     'title': 'Redemption',
-    'published': False,
+    'published': True,
 }

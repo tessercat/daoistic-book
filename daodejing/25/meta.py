@@ -1,4 +1,4 @@
 {
     'title': 'Natural Law',
-    'published': False,
+    'published': True,
 }

@@ -1,4 +1,4 @@
 {
     'title': 'Contentment',
-    'published': False,
+    'published': True,
 }
