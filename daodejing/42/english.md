@@ -1,33 +1,3 @@
-# Principles
-
-## Hanzi
-
-道生一，
-一生二，
-二生三，
-三生萬物。
-
-萬物負陰
-而抱陽，
-沖氣以為和。
-
-人之所惡，
-惟孤，
-寡，
-不穀，
-而王公
-以為稱
-故物或損之而益，
-或益之而損。
-
-人之所教，
-我亦教之，
-強梁者不得其死。
-
-吾將以為教父。
-
-## English
-
 Dao creates unity,
 unity creates duality,
 duality creates trinity,
