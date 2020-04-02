@@ -1,23 +1,3 @@
-# Ambition
-
-## Hanzi
-
-為學者日益
-為道者日損
-
-損之有損
-以至於無為也
-
-無為而無不為。
-
-取天下恆
-以無事。
-
-及其有事也，
-不足以取天下。
-
-## English
-
 Practice every day and get better,
 follow the way every day and get worse.
 

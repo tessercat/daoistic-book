@@ -1,22 +1,3 @@
-# Contentment
-
-## Hanzi
-
-天下有道
-卻走馬以糞
-
-天下無道
-戎馬生於郊
-
-罪莫厚於甚欲
-咎莫憯於欲得
-禍莫大於不知足
-
-知足之為足
-此恆足矣
-
-## English
-
 The world is on the right track
 when old pack horses are put out to pasture.
 

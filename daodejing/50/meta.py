@@ -1,0 +1,4 @@
+{
+    'title': 'Death',
+    'published': False,
+}
