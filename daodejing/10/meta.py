@@ -1,0 +1,4 @@
+{
+    'title': 'Character',
+    'published': False,
+}

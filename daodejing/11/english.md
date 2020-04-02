@@ -1,26 +1,3 @@
-# Purpose
-
-## Hanzi
-
-卅楅同一轂。
-
-當其無，
-有車之用也。
-
-然埴為器。
-
-當其無，
-有埴器之用也。
-
-戶牖，
-當其無，
-有室之用也。
-
-故有之以為利，
-無之以為用。
-
-## English
-
 Thirty spokes share a hub.
 
 Where it's empty,
