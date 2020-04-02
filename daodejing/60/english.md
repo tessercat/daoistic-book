@@ -1,24 +1,3 @@
-# Communication
-
-## Hanzi
-
-治大國
-若亨小鮮。
-
-以道立天下，
-其鬼不神。
-
-非其鬼不神也，
-其神不傷人也，
-
-非其神不傷人也，
-聖人亦弗傷也。
-
-夫兩不相傷，
-故德交歸焉。
-
-## English
-
 Running a big country
 is like cooking little fish.
 

@@ -1,30 +1,3 @@
-# Inferiority
-
-## Hanzi
-
-大國者下流也
-天下之牝。
-
-天下之交也，
-牝恆以靚勝牡，
-為其靚也，
-故宜為下。
-
-大國以下小國，
-則取小國。
-小國以下大國，
-則取於大國。
-故或下以取，
-或下而取。
-
-故大國者不過欲兼畜人，
-小國者不過欲入事人。
-
-夫皆得其欲
-則大者宜為下。
-
-## English
-
 The strong give in and go with the flow,
 the world's bitch.
 

@@ -1,27 +1,3 @@
-# Leading the Way
-
-## Hanzi
-
-其正閔閔，其民屯屯，
-其正察察，其政缺缺。
-
-禍福之所倚，
-福禍之所伏，
-孰知其極。
-
-其無正，
-正復為奇，
-善復為訞，
-人之悉也
-其日固久矣。
-
-是以方而不割，
-兼而不刺，
-直而不紲，
-光而不眺。
-
-## English
-
 When reform is moderate, the people are willing,
 when reform is sweeping, the system is broken.
 

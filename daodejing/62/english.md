@@ -1,32 +1,3 @@
-# Reverence
-
-## Hanzi
-
-道者萬物之注也，
-善人之保也，
-不善人之所保也。
-
-美言可以市，
-尊行可以加人，
-
-人之不善也，
-何棄之有？
-
-故立天子，
-置三卿，
-雖有共之璧以先四馬，
-不若坐而進此。
-
-古之所以貴此者何也？
-
-不謂
-求以得，
-有罪以免輿？
-
-故為天下貴。
-
-## English
-
 Everything follows to the road.
 Honest people treasure it.
 Dishonest people take refuge in it.
