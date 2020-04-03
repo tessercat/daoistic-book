@@ -1,20 +1,32 @@
+# Guodian
+
 罪莫厚於甚欲
 咎莫僉於欲得
 禍莫大乎不知足
+
+# Mawangdui A
 
 罪莫大於可欲
 禍莫大於不知足
 咎莫憯於欲得
 
+# Mawangdui B
+
 罪莫大可欲
 禍
+
+# Heshangong
 
 罪莫大於可欲
 禍莫大於不知足
 咎莫大於欲得
 
+# Wangbi
+
 禍莫大於不知足
 咎莫大於欲得
+
+# Variations
 
 [僉憯]
 [甚可]
