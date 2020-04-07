@@ -1,17 +1,17 @@
-The wise never have anything in mind,
-they take everyone's heart to heart.
+Wise politicians never think for themselves.
+They let citizens do the thinking for them.
 
-They treat good people well,
-they treat bad people well,
-character is decency.
+They get along with the good ones
+as well as they get along with the bad ones.
+Character is good will.
 
-They trust honest people,
-they trust dishonest people,
-character is trust.
+They trust the honest ones
+as much as they trust the dishonest ones.
+Character is faith.
 
-The role of the wise in the world
-is to get to know them,
-to be the world's mixed-up heart.
+The role of the wise
+is to bring people together,
+to get people in sync.
 
-Everyone always wants to know how they fit in,
-the wise always make room for them.
+Citizens always want to fit in.
+The wise always make room for them.
