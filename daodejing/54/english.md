@@ -2,25 +2,25 @@ Good foundations don't crumble,
 good bonds aren't easy to break,
 and family lines don't end when they follow tradition.
 
-Cultivate them within,
+Cultivated within,
 their morality becomes reality.
 
-Practice them as a family,
+Nurtured in the family,
 their morality gathers momentum.
 
-Promote them in the community,
+Practiced in the community,
 their morality becomes growth.
 
-Teach them in the nation,
+Fostered in the nation,
 their morality becomes abundance.
 
-Practice them in society,
-their morality becomes tolerance.
+Promoted in society,
+their morality becomes maturity.
 
 Every person has them,
 every family has them,
 every community has them,
-every nation has them,
+every government has them,
 every society has them.
 
 So how do I know what society is like?
