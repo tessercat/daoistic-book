@@ -2,7 +2,7 @@ Heaven and earth aren't humane.
 They treat everything as straw dogs.
 
 The wise aren't humane.
-They treat clan chiefs as straw dogs.
+They treat citizens as straw dogs.
 
 Between heaven and earth,
 isn't it like a bellows?
