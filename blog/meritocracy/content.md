@@ -47,7 +47,7 @@ prepare by staying still and empty.
 They don't criticize
 and they don't demean.
 They set terms, establish facts,
-and let apprentices figure it out for themselves.
+and let apprentices take it from there.
 They follow the road in ignorance,
 let facts speak for themselves.
 故有道之主
@@ -62,15 +62,15 @@ let facts speak for themselves.
 以不知為道
 以柰何為實
 
-Yao asked, What does it take
-to rule and hand over everything lit by the sun and moon?
-Shun asked, What does it take
-to be responsible for everything except the wilderness?
-Yu asked, What does it take
-to control the north and transform everything between Jiuyang and Qiguai?
-堯曰若何而
-為及日月之所燭
-舜曰若何而
-服四荒之外
-禹曰若何而
-治青北化九陽奇怪之所際
+Yao tells us how to transfer power
+over everything lit by the sun and moon.
+Shun tells us how to take responsibility
+for everything within the four frontiers.
+Yu tells us how to organize the north-east and fix
+everything from Jiuyang to Qiguai.
+堯曰若何而為及
+日月之所燭
+舜曰若何而服
+四荒之外
+禹曰若何而治青北化
+九陽奇怪之所際
