@@ -1,19 +1,14 @@
-Hanzi versions of these poems
-are based on comparison of
-Guodian, Mawangdui, Heshangong and Wangbi
-texts scraped from ctext in 2016.
-Where one exists,
-I pay close attention to Guodian,
-and I read Scott Cook's notes carefully.
-As much as I'm able,
-I try to reconcile Guoadian to Wangbi,
-and where no Guodian version exists,
-I prefer Wangbi.
+道 is literally a road, a path,
+but it's also patterns, principles, ideals.
+As a verb it means
+to express or to communicate,
+which in turn evokes 名,
+literally a name
+but also a meaning, a definition.
 
-Having said that,
-Wangbi and Heshangong seem often to drop 也
-and other particles (之 in particular)
-where they appear in other versions,
-so I retain them in my own version where they
-exist in Guodian or Mawangdui
-but don't in Wangbi.
+The poem introduces 玄
+as the shadowy veils,
+the moral lessons (門),
+that mark the passageway
+to eternal mysteries (衆妙)
+that lie beyond.

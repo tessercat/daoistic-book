@@ -4,16 +4,16 @@ It's not a normal idea.
 A word can be defined.
 It's not a regular word.
 
-Calling it nothing is the conception of heaven and earth.
-Calling it something is the mother of ten thousand things.
+Nameless, it's the author of heaven and earth.
+Named, it's the mother of everything.
 
-That's why we practice wanting nothing, to observe its subtleties.
-Always wanting something, observe how it's described.
+That's why we practice detachment, to witness its mystery.
+It's why we're always yearning, to discover how to describe it.
 
-These pairs emerge together
-and each evokes the other.
+These pairs produce each other,
+but one defines the other.
 
-Call each a veil.
+They call each other shadow veil.
 
 Veil upon veil,
-the gateway of many subtleties.
+the lessons of the eternal mystery.
