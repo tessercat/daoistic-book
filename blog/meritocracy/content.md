@@ -62,11 +62,11 @@ let facts speak for themselves.
 以不知為道
 以柰何為實
 
-Yao tells us how to transfer power
+Yao showed us how to transfer power
 over everything lit by the sun and moon.
-Shun tells us how to take responsibility
+Shun showed us how to take responsibility
 for everything within the four frontiers.
-Yu tells us how to organize the north-east and fix
+Yu showed us how to organize the north-east and fix
 everything from Jiuyang to Qiguai.
 堯曰若何而為及
 日月之所燭
