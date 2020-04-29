@@ -5,7 +5,7 @@ because they can't stop moralizing.
 
 The highly moral do nothing
 and expect nothing,
-and when the least moral do something,
+but when the least moral do something,
 they expect something in return.
 
 When the truly kind do something,
