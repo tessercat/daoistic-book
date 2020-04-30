@@ -2,24 +2,24 @@ Society exists for a reason.
 Think of it as society's mother.
 
 When you recognize the mother,
-go back and think about her children,
+you'll understand her children,
 and when you understand her children,
-go back and protect the mother,
-and you'll never be in danger.
+you'll protect them from the mother,
+but you'll never be in danger.
 
-Close the shutters and bar the gate
-and you won't worry about anything.
+You'll shutter the windows and bar the gate
+but you won't worry about anything.
 
-Open the shutters and support the cause
-and you won't save anyone.
+You'll open the shutters and support the cause,
+but you won't save anyone.
 
-Looking out for the weak
-is called enlightenment,
+Looking after for the weak
+is called wisdom,
 and protecting the vulnerable
-is strength.
+is called strength.
 
-Shine her light
-and return once again to her wisdom
-and you won't get left behind.
+Shine the light,
+you'll go back to the wisdom
+but you won't get left behind.
 
-This one's called Xichang, regular exercise.
+This one's called Xichang, practice makes perfect.
