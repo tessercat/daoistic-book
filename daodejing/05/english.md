@@ -8,7 +8,7 @@ Between heaven and earth,
 isn't it like a bellows?
 
 Empty, but it doesn't collapse.
-Pump and more comes out.
+Squeeze and more comes out.
 
-Lecturing and criticizing
-aren't the same as staying neutral.
+Barking orders, placing blame,
+that's not the same as staying neutral.
