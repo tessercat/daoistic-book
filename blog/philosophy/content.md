@@ -77,9 +77,9 @@ We sustain its character when we practice it with others.
 
 The heavens protect life.
 They make us moral and provide for us.
-Our spirits return to them because we help and don't harm.
-Helping and not harming builds character.
-It makes us moral.
+Our souls return to them because they help and don't harm.
+Helping and not harming builds character,
+so that's how to be moral.
 天覆萬物
 施其德而養之
 與而不取故精神歸焉
@@ -93,11 +93,11 @@ Society is stable when we channel their respect and humility.
 天高澤下聖人法之
 尊卑有敘天下定矣
 
-The earth supports life and nurtures us.
-Our bodies return to it because we give and take from it.
-Taking this and giving that cheapens character.
-Suppressing morality isn't escaping morality,
-it makes us immoral.
+The earth supports life and disciplines us.
+Our bodies return to it because it gives and takes.
+Give and take is low character,
+and the least moral don't escape morality,
+so that's how to be immoral.
 地載萬物而長之
 與而取之故骨骸歸焉
 與而取者下德也
