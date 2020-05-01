@@ -1,42 +1,50 @@
 ### About Daoistic
 
-I took a few classes
-in Daoism and Chinese history
-way back when,
-and I've looked at
-a few different translations
-of the _Dao De Jing_.
-I've always been struck
-by how different
-they can be,
-so a software developer
-with a history degree
-started wondering
+This is what happens
+when software developers
+with history degrees
+and time on their hands
+start wondering
 what the source code looks like.
-It turns out that
-even though classical Chinese
+It turns out that classical Chinese
 isn't exactly a programming language,
-it's a learnable technical skill,
-so I've been learning it,
-and staring at poems,
-and building techy crutches,
-and this site is what has become of it.
-I think of it as
-an ongoing personal art project.
+but semantics and syntax
+are pretty well known,
+and it's all online
+and easily searchable
+at [ctext](https://ctext.org).
+Not that I'm an expert,
+or even literate.
+I can't write characters,
+and I certainly can't read them out loud.
+And I'll never be Daoist,
+or Chinese,
+or live 2500 years ago.
+But the more I read,
+the more I appreciate the point of view,
+and the more I enjoy
+trying to express it
+in my own language.
+While it's probably foolhardy
+to attempt to express the inexpressible
+in any language,
+I can't seem to help it,
+and when I'm objective about being subjective,
+sometimes I think I get it right.
 
 ### References
 
 Fuller and Rouzer were my Kernighan and Ritchie,
-and I try to stay true
-to the Kroll dictionary.
+and I take Kroll very seriously.
 I look at other translations
 as a sanity check,
-mostly Lau and Cook,
-and the [Chinese Text Project](https://ctext.org)
+mostly Lau and Cook's Guodian notes.
+The [Chinese Text Project](https://ctext.org)
 is indispensable
 for studying characters
 and patterns of characters
 in other contexts.
+
 The hanzi poems are derived from
 side-by-side comparison
 of Guodian,
@@ -46,6 +54,13 @@ and Wangbi
 texts
 copied from ctext
 in 2016.
+My versions are based on Wangbi,
+but sometimes heavily modified
+where a Guodian version exists.
+I also like to include particles
+that are missing in Wangbi
+but present in other versions.
+
 Unicode data for the
 [reference tools](https://daoistic.ca/unihan/dump)
 is derived from the
@@ -55,7 +70,7 @@ is derived from the
 
 The poems,
 including hanzi and English interpretations,
-are © 2019-2020 Peter Christensen,
+are © 2016-2020 Peter Christensen,
 shared under the
 Creative Commons Attribution-NonCommercial-ShareAlike license.
 
