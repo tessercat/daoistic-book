@@ -1,9 +1,9 @@
 ### About Daoistic
 
 This is what happens
-when software developers
-with history degrees
-and time on their hands
+when a software developer
+with a history degree
+and time on his hands
 start wondering
 what the source code looks like.
 It turns out that classical Chinese
@@ -12,15 +12,15 @@ but semantics and syntax
 are pretty well known,
 and it's all online
 and easily searchable
-at [ctext](https://ctext.org).
+on [ctext](https://ctext.org "Chinese Text Project").
 Not that I'm an expert,
 or even literate.
 I can't write characters,
 and I certainly can't read them out loud.
 And I'll never be Daoist,
 or Chinese,
-or live 2500 years ago.
-But the more I read,
+or live 2500 years ago,
+but the more I read,
 the more I appreciate the point of view,
 and the more I enjoy
 trying to express it
@@ -39,7 +39,7 @@ and I take Kroll very seriously.
 I look at other translations
 as a sanity check,
 mostly Lau and Cook's Guodian notes.
-The [Chinese Text Project](https://ctext.org)
+The [Chinese Text Project](https://ctext.org "ctext")
 is indispensable
 for studying characters
 and patterns of characters
@@ -62,9 +62,9 @@ that are missing in Wangbi
 but present in other versions.
 
 Unicode data for the
-[reference tools](https://daoistic.ca/unihan/dump)
+[reference tools](https://daoistic.ca/unihan/dump "Unihan reference tools")
 is derived from the
-[Unicode Han Database](https://www.unicode.org/reports/tr38/) (Unihan).
+[Unicode Han Database](https://www.unicode.org/reports/tr38/ "tr38") (Unihan).
 
 ### Copyright
 
