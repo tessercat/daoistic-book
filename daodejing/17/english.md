@@ -10,5 +10,5 @@ and you should expect disrespect.
 Preaching is pointless.
 
 Just do the job and do it well
-so the chiefs can all say
+so citizens can say
 they did it themselves.
