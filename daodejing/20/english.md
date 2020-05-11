@@ -7,8 +7,8 @@ how are they different?
 Good and evil,
 how are they the same?
 
-Be it resolved that what some people consider sacred
-should not be used to demonize others.
+Be it resolved that what some hold sacred
+shouldn't demonize others.
 
 They were so enthusiastic,
 even before it started.
