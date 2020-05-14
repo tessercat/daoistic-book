@@ -1,8 +1,8 @@
 Because a decadent society
 expects kindness and decency,
 
-and an unhealthy relationship
-expects obedience and devotion,
+an unhealthy family
+expects obedience and commitment,
 
 and a corrupt ruling class
 expects loyal subjects.
