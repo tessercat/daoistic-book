@@ -1,5 +1,5 @@
-The force of Dao is to resist,
-and the purpose of Dao is to weaken.
+Going backwards is how Dao makes progress.
+Failing is how Dao is fulfilled.
 
-Problems in society are created by property,
-and having property was created by having nothing.
+Society exists for a reason.
+Something comes from nothing.
