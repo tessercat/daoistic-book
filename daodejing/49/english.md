@@ -1,17 +1,17 @@
 Wise politicians never think for themselves.
-They let citizens do the thinking for them.
+They let citizens think for them.
 
-The good ones treat us well
-and the bad ones also treat us well.
-Character is dignity.
+We treat good ones well
+and we treat bad ones well too.
+Character is decency.
 
-The honest ones trust us
-and the dishonest ones trust us too.
+We trust honest ones
+and we trust dishonest ones too.
 Character is honesty.
 
 The role of the wise
 is to bring people together,
-to get people in sync.
+to get people to cooperate.
 
 Citizens always want to fit in.
 The wise always make room for them.
