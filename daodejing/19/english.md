@@ -1,11 +1,11 @@
-Stop explaining it to them and don't argue with them
-and people would be a hundred times better off.
+Stop explaining it to them and don't argue with them.
+People would be a hundred times better off.
 
-Stop lying to them and don't exploit them
-and there would be no rebels and thieves.
+Stop lying to them and don't exploit them.
+There would be no rebels and thieves.
 
-Stop forcing them and don't threaten them
-and people would start helping again.
+Stop forcing them and don't threaten them.
+People would start helping again.
 
 You might think these three sayings
 aren't very good advice,
