@@ -18,7 +18,7 @@ and take them as they are.
 Their food is delicious,
 their clothing is beautiful,
 their homes are peaceful,
-their parties are fun.
+their lives are happy.
 
 Neighbouring towns
 are within sight of each other.
