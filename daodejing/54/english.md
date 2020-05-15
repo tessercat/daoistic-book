@@ -24,4 +24,5 @@ every government has them,
 every society has them.
 
 So how do I know what society is like?
+
 Like this.
