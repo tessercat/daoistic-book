@@ -4,7 +4,7 @@ I say it changes no matter what we do.
 
 Legitimacy.
 
-That's not something you can change.
+That's not something we can change.
 
 Progressives are defeated by it,
 conservatives lose it.
