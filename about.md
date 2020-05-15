@@ -2,7 +2,7 @@
 
 This is what happens
 when a software developer
-with a history degree
+with an interest in Daoism
 and time on his hands
 start wondering
 what the source code looks like.
@@ -15,14 +15,14 @@ and easily searchable
 on [ctext](https://ctext.org "Chinese Text Project").
 Not that I'm an expert,
 or even literate.
-I can't write characters,
-and I certainly can't read them out loud.
-And I'll never be Daoist,
+I can't write characters
+or read them out loud,
+and I'll never be Daoist,
 or Chinese,
 or live 2500 years ago,
 but the more I read,
 the more I appreciate the point of view,
-and the more I enjoy
+and the more I value
 trying to express it
 in my own language.
 While it's probably foolhardy
