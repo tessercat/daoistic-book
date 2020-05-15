@@ -1,5 +1,5 @@
 Stop debating,
-there's no point.
+it's pointless.
 
 Consent and concede,
 how are they different?
