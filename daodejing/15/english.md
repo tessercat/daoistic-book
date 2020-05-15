@@ -5,23 +5,18 @@ deeply intelligent,
 ultimately inscrutable,
 so loud sing their praise.
 
-As cautious as a winter crossing,
-as faithful as a trusted friend,
-as respectful as a guest.
+As cautious as winter travellers,
+as anxious as worried neighbours,
+as brave as refugees.
 
 As chill as ice,
 as true as timber,
-as mixed up as melt water.
+as messy as mud.
 
-Who else could let melt water,
-by stillness,
-slowly settle?
+Who among us can slowly clean up by calming down,
+and slowly create stability by changing?
 
-Who else could let peace,
-by movement,
-slowly arise?
-
-Those who took this path
-didn't want to fill up
-so they could save up
-and not start from scratch.
+Those of us who embrace this method
+don't want to fill up
+so we can save up
+but not start from scratch.
