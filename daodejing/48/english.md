@@ -1,7 +1,7 @@
-Practice every day and do more,
-follow the way every day and do less.
+Study every day and get better,
+follow the way every day and get worse.
 
-Do less and less
+Get worse and worse
 till you end up doing nothing,
 doing nothing, but nothing's left undone.
 
