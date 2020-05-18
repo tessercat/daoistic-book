@@ -7,16 +7,18 @@ so loud sing their praise.
 
 As cautious as winter travellers,
 as anxious as worried neighbours,
-as brave as refugees.
+as polite as guests.
 
 As chill as ice,
 as true as timber,
 as messy as mud.
 
-Who among us can slowly clean up by calming down,
-and slowly create stability by changing?
+Who can clean up by settling down,
+and who can be stable by changing?
 
-Those of us who embrace this method
-don't want to fill up
-so we can save up
-but not start from scratch.
+Those of us who practice this method
+don't try to perfect it.
+
+Above all, we don't perfect it
+so we can neglect it
+and not start from scratch.
