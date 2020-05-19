@@ -1,4 +1,4 @@
 {
     'title': 'Ex Nihilo',
-    'published': False,
+    'published': True,
 }
