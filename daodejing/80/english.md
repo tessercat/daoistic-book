@@ -1,7 +1,7 @@
 A small town, a few people.
 
-Give them tools that do the work of ten,
-but they won't use them.
+Order them to produce ten times more,
+but they'll just ignore you.
 
 Threaten them with consequences,
 but they're civilized.
