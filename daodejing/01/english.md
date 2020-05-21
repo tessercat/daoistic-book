@@ -7,7 +7,7 @@ It's not a regular word.
 Nameless, the author of heaven and earth.
 Named, the mother of everything.
 
-So always objective, observe its subtleties.
+Therefore, always objective, observe its subtleties.
 Always subjective, observe how to describe it.
 
 These couplets complement
