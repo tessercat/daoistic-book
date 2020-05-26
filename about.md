@@ -19,8 +19,8 @@ I can't write characters
 or read them out loud,
 and I'll never be Daoist,
 or Chinese,
-or live 2500 years ago,
-but the more I read,
+or live 2500 years ago.
+But the more I read,
 the more I appreciate the point of view,
 and the more I value
 trying to express it
