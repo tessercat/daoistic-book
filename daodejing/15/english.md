@@ -5,20 +5,21 @@ deeply intelligent,
 ultimately inscrutable,
 so loud sing their praise.
 
-As cautious as winter travellers,
-as anxious as worried neighbours,
-as polite as guests.
+Cautious, like they were crossing a river in winter.
 
-As chill as ice,
+Scared, like they were surrounded by hostile neighbours.
+
+As brave as apostles,
+as chill as ice,
 as true as timber,
 as messy as mud.
 
-Who can clean up by settling down,
-and who can be stable by changing?
+Who can clean up by calming down,
+and who can hold steady by changing?
 
-Those of us who practice this method
-don't try to perfect it.
+Those who took this path
+didn't ask for perfection.
 
-Above all, we don't perfect it
-so we can neglect it
+Above all, accepting imperfection
+meant they could make mistakes
 and not start from scratch.
