@@ -1,5 +1,5 @@
-Backward is how Dao moves forward.
-Failing is how Dao succeeds.
+Backward is the way forward.
+Failure is the road to success.
 
-Society exists for a reason.
-Something comes from nothing.
+People do things for a reason.
+The reason is that something is missing.
