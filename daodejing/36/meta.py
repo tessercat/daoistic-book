@@ -1,4 +1,4 @@
 {
     'title': 'Inspiration',
-    'published': False,
+    'published': True,
 }

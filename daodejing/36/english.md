@@ -1,14 +1,14 @@
-When you try to control them,
-you'll end up unleashing them.
+Trying to control them
+ends up empowering them.
 
-When you try to weaken them,
-you'll end up strengthening them.
+Trying to weaken them
+ends up strengthening them.
 
-When you try to crush them,
-you'll end up inspiring them.
+Trying to hurt them
+ends up helping them.
 
-When you try to beat them,
-you'll end up joining them.
+Trying to divide them
+ends up uniting them.
 
 They call that
 a glimmer of enlightenment.
