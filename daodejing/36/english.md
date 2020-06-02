@@ -1,14 +1,14 @@
 Trying to control them
-ends up empowering them.
+just provokes them.
 
 Trying to weaken them
-ends up strengthening them.
+just strengthens them.
 
 Trying to hurt them
-ends up helping them.
+just helps them.
 
 Trying to divide them
-ends up uniting them.
+just unites them.
 
 They call that
 a glimmer of enlightenment.
