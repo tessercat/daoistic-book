@@ -1,4 +1,5 @@
 {
     'title': 'Conflict',
-    'published': False,
+    'published': True,
+    'publish_notes': True,
 }
