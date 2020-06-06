@@ -1,25 +1,22 @@
-Practice doing nothing,
-try striving for nothing,
-savour the taste of nothing.
+Govern without an agenda,
+delegate without getting involved,
+decide without being in control.
 
-Big or small,
-major or minor,
-face challenges with character.
+Whether crimes are big or small,
+whether sins are many or few,
+settle disputes fairly.
 
-Plan hard jobs as easy ones,
-do big jobs as little ones.
+Think of conflict as cooperation,
+use power with humility.
 
-Hardship comes from taking it easy,
-greatness comes from humility.
+Society's conflicts are always about sharing,
+society's power is always about synergy.
 
-So the wise end up not doing big jobs
-so they can get big jobs done.
+So the wise resolve not to abuse our power
+so we can do great things together.
 
-An easy promise
-is always an empty promise.
+Easy promises are always empty promises,
+more sharing always causes more conflict.
 
-Taking it too easy
-always makes things too hard.
-
-So the wise scold them gently
-and they end up having no trouble at all.
+So the wise hold us accountable
+so we settle it ourselves without fighting.
