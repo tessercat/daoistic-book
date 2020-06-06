@@ -4,7 +4,7 @@ This is what happens
 when a software developer
 with an interest in Daoism
 and time on his hands
-start wondering
+starts to wonder
 what the source code looks like.
 It turns out that classical Chinese
 isn't exactly a programming language,
