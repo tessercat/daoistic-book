@@ -1,40 +1,38 @@
-It's calm and easy to control,
-uncertain and easy to plan.
-fragile and easily broken,
-small and easy to lose.
+It's stable and easy to sustain,
+predictable and easy to plan,
+fragile and easily shattered,
+skittish and easily scattered.
 
-Practice before it happens,
-organize before it gets out of hand.
+Handle it before it happens,
+fix it before it falls apart.
 
-A tree of many arms around
-grows from a tiny sprout.
+A tree this big around
+grew from a tiny sprout.
 
-A tower of nine stories
-rises from a pile of dirt.
+A tower nine stories high
+rose from a pile of dirt.
 
 A journey of a thousand miles
-starts from beneath your feet.
+starts with a single step.
 
-Practicing means failing,
-keeping means losing.
+Running things ruins them,
+holding on chases them away,
+so the wise don't do anything
+so they don't ruin anything,
+and don't have anything
+so they don't lose anything.
 
-So the wise don't fail because they don't do anything,
-don't lose anything because they don't keep anything.
+When there's work to do,
+people often fail just as they're about to succeed,
+so they tell us
+to be as careful at the end
+as we were at the beginning
+so we don't waste any effort.
 
-People fail,
-and they always fail just as they're about to succeed.
+So the wise try not to want anything,
+and they don't appreciate the finer things.
 
-That's why when you're
-as cautious at the end as you were at the beginning,
-you won't fail to get it done.
-
-So the wise
-
-try not to expect anything
-and don't appreciate the finer things,
-
-learn not to learn
-and return to what everyone else rejects.
-
-So they can affirm everything’s true nature,
-and they wouldn't dare manage them.
+They learn not to conform
+and they ignore what everyone else says
+so they can affirm everything’s true nature
+and they wouldn't dare tell us what to do. 
