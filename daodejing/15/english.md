@@ -20,6 +20,6 @@ and who can hold steady by changing?
 Those who took this path
 didn't ask for perfection.
 
-Above all, accepting imperfection
-meant they could make mistakes
+Above all, they were imperfect
+so they could make mistakes
 and not start from scratch.
