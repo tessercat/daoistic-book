@@ -17,7 +17,7 @@ and above all they don't argue
 because no one can argue with it.
 
 What the ancients said
-about dividing and uniting,
+about division and unity,
 was it false doctrine?
 
 They were true believers
