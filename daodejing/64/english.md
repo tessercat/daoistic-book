@@ -19,7 +19,7 @@ Running things ruins them,
 holding on chases them away,
 so the wise don't do anything
 so they don't ruin anything,
-and don't have anything
+and don't keep anything
 so they don't lose anything.
 
 When there's work to do,
@@ -27,7 +27,7 @@ people often fail just as they're about to succeed,
 so they tell us
 to be as careful at the end
 as we were at the beginning
-so we don't waste any effort.
+so we don't waste effort.
 
 So the wise try not to want anything,
 and they don't appreciate the finer things.
