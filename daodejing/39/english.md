@@ -29,7 +29,7 @@ would extinguish the gods,
 endless bounty
 would exhaust the fields,
 
-endless ranks of privileged elites
+endless ranks of aristocrats
 would topple lords and kings.
 
 That's why they were elite
