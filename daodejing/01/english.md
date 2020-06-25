@@ -1,14 +1,14 @@
-An idea can be expressed.
-It's not a normal idea.
+Ideas can be expressed,
+but it's not a normal idea.
 
-A word can be defined.
-It's not a regular word.
+Words can be defined,
+but it's not a normal word.
 
-Nameless, the author of heaven and earth.
-Named, the mother of everything.
+Nameless, it's the author of heaven and earth,
+and named, it's the mother of everything.
 
-Therefore, always objective, observe its subtleties.
-Always subjective, observe how to describe it.
+So be objective to observe its subtleties,
+and be subjective to discover how to describe it.
 
 These couplets complement
 but contradict each other.
@@ -16,4 +16,4 @@ but contradict each other.
 Together, call them Xuan, mysterious veils.
 
 Mystery upon mystery,
-a profusion of subtle lessons.
+lessons of infinite subtlety.
