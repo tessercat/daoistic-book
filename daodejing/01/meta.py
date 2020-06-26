@@ -1,4 +1,5 @@
 {
-    'title': 'Community',
-    'published': False,
+    'title': 'Methodology',
+    'published': True,
+    'publish_notes': True,
 }
