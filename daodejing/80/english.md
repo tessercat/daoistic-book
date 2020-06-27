@@ -7,12 +7,12 @@ Threaten them with consequences,
 but they're civilized.
 
 They have war chariots
-they don't take anywhere.
+they don't parade.
 
 They have armor and weapons
 they don't show off.
 
-Give them back their plumb lines
+Let them go back to the old ways
 and take them as they are.
 
 Their food is delicious,
