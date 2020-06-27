@@ -4,8 +4,8 @@ but it's not a normal idea.
 Words can be defined,
 but it's not a normal word.
 
-Nameless, the architect of heaven and earth,
-named, the author of everything.
+Nameless, it's the author of heaven and earth,
+named, it explains everything.
 
 So be objective to observe its subtleties,
 be subjective to discover how to describe it.
