@@ -15,5 +15,5 @@ but contradict each other.
 
 Together, call them Xuan, mysterious veils.
 
-Veil after veil,
+Veil upon veil,
 a process of infinite subtlety.

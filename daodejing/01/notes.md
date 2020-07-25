@@ -20,8 +20,7 @@ doesn't list "veil"
 as a possible meaning,
 but defines 玄 as
 the quality of permitting the passage of light
-without making visible what's on the other side,
-so I don't think "veil" is too far off.
+without making visible what's on the other side.
 
 The _Daodejing_ uses 謂
 (often as 是謂, "this is called")
