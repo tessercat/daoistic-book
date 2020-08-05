@@ -5,10 +5,10 @@ Trying to weaken them
 just strengthens them.
 
 Trying to hurt them
-just helps them.
+only helps them.
 
 Trying to divide them
-just unites them.
+only unites them.
 
 They call that
 a glimmer of enlightenment.
