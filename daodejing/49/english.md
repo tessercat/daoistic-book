@@ -1,20 +1,19 @@
 Wise politicians never think for themselves.
 They let citizens think for them.
 
-They respect the good ones,
-but they also respect the bad ones.
+They get along with saints
+and they get along with sinners.
 
-Character is respect.
+Character has respect.
 
-They trust the honest ones,
-but they also trust the dishonest ones.
+They trust the believers
+and they trust the skeptics.
 
-Character is trust.
+Character has faith.
 
 The role of the wise
 is to bring people together,
 to get people to cooperate.
 
-Citizens always want to fit in.
-
+Citizens always want to know how they fit in.
 The wise always make room for them.
