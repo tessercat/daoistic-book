@@ -4,7 +4,7 @@ people would be a hundred times better off.
 
 Stop lying to them,
 don't exploit them,
-there would be no traitors and thieves.
+there would be no traitors or thieves.
 
 Stop forcing them,
 don't threaten them,
