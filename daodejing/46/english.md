@@ -1,5 +1,5 @@
 The world is on the right track
-when old pack horses graze in the pastures.
+when old pack horses graze the pasture.
 
 The world has lost its way
 when war horses train in the fields.
