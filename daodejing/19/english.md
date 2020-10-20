@@ -1,18 +1,18 @@
-Stop explaining it to them,
-don't argue with them,
-people would be a hundred times better off.
+Stop supervising them,
+don't train them,
+people would produce a hundred times more.
 
-Stop lying to them,
+Stop cheating them,
 don't exploit them,
-there would be no traitors or thieves.
+there'd be no rebels or thieves.
 
-Stop forcing them,
-don't threaten them,
+Stop threatening them,
+don't force them,
 people would start helping again.
 
 You might think these three sayings
-aren't very good advice,
-but you set the standard.
+aren't very helpful,
+so order them to get in line.
 
 Keep it simple,
 stay natural,
