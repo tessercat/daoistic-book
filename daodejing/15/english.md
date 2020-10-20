@@ -8,17 +8,17 @@ so loud sing their praise.
 As cautious as a winter crossing,
 as diplomatic as a dangerous neighbourhood.
 
-As proud as apostles,
+As polite as guests,
 as chill as ice,
 as true as timber,
 as messy as mud.
 
-Who can clean up by calming down,
-and who can hold steady by changing?
+Didn't they clean up by calming down,
+and didn't they hold steady by changing?
 
-Idealists like that
-don't try to finish anything.
+Those of us who preserve their ways
+don't try to master them.
 
-Above all, they don't finish
-so they can take a break
-and not have to start from sratch.
+Above all, not mastering them
+means we can stray from them
+and not have to reinvent them.
