@@ -5,4 +5,4 @@ an unhealthy family
 expects obedience and commitment,
 
 and a corrupt ruling class
-expects loyal subjects.
+expects loyalty and service.
