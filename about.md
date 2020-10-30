@@ -1,12 +1,53 @@
 ### About Daoistic
 
-This is what happens
-when a software developer
-with time on his hands
-thinks he can
-learn to read
-the _Dao De Jing_
+I read the _Dao De Jing_
+for a religious studies class
+way back when,
+but I had no idea
+what to make of it.
+I found the
+[ctext](https://ctext.org/dao-de-jing "Dao De Jing - The Chinese Text Project")
+version online
+a few years ago,
+and I liked how patterned the poems look
+in classical Chinese
+compared to how vague they seem in English,
+so I thought I'd try
+learning to read them
 in classical Chinese.
+
+A few years later,
+I'm no expert,
+definitely not Daoist,
+still not Chinese,
+but I love how jazzy and pithy
+the poems are in Chinese,
+and I like spending time
+with
+[Kroll's dictionary](https://brill.com/view/title/20918 "A Student's Dictionary of Classical and Medieval Chinese"),
+wondering what
+the old guy
+was on about
+and trying to express
+what I think I find there
+in my own language.
+
+Though I'm not sure of much,
+I can say by now
+with some certainty
+that *dao* in classical Chinese
+is something like *principle* in English,
+and *de* is something like *morality*,
+so the _Dao De Jing_ is something like
+_The Classic of Moral Principles_.
+
+It's a handbook of moral philosophy
+for public servants,
+riffing point and counterpoint
+on how to keep your balance
+and be a good person,
+maybe even do some lasting good,
+in an uncertain and turbulent world.
 
 ### References
 
@@ -25,7 +66,7 @@ Though the studies
 are based on Wangbi,
 some are heavily modified
 where a Guodian version exists,
-and I also transcribe particles
+and I transcribe particles
 from other versions to my own
 when they help make sense
 of Wangbi.
