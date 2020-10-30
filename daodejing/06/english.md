@@ -1,9 +1,9 @@
-Immortal Gushen, valley spirit,
-they call her Xuanpin, deeply female.
+Gushen, immortal nature goddess,
+call her Xuanpin, the female principle.
 
 Xuanpin's teachings,
-they call them the philosophy of heaven and earth.
+call them the philosophy of heaven and earth.
 
 Known far and wide, they seem eternal.
 
-Leaning them isn't hard.
+Learning them isn't hard.

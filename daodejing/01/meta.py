@@ -1,5 +1,5 @@
 {
-    'title': 'Perspective',
+    'title': 'Thesis',
     'published': True,
     'publish_notes': True,
 }

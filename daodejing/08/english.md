@@ -1,18 +1,18 @@
 The best are like water.
 
-Water is good at helping everything
-and doesn't argue.
+Water helps everything
+and doesn't fight.
 
-It puts up with everyone's crap
-because it embodies Dao.
+Follow its example
+by turning the other cheek.
 
-The earth is good at settling down,
-the calm are good at thinking,
-the kind are good at giving,
-the sincere are good at communicating,
-the organized are good at leading,
-the able are good at helping,
-the seasons are good at changing.
+Good habits are steady,
+good minds are open,
+good hearts are kind,
+good words are honest,
+good rules are fair,
+good plans are possible,
+good actions are timely.
 
-Above all they don't argue
-because they don't object to anything.
+Above all, not fighting
+means not getting even.

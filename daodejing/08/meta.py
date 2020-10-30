@@ -1,4 +1,5 @@
 {
-    'title': 'Opinions',
-    'published': False,
+    'title': 'Forgiveness',
+    'published': True,
+    'publish_notes': True,
 }

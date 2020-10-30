@@ -13,7 +13,7 @@ be subjective to discover how to describe it.
 These couplets complement
 but contradict each other.
 
-Together, call them Xuan, mysterious veils.
+Together, call them Xuan, a proposition.
 
-Veil upon veil,
+Synthesis and proposition,
 a process of infinite subtlety.

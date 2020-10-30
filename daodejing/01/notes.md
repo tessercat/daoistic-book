@@ -1,60 +1,42 @@
-I'm pretty sure this poem
-is about the subtle process of
-describing the indescribable.
+On the subtle process
+of describing the indescribable.
 
-I should say up front
-that many of my word and grammar choices
-are sometimes ... debatable,
-to say the least,
-but I want my interpretation to be
-as pithy and patterned
-as possible in English
-as the original is in Chinese.
+The _Dao De Jing_ uses 謂
+(often as 是謂,
+"this is called"
+or "defined as")
+to name certain important concepts,
+as it does here for 玄.
 
-This poem introduces
-the important term 玄,
-which I've rendered here as
-"mystery" and "veil".
-Kroll (first edition)
-doesn't list "veil"
-as a possible meaning,
-but defines 玄 as
-the quality of permitting the passage of light
-without making visible what's on the other side.
-
-The _Daodejing_ uses 謂
-(often as 是謂, "this is called")
-to name certain concepts,
-as it does here,
-and this poem is the only one
+This poem is the only one
 that defines 玄 alone,
-and not as part of a binomial.
+not as part of a binomial.
+
 Other named 玄 binomials
-in the _Doadejing_
 are in 6 (玄牝),
 in 10, 51 and 65 (玄德),
 and in 56 (玄同).
+
 I think these terms
-are key concepts in the _Daodejing_'s
-philosophy of the unity of opposites,
+are key principles
+of the moral arguments
+presented in the _Dao De Jing_,
 so in my English interpretation,
 I've highlighted their importance
 by rendering them first
-in capitalized pinyin.
-
-In English,
-I render them,
+in capitalized pinyin,
+and I've interpreted them,
 respectively,
-as Xuanpin, the veil of emptiness,
-Xuande, the veil of morality
-and Xuantong, the veil of equivalence.
-Kroll also lists "deep"
-in the definition for 玄,
-and I think the 玄 terms
-might work just as well in English
-as "deeply female",
-"deeply moral"
-and "deeply ambivalent",
-but choices must be made,
-after all,
-and everything flows from there.
+as Xuanpin,
+the female principle,
+Xuande,
+the moral principle
+and Xuantong,
+the principle of equivalence.
+
+I don't think
+it's too far fetched
+to think of the _Dao De Jing_
+as a collection of dialectic,
+so I've used related terms here
+when interpreting 玄.

@@ -1,16 +1,21 @@
-Seeing things clearly as
-walk on the great way,
-I just get overwhelmed.
+If you ask me to explain
+how to do the right thing
+I'm afraid I'll just say,
 
-The great way is too run down,
-the people are too licentious,
-governments are too out of touch,
-fields are too overgrown with weeds,
-granaries are too empty.
+The high road is easy
+but you make it hard.
 
-Dressed in the latest fashion,
-armed with deadly weapons,
-too much money, too many things,
-that's just bragging about stealing,
+You've shuttered the court,
+the fields are fallow,
+the granaries are empty.
 
-it's the wrong way.
+You wear silk robes
+and carry a sharp sword.
+
+You stuff your face
+and line your pockets,
+and still want more.
+
+That makes you a tyrant.
+
+Definitely a dead end.

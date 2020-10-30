@@ -1,7 +1,9 @@
-[安案]
-[知智]
-[快慧]
-[邦國]
-[正貞忠]
-[孝畜]
-[茲慈]
+In Guodian,
+this chapter
+is the second half
+of 17.
+
+大道
+is also used
+in [chapter 53](/studies/53).
+I've left a note there.
