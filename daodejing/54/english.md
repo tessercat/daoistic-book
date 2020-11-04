@@ -1,28 +1,28 @@
-Good foundations don't crumble,
-good bonds aren't easy to break,
-and family lines don't end when they follow tradition.
+The well-raised aren't uprooted,
+the well-loved don't leave,
+families don't fail by following tradition.
 
-Cultivated within,
-their morality becomes reality.
+Cultivate this within,
+its character takes shape.
 
-Nurtured in the family,
-their morality gathers momentum.
+Nurture it in the family,
+its character quickens.
 
-Practiced in the community,
-their morality becomes growth.
+Practice it in the community,
+its character grows.
 
-Fostered in the nation,
-their morality becomes abundance.
+Promote it in the nation,
+its character flourishes.
 
-Promoted in society,
-their morality becomes maturity.
+Inspire it in the world,
+its character matures.
 
-Every person has them,
-every family has them,
-every community has them,
-every government has them,
-every society has them.
+I discover it within,
+cherish it in families,
+celebrate it in communities,
+respect it in nations,
+contemplate it in the world.
 
-So how do I know what society is like?
+So how do I know what people are like?
 
-Like this.
+Like that.

@@ -1,11 +1,11 @@
 If you ask me to explain
 how to do the right thing
-I'm afraid I'll just say,
+I'm afraid I might just say,
 
 The high road is easy
-but you make it hard.
+but people like shortcuts.
 
-You've shuttered the court,
+You've shut down the government,
 the fields are fallow,
 the granaries are empty.
 
