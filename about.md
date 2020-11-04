@@ -30,15 +30,15 @@ the old guy
 was on about
 and trying to express
 what I think I find there
-in my own language.
+in my own words.
 
 Though I'm not sure of much,
-I can say by now
+I can say
 with some certainty
 that *dao* in classical Chinese
-is something like *principle* in English,
+is something like *principles* in English,
 and *de* is something like *morality*,
-so the _Dao De Jing_ is something like
+and the _Dao De Jing_ is something like
 _The Classic of Moral Principles_.
 
 It's a handbook of moral philosophy
