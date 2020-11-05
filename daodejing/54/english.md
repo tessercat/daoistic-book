@@ -1,6 +1,6 @@
-The well-raised aren't uprooted,
-the well-loved don't leave,
-families don't fail by following tradition.
+Good foundations don't crumble,
+good bonds don't break,
+families don't falter by following tradition.
 
 Cultivate this within,
 its character takes shape.
