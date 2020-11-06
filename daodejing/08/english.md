@@ -6,13 +6,13 @@ and doesn't fight.
 Follow its example
 by turning the other cheek.
 
-Good habits are steady,
+Good instincts are steady,
 good minds are open,
 good hearts are kind,
 good words are honest,
-good rules are fair,
-good plans are possible,
+good decisions are fair,
+good plans are practical,
 good actions are timely.
 
 Above all, not fighting
-means not getting even.
+means not holding grudges.
