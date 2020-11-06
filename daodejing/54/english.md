@@ -25,4 +25,4 @@ contemplate it in the world.
 
 So how do I know what people are like?
 
-Like that.
+Like this.
