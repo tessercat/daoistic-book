@@ -1,5 +1,5 @@
 A newborn babe, soft and weak,
-is tough and stubborn in the end.
+is stiff and stubborn in the end.
 
 Every new life, soft and tender,
 withers and rots in the end.
