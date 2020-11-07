@@ -5,7 +5,7 @@ I'm afraid I might just say,
 The high road is easy
 but people like shortcuts.
 
-You've shut down the government,
+You've shut down government,
 the fields are fallow,
 the granaries are empty.
 
