@@ -1,6 +1,8 @@
 The fish out of water
-is a common saying in the literature of the time,
-and the vulerability of even the mightiest of whales
+is a common saying
+in the literature of the time,
+and the vulnerability
+of even the mightiest of whales
 to the smallest of insects,
 and what this means to leaders,
 is addressed in detail in
