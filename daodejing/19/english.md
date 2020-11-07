@@ -1,10 +1,10 @@
-Stop supervising them,
-don't train them,
+Stop criticizing them,
+don't tell them what to do,
 people would produce a hundred times more.
 
 Stop cheating them,
 don't exploit them,
-there'd be no rebels or thieves.
+there'd be no thugs or thieves.
 
 Stop threatening them,
 don't force them,
