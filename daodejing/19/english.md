@@ -1,20 +1,20 @@
-Stop criticizing them,
-don't tell them what to do,
-people would produce a hundred times more.
+Stop encouraging them,
+don't motivate them,
+people would do a hundred times more.
 
 Stop cheating them,
 don't exploit them,
-there'd be no thugs or thieves.
+crime wouldn't exist.
 
-Stop threatening them,
-don't force them,
-people would start helping again.
+Stop forcing them,
+don't threaten them,
+people would cooperate.
 
 You might think these three sayings
-aren't very helpful,
+aren't very civilized,
 so order them to get in line.
 
-Keep it simple,
-stay natural,
-swallow your pride,
-check your privilege.
+Make it plain,
+keep it simple,
+be less needy,
+don't be greedy.

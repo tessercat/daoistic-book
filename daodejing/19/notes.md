@@ -1,9 +1,22 @@
-[智聲聖]
-[辯知智]
-[倍負]
-[絕偽棄慮|絕仁棄義]
-[季子|畜茲|孝茲|孝慈]
-[不未]
-[或令之或乎屬|故令有所屬]
-[視見]
-[保抱]
+This poem
+has a lot of variation
+between versions,
+and the details
+are anyone's guess,
+but in general,
+it's pretty clearly about
+what good leaders don't do
+when they're trying to get people
+to work together on something,
+and then,
+some advice
+on what to do instead.
+
+The advice
+contains the famous
+characters for
+raw silk and plain wood
+as virtues to appreciate and protect,
+and contrasts them
+with selfishness and greed
+as vices to minimize and reject.
