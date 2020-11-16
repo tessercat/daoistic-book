@@ -7,10 +7,10 @@ Threaten them with consequences,
 but they're civilized.
 
 They have war chariots
-they don't parade.
+and no reason to harness them.
 
-They have armor and weapons
-they don't show off.
+They have armour and weapons
+and no reason to wear them.
 
 Let them go back to the old ways
 and take them as they are.
@@ -18,7 +18,7 @@ and take them as they are.
 Their food is delicious,
 their clothing is beautiful,
 their homes are peaceful,
-their lives are happy.
+their ways are friendly.
 
 Neighbouring towns
 are within sight of each other.
