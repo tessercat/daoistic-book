@@ -1,14 +1,15 @@
-At first, your subjects know they have one.
+It's best when they only know they have one.
 
-Then they flatter you,
-then they fear you,
-then they make fun of you.
+It's less than ideal
+when they're devoted to you,
+admire you,
+worse still when they fear you,
+even worse when they hate you.
 
-They're not very trusting,
-and you should expect disrespect.
+When you don't trust them enough,
+expect mistrust,
+and deprive yourself of their good advice.
 
-Honest words are few and far between.
-
-Just do the job and do it well
-so citizens can say
-they did it themselves.
+Just do your job and do it well
+so everyone says,
+I'll do that too.

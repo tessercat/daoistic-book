@@ -1,5 +1,5 @@
-This chapter and the next
-appear in Guodian
+This chapter and 18
+appear together in Guodian
 as the same poem.
 
 This explains 故
@@ -21,5 +21,5 @@ of people
 to resent and reject authority,
 and that the best authority
 is a moral authority
-that people don't even notice,
+that people barely notice,
 let alone question.
