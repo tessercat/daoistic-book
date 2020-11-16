@@ -13,12 +13,12 @@ as chill as ice,
 as true as timber,
 as messy as mud.
 
-Didn't they clean up by calming down,
-and didn't they hold steady by changing?
+What lets filth, in stillness, slowly settle,
+what lets balance, through movement, slowly arise?
 
 Those who preserve their ways
-aren't prefectionists.
+aren't perfectionists.
 
-Above all, imperfection
-means something can be flawed
-and not have to be rebuilt.
+Above all, they don't finish
+so they can make mistakes
+and not have to start from scratch.
