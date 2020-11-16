@@ -15,5 +15,5 @@ but contradict each other.
 
 Together, call them Xuan, a proposition.
 
-Synthesis and proposition,
+Thesis and hypothesis,
 a process of infinite subtlety.
