@@ -1,15 +1,15 @@
-Our words are very easy to understand,
-very easy to apply,
-but no one in politics can understand them,
-and no one can apply them.
+Our orders are very easy to understand,
+very easy to follow,
+but it's impossible for people to understand them,
+impossible to follow them.
 
-The words have a tradition,
-the work has a master.
+The orders are ancient,
+the mission is just,
+and above all, unknowable,
+so we don't reveal them.
 
-Above all their lack of awareness
-means they don't know me.
-
-If the aware are rare,
-I must be valuable.
-
-So the wise wear plain clothes and cover jade.
+They less they know,
+they more they respect us,
+so the wise
+wear plain clothes
+and conceal jade.
