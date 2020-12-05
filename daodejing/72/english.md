@@ -1,16 +1,13 @@
 When people don't fear your power,
 you've become truly powerful.
 
-Without getting complacent,
-without getting angry,
-above all don't get angry
-so you're not angry.
+Without coveting their property,
+without resenting their achievements,
+above all don't resent them
+so you're not resented.
 
-So the wise are self-aware,
-but not self-centred.
-
-They have self-respect,
-but they're not self-entitled.
-
-So let go of weariness,
-hold on to this.
+So the wise
+have opinions, but don't share them,
+have feelings, but don't indulge them,
+so ignore them,
+heed this.
