@@ -1,5 +1,6 @@
-[人民]
-[飢饑]
-[取上]
-[百生|民]
-[巠輕]
+See
+[Xuanpin](/blog/xuanpin)
+for further discussion of
+生 and 死,
+厚
+and 貴生.

@@ -1,14 +1,14 @@
-People are hungry.
-Their leaders tax them too much,
-so they starve.
+Peasants starve
+when taxes are too high.
+That's why they're starving.
 
-Workers are upset.
-Their leaders have opinions,
-so they're disorganized.
+Workers get upset
+when the boss gets involved.
+That's why they're disorganized.
 
-People ignore death.
-They're desperate to make the most of life,
-so they scoff at death.
+People risk death
+when they want life to reward them.
+That's why they're willing to die.
 
-Only those who don't take life for granted
-are truly capable of caring for life.
+Only those who expect nothing of life
+are truly capable of appreciating life.
