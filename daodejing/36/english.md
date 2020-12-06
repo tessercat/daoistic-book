@@ -1,8 +1,8 @@
 Trying to control them
-just provokes them.
+provokes them.
 
 Trying to weaken them
-just strengthens them.
+strengthens them.
 
 Trying to hurt them
 helps them.
