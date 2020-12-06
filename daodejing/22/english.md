@@ -3,7 +3,7 @@ bends and straightens,
 ebbs and flows,
 destroys and rebuilds,
 shrinks and grows,
-spreads and diversifies.
+spreads and splits apart.
 
 So the wise are committed to
 applying this in their lives.
