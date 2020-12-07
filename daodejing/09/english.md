@@ -1,14 +1,14 @@
 Filling it to the brim
 isn't better than stopping.
 
-Polishing till it shines
-can't make it last.
+Its polish and shine
+can't last.
 
-A tomb full of gold and jewels,
-who'll keep it safe?
+In a tomb full of gold and jewels,
+who'll raise it then?
 
-Ambitious for wealth and power,
-you have only yourself to blame.
+It's the arrogance of wealth and privilege,
+and claiming it for yourself is a mistake.
 
 Step up and step back,
 it's the universal way.
