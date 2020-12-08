@@ -1,4 +1,4 @@
 {
-    'title': 'Antithesis',
+    'title': 'Contradiction',
     'published': True,
 }
