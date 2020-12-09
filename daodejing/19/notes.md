@@ -18,5 +18,5 @@ characters for
 raw silk and plain wood
 as virtues to appreciate and protect,
 and contrasts them
-with selfishness and greed
+with self-interest and desire
 as vices to minimize and reject.
