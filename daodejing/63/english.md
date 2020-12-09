@@ -12,7 +12,7 @@ use power with humility.
 Society's conflicts are always about sharing,
 society's power is always about synergy.
 
-So the wise resolve not to abuse our power
+So the wise resolve not to abuse their power
 so we can do great things together.
 
 Easy promises are always empty promises,
