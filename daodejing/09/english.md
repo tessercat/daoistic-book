@@ -7,8 +7,8 @@ can't last.
 In a tomb full of gold and jewels,
 who'll raise it then?
 
-It's the arrogance of wealth and privilege,
-and claiming it for yourself is a mistake.
+It's the pride of wealth and privilege,
+keeping it is a mistake.
 
 Step up and step back,
-it's the universal way.
+the universal way.
