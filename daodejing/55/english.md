@@ -1,11 +1,11 @@
 The truly powerful
 are like newborn babes.
 
-Scorpions and snakes
-don't poison them.
+Scorpions
+don't sting them.
 
-Birds and beasts of prey
-don't attack them.
+Predators
+don't snatch them.
 
 Delicate bones, soft muscles,
 but a firm grip.
@@ -32,5 +32,5 @@ that's power.
 
 When we grow up,
 we get old
-and they call us obsolete,
-obsolete and fading fast.
+and they say we're out of touch,
+out of touch and out of time.
