@@ -13,12 +13,12 @@ as chill as ice,
 as true as timber,
 as messy as mud.
 
-What lets filth, in stillness, slowly settle,
-what lets balance, through movement, slowly arise?
+As meltwater always clears very slowly in stillness,
+as patterns always emerge very slowly when it moves?
 
-Those who preserve their ways
+Those of us who preserve their ways
 aren't perfectionists.
 
-Above all, they don't finish
-so they can make mistakes
-and not have to start from scratch.
+Above all, imperfection
+means we can fail
+and not start from scratch.

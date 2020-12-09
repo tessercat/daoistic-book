@@ -28,5 +28,4 @@ and it adapts,
 but only to restore balance.
 It's flawed and incomplete,
 and it's not modern,
-not perfect,
 never shiny and new.
