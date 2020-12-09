@@ -1,8 +1,8 @@
-If you ask me to explain
+Don't ask me to explain
 how to do the right thing
-I'm afraid I might just say,
+because I'm afraid of what I might say.
 
-The high road is easy
+The high road is easy,
 but people like shortcuts.
 
 You've shut down government,
