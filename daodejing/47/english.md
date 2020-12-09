@@ -1,7 +1,7 @@
 Don’t step out the door
 to understand the world.
 
-Don’t look out the window
+Don’t peer through a telescope
 to understand the universe.
 
 Stepping outside is even more isolating,
