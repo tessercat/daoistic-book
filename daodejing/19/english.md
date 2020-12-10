@@ -11,7 +11,7 @@ don't threaten them,
 people would cooperate.
 
 You might think these three sayings
-aren't very well organized,
+aren't very efficient,
 so order them to get in line.
 
 Make it plain,
