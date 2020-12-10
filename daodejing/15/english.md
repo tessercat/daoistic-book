@@ -20,5 +20,5 @@ Those of us who preserve their ways
 aren't perfectionists.
 
 Above all, imperfection
-means we can fail
-and not start from scratch.
+means we can fail,
+but not start from scratch.
