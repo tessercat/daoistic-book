@@ -13,8 +13,7 @@ and I liked how patterned the poems look
 in classical Chinese
 compared to how vague they seem in English,
 so I thought I'd try
-learning to read them
-in classical Chinese.
+learning to read them.
 
 A few years later,
 I'm no expert,
@@ -36,18 +35,18 @@ Though I'm not sure of much,
 I can say
 with some certainty
 that *dao* in classical Chinese
-is something like *principles* in English,
+is something like *principles*,
 and *de* is something like *morality*,
-and the _Dao De Jing_ is something like
+so the _Dao De Jing_ is something like
 _The Classic of Moral Principles_.
 
-It's a handbook of moral philosophy
-for public servants,
+It's a handbook of moral philosophy,
+but its first lesson
+is that moralizing is immoral.
+It's a jazzy manifesto,
 riffing point and counterpoint
-on how to keep your balance
-and be a good person,
-maybe even do some lasting good,
-in an uncertain and turbulent world.
+on how to be
+a civilized human being.
 
 ### References
 
