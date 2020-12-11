@@ -1,7 +1,7 @@
-The highly moral are moral
+The highly moral have character
 because they don't moralize,
-and the least moral are immoral
-because they can't stop moralizing.
+and the least moral have no character
+because they never stop.
 
 The highly moral do nothing
 and expect nothing,
@@ -9,36 +9,38 @@ but when the least moral do something,
 they expect something in return.
 
 When the truly kind do something,
-they expect nothing,
-and when the highly responsible do it,
+they expect nothing in return,
+and when the highly responsible do something,
 they do what's expected.
 
 When the truly righteous do something
-and no one goes along with it,
-when they threaten and denounce us,
-they've lost the way.
+and no one is moved,
+when they rouse us to anger,
+we've lost our way.
 
-They've lost the way
-and they're not moral.
+We're lost
+and we're no longer moral.
 
-They're not moral
-and they're not kind.
+We have no character
+and we're no longer kind.
 
-They're not kind
-and they're not responsible.
+We've lost our humanity
+and we take no responsibility.
 
-They're not responsible
-and they're not righteous.
+We fail in our duty
+and we have no right.
 
-Does a righteous man,
-an authority on legitimacy,
-incite us to violence?
+We're the righteous
+who cry for justice,
+yet we incite them to violence.
 
-Does a visionary,
-a prophet of God,
-take us for fools?
+We're the visionaries
+who show them the way,
+yet we take them for fools.
 
-So a truly great leader
-relies on respect, not authority,
-on facts, not dogma,
-and stays away from one to get the other.
+So true moral authority
+lies in hope, not grievance,
+in fact, not fiction.
+
+So reject one,
+claim the other.
