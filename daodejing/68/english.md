@@ -1,13 +1,13 @@
-To be civilized,
+Be civilized,
 don't be warlike.
 
-To be a good warrior,
+Be a good warrior,
 don’t get angry.
 
-To be good at defeating the enemy,
+Defeat your enemies,
 don't engage them.
 
-To be a good commander,
+Be a good commander,
 demote yourself.
 
 It's about nonviolence,
