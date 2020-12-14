@@ -32,5 +32,7 @@ that's power.
 
 When we grow up,
 we get old
-and they say we're out of touch,
-out of touch and out of time.
+and they say we're out of touch.
+
+Out of touch
+and out of time.
