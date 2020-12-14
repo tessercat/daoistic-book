@@ -39,7 +39,7 @@ who show them the way,
 yet we take them for fools.
 
 So true moral authority
-lies in hope, not grievance,
+lies in hope, not hatred,
 in fact, not fiction.
 
 So reject one,
