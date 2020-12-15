@@ -1,4 +1,5 @@
-The universal way is like an archer
+The universal way
+is like an archer
 who pulls down the top,
 lifts up the bottom,
 releases when there's plenty,
