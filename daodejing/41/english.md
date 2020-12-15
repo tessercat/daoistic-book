@@ -11,7 +11,7 @@ they laugh at it.
 If it wasn't funny,
 it wouldn't be Dao.
 
-That's why we tell them,
+That's why we have these sayings.
 
 The right way seems wrong,
 the easy way seems hard,
@@ -30,6 +30,7 @@ great potential develops slowly,
 the good word is rarely heard,
 the grand plan is never revealed.
 
-And above all
-that Dao is good
+Dao hides in the nameless,
+and above all
+Dao is good
 at both forgiving and reconciling.
