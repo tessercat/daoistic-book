@@ -1,5 +1,9 @@
-This is my first crack at Liezi.
-I think I love it.
+This is
+my first close look at Liezi.
+Even when musing on death,
+those old Daoists
+were just so relentlessly
+reasonable and upbeat.
 
 孟孫 appears as a student
 in other texts,
@@ -21,52 +25,54 @@ along with 愛, 身 and 厚,
 are part of the vocabulary of
 immortality (不死)
 and life extension (久生).
-
 I'm thinking of 愛身
 as the kind of self-nourishment
 we still do today
 to keep fit and healthy
 like exercising and eating well,
 but I think the term
-probably also applied to
-magical self-nourishment regimens
-like breath work,
-acupuncture,
-or alchemy.
-Now as then,
-the term probably also covers
-at least a few of the many
-death-denying
-medical marvels
-of the modern age.
+might also have applied to
+magical self-nourishment
+of the alchemical kind.
 
 I've reversed 苦 and 樂
 given the context
-of the perennial process and result
+of the perennial process
 of aging and decline.
-
 I've also grouped
 the last line
 of the 古猶今 expressions
 with the 既之 expressions
+in English
 because I can't seem to make
-it work as it is
-in English.
+it work as it is.
 
 The knife scene
-isn't quite as explicit
+might not be as gory
 in the original.
 
+I'm not sure
+what to make of 盡.
+It appears in a couplet,
+以俟於死 vs 以放於盡,
+where 俟 and 放 are antonyms,
+bind and release,
+and if 死 and 盡 are synonyms,
+does the couplet express
+something like,
+Resigned to death,
+liberated from destruction?
+
 Xuanpin is 玄牝 of
-[chapter 5](/studies/5)
+[chapter 6](/studies/6)
 of the _Dao De Jing_.
-I'm thinking of 其閒
-as the abode of 谷神,
+I was thinking of
+the last characters of the poem,
+其閒,
+as the welcoming
+ease and comfort of 谷神,
 the valley spirit,
-the comforting,
-accepting,
-calm,
-peaceful,
-inevitable
-female principle
+the female principle
 of Daoist moral physics.
+A phoenix seems
+a fitting symbol.

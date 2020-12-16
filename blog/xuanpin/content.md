@@ -1,25 +1,25 @@
 # Xuanpin
 
-A handsome young man asked Yangzi,
-There are people who
-love life and perfect their bodies
-so they won't die.
-What do you think?
+The handsome young man asked Yangzi,
+What do you think of people who
+love life
+and take care of their bodies
+so they won't die?
 孟孫陽問楊子曰
 有人於此
-貴生愛身
-以蘄不死
-可乎
+貴生
+愛身
+以蘄不死可乎
 
 Thinking you won't die is irrational.
 曰理无不死
 
-What about just to prolong life?
+What about trying to prolong life?
 以蘄久生可乎
 
 Clinging to life is irrational.
-The value of life isn't in how long it lasts,
-the love of self isn't in how healthy you are.
+The value of life isn't how long it lasts,
+the love of self isn't how healthy you are.
 And why prolong life?
 The five senses turn from pleasure to pain,
 the four limbs from fit to infirm,
@@ -28,7 +28,7 @@ Out of touch with changing times,
 you've heard it before,
 seen it before,
 done it before.
-After a hundred years, you're sick and tired.
+After a hundred years, you'll be sick and tired.
 Why prolong such sorrow?
 曰理无久生
 生非貴之所能存
@@ -47,9 +47,9 @@ Why prolong such sorrow?
 The young man replied,
 When you put it like that,
 dying young is better than getting old,
-so I might as well just slit own my throat with a kitchen knife,
+so I might as well just slit my own throat,
 fall into the fire,
-get it over with quickly.
+get it over with.
 孟孫陽曰
 若然
 速亡愈於久生
@@ -73,14 +73,14 @@ Why hurry or delay
 the comforting call.
 楊子曰
 不然
-將死
-則廢而任之
-究其所之
-以放於盡
 既生
 則廢而任之
 究其所欲
 以俟於死
+將死
+則廢而任之
+究其所之
+以放於盡
 无不廢
 无不任
 何遽遟
