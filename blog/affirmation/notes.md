@@ -1,11 +1,7 @@
 This poem seems to me
 a common-sense exposition
 on the the virtue
-of not moralizing,
-or on the impossibility
-of doing the right thing
-when you impose your own values
-on others.
+of not moralizing.
 
 The poem riffs on
 仁, 義 and 禮,
@@ -16,23 +12,20 @@ interpretations in English
 that I've mostly just ignored.
 Rectify me as you like.
 
-The first section of the poem
-(on the upward progression
-of 德, 仁, 義 and 禮)
+The first part of the poem
 is remarkably dense,
 and to make sense of it,
 I've taken
 不德 as something like
-"not moralizing",
-and there's some evidence for it
+*not moralizing*,
+and there's some evidence for this
 in ctext.
-
 I've also taken
 無以為 and 有以為,
 respectively,
 as something like
-"has no reason to do anything"
-and "has a reason to do something",
+*has no reason to do*
+and *has a reason to do*,
 and 之 as
 the something
 that does or doesn't
@@ -43,26 +36,32 @@ From other passages in ctext,
 rolling up your sleeves
 to draw attention to yourself,
 possibly in a threatening manner.
-扔 is basically a humble-brag.
+扔 is bragging.
 
-失 is "fail" here,
-but I can't make that work in English,
-so I've basically ignored it,
-though its recurrence
-makes it important
-to the argument.
+失 is *fail* here.
+It's introduced immediately,
+then recurs later,
+so it was clearly important
+to the author,
+but I can't make
+any of it work in English.
 
-I think "goodwill"
+I think *goodwill*
 is a very good fit for 忠信
 in English.
 It's what you weaken (薄)
 when you rile people up (亂之首).
-
-I think "head-man" or "elder"
-is a good fit for 大丈夫.
-
 Ultimately,
 the poem asks us to choose
 between 厚 and 薄
 and between 實 and 華.
-So many possiblities.
+Given the past decade or more
+or world politics,
+I'm especially fond of
+*hope* vs *grievance*
+for 厚 vs 薄.
+
+I think *head-man* or *elder*
+fit well for 大丈夫,
+but *moral authority*
+works too well.

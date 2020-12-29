@@ -33,7 +33,7 @@ I lack respect and I'm not doing the right thing.
 失仁而後義
 失義而後禮
 Am I really that righteous
-when I fuel people's outrage
+when I feed people's anger
 and tear them apart?
 Am I some kind of prophet
 when I take them for fools
