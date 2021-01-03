@@ -1,8 +1,11 @@
 I started looking at this passage
 because it contains part of an obscure term (數窮)
-that also appears in [chapter 5](https://daoistic.ca/studies/5) of the Dao De Jing.
+that also appears in
+[chapter 5](https://ctext.org/dao-de-jing#n11596 "ctext link")
+of the _Dao De Jing_.
 I also looked closely
-at a passage in [Lu Shi Chun Qiu](https://ctext.org/pre-qin-and-han?searchu=%E6%95%B8%E7%AA%AE#n23747)
+at a passage in
+[Lu Shi Chun Qiu](https://ctext.org/lv-shi-chun-qiu/zhi-du#n23747 "ctext link")
 that contains the full phrase (數窮於其下),
 and it turned out to be
 another warning on the dangers of micro-managing.

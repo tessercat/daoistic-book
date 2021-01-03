@@ -106,7 +106,8 @@ the moral law granted by the the heavens.
 
 Cultivating and promoting morality
 in self and others is 脩.
-[Chapter 54](https://daoistic.ca/studies/54) of the _Dao Do Jing_
+[Chapter 54](https://ctext.org/dao-de-jing#n11645 "ctext link")
+of the _Dao Do Jing_
 uses the same character to explain
 the role of tradition in Daoist moral cultivation.
 
@@ -125,8 +126,9 @@ when we collect potential (積) yin energy.
 
 The lord of life and the mother of civilization
 are 萬物主 and 天下母.
-[Chapter 25](https://daoistic.ca/studies/25)
-and [chapter 52](https://daoistic.ca/studies/52)
+[Chapter 25](https://ctext.org/dao-de-jing#n11616 "ctext link")
+and
+[chapter 52](https://ctext.org/dao-de-jing#n11643 "ctext link")
 of the _Dao De Jing_
 also use the term 天下母,
 but both chapters use it to refer to great Dao in general,
@@ -136,9 +138,11 @@ as I think it's used here.
 Giving and taking
 and helping and harming
 are both 與 and 取.
-The passage quotes [chapter 38](https://daoistic.ca/studies/38)
+The passage quotes
+[chapter 38](https://ctext.org/dao-de-jing#n11629 "ctext link")
 of the _Dao De Jing_
-and riffs on [chapter 77](https://daoistic.ca/studies/77)
+and riffs on
+[chapter 77](https://ctext.org/dao-de-jing#n11668 "ctext link")
 to explore them as an answer to the question
 of what makes us moral and immoral.
 
@@ -203,7 +207,7 @@ Letting go of anger and being good is 去惡就善.
 
 Not liking conflict and welcoming relief is 去無甚就少愈.
 The same phrase also appears in
-[Yan Tie Lue](https://ctext.org/yan-tie-lun/wei-tong#n52508),
+[Yan Tie Lue](https://ctext.org/yan-tie-lun/wei-tong#n52508 "ctext link"),
 but uses 尤甚 instead of 無甚
 and clarifies grammar with particles.
 
@@ -216,8 +220,8 @@ get people to settle down and get along
 so they can cooperate
 and get things done together,
 I think civilized works quite well.
-[Chapter 80](https://daoistic.ca/studies/80)
-of the Dao De Jing
+[Chapter 80](https://ctext.org/dao-de-jing#n11671 "ctext link")
+of the _Dao De Jing_
 uses the term as well.
 
 Making promises and exaggerating is 欲不可盈樂不可極.
