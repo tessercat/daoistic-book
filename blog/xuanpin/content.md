@@ -70,7 +70,7 @@ so you're free to move on.
 There's nothing that doesn't give up,
 nothing that doesn't hold on.
 Why hurry or delay
-the comforting call.
+the comforting call?
 楊子曰
 不然
 既生
