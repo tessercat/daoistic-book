@@ -1,4 +1,0 @@
-{
-    'title': 'Leadership',
-    'published': False,
-}

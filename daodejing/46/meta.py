@@ -1,4 +1,0 @@
-{
-    'title': 'Contentment',
-    'published': True,
-}

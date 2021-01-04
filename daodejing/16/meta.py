@@ -1,4 +1,0 @@
-{
-    'title': 'Integrity',
-    'published': False,
-}

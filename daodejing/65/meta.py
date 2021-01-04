@@ -1,4 +1,0 @@
-{
-    'title': 'Obedience',
-    'published': False,
-}

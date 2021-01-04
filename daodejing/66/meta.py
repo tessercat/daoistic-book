@@ -1,4 +1,0 @@
-{
-    'title': 'Competition',
-    'published': True,
-}

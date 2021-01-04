@@ -6,20 +6,20 @@ but some people can't do anything
 without letting us know.
 上德不德是以有德
 下德不失德是以無德
-Most people do nothing
-when there's nothing to do,
-but some people won't do anything
-unless they have an agenda.
+Most people say nothing
+when nothing will change,
+but some people say anything
+to get us on board.
 上德無為而無以為
 下德為之而有以為
 But when kindness does something,
 it does so for nothing,
-and when duty does something,
-it does the right thing.
+and when duty speaks up,
+it says the right thing.
 上仁為之而無以為
 上義為之而有以為
-So when I do something righteous
-and people don't know,
+So when I say something righteous
+and no one is moved,
 I lose something important
 when I get on my soapbox and preach.
 上禮為之而莫之應則攘臂而扔之
@@ -32,9 +32,9 @@ I lack respect and I'm not doing the right thing.
 失德而後仁
 失仁而後義
 失義而後禮
-Am I really that righteous
-when I feed people's anger
-and tear them apart?
+Am I really so righteous
+when I incite hatred
+and tear people apart?
 Am I some kind of prophet
 when I take them for fools
 and promise the moon?

@@ -1,4 +1,0 @@
-{
-    'title': 'Victory',
-    'published': False,
-}

@@ -1,4 +1,0 @@
-{
-    'title': 'Morality',
-    'published': False,
-}

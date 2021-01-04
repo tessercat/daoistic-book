@@ -1,4 +1,0 @@
-{
-    'title': 'Accommodation',
-    'published': True,
-}

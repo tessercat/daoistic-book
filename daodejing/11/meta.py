@@ -1,4 +1,0 @@
-{
-    'title': 'Purpose',
-    'published': False,
-}

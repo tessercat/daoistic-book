@@ -1,4 +1,0 @@
-{
-    'title': 'Accomplishments',
-    'published': True,
-}

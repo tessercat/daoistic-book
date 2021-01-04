@@ -1,4 +1,0 @@
-{
-    'title': 'Autonomy',
-    'published': True,
-}

@@ -1,4 +1,0 @@
-{
-    'title': 'Progress',
-    'published': False,
-}

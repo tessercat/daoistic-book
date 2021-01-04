@@ -1,4 +1,0 @@
-{
-    'title': 'Family',
-    'published': False,
-}

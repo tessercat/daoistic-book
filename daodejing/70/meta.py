@@ -1,4 +1,0 @@
-{
-    'title': 'Honour',
-    'published': False,
-}

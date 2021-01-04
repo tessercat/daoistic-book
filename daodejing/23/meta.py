@@ -1,4 +1,0 @@
-{
-    'title': 'Skepticism',
-    'published': False,
-}

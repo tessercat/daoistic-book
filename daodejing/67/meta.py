@@ -1,4 +1,0 @@
-{
-    'title': 'Safety',
-    'published': False,
-}

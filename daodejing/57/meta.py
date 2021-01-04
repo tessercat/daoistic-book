@@ -1,4 +1,0 @@
-{
-    'title': 'Improvising',
-    'published': False,
-}

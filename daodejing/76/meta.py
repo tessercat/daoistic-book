@@ -1,4 +1,0 @@
-{
-    'title': 'Dominance',
-    'published': True,
-}

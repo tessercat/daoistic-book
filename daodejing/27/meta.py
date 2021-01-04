@@ -1,4 +1,0 @@
-{
-    'title': 'Subtlety',
-    'published': False,
-}

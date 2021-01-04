@@ -1,4 +1,0 @@
-{
-    'title': 'Neutrality',
-    'published': False,
-}

@@ -1,4 +1,0 @@
-{
-    'title': 'Sovereignty',
-    'published': False,
-}

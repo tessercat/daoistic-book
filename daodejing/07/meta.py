@@ -1,4 +1,0 @@
-{
-    'title': 'Selfishness',
-    'published': False,
-}

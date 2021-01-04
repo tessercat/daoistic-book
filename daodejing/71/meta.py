@@ -1,4 +1,0 @@
-{
-    'title': 'Disease',
-    'published': False,
-}

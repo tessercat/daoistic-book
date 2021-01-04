@@ -1,4 +1,0 @@
-{
-    'title': 'Mothers',
-    'published': True,
-}

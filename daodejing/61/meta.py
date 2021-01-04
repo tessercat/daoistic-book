@@ -1,4 +1,0 @@
-{
-    'title': 'Inferiority',
-    'published': False,
-}

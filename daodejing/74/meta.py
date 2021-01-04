@@ -1,4 +1,0 @@
-{
-    'title': 'Punishment',
-    'published': False,
-}

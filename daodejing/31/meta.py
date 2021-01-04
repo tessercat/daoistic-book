@@ -1,4 +1,0 @@
-{
-    'title': 'Remembrance',
-    'published': False,
-}

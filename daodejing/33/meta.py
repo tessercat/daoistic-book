@@ -1,4 +1,0 @@
-{
-    'title': 'Immortality',
-    'published': False,
-}

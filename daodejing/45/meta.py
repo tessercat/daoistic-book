@@ -1,4 +1,0 @@
-{
-    'title': 'Standards',
-    'published': False,
-}

@@ -1,4 +1,0 @@
-{
-    'title': 'Stamina',
-    'published': False,
-}

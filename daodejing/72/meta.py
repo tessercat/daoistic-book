@@ -1,4 +1,0 @@
-{
-    'title': 'Authority',
-    'published': False,
-}

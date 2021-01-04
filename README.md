@@ -1,1 +1,1 @@
-Data files for [Daoistic](https://daoistic.ca "The Philosophy of Heaven and Earth").
+Data files for [Daoistic](https://daoistic.ca "Blogging the unbloggable").

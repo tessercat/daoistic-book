@@ -1,4 +1,0 @@
-{
-    'title': 'Persistence',
-    'published': False,
-}

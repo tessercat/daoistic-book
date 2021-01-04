@@ -1,4 +1,0 @@
-{
-    'title': 'Fathers',
-    'published': True,
-}

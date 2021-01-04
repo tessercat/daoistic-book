@@ -1,4 +1,0 @@
-{
-    'title': 'Greatness',
-    'published': False,
-}
