@@ -1,7 +1,7 @@
-This poem seems to me
-a common-sense exposition
-on the the virtue
-of not moralizing.
+The more I look at the _Dao De Jing_,
+and Daoist poetry in general,
+the more optimistic and upbeat it seems,
+the more reasonable and humane.
 
 The poem riffs on
 仁, 義 and 禮,
@@ -12,22 +12,18 @@ interpretations in English
 that I've mostly just ignored.
 Rectify me as you like.
 
-The first part of the poem
-is remarkably dense,
-and to make sense of it,
+To make sense
+of the remarkable density
+of the first three couplets,
 I've taken
 不德 as something like
 *not moralizing*,
-and there's some evidence for this
-in ctext.
-I've also taken
-無以為 and 有以為,
+and 無以為 and 有以為,
 respectively,
 as something like
 *has no reason to do*
 and *has a reason to do*,
-and 之 as
-the something
+and 之 as the something
 that does or doesn't
 (need to) get done.
 
@@ -43,14 +39,14 @@ It's introduced immediately,
 then recurs later,
 so it was clearly important
 to the author,
-but I can't make
-any of it work in English.
+but I can't make it work
+in English.
 
 I think *goodwill*
-is a very good fit for 忠信
-in English.
+is a very good fit for 忠信.
 It's what you weaken (薄)
-when you rile people up (亂之首).
+when you inflame resentment (亂之首).
+
 Ultimately,
 the poem asks us to choose
 between 厚 and 薄
