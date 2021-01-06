@@ -9,7 +9,7 @@ without letting us know.
 Most people don't say anything
 when it won't do any good,
 but some people have a lot to say
-about what they expect us to do.
+about who deserves what.
 上德無為而無以為
 下德為之而有以為
 But when kindness does something,
@@ -20,22 +20,21 @@ it says the right thing.
 上義為之而有以為
 So when I say something righteous
 and no one is moved,
-I lose something important
+I've lost something important
 when I get on my soapbox and preach.
-上禮為之而莫之應則攘臂而扔之
+上禮為之而莫之應
+則攘臂而扔之
 
 I'm lost and I'm not doing the right thing.
 I lack character and I'm no longer kind.
-I lack compassion,
-and that makes me irresponsible.
-I've failed in my duty,
-and I'm really not righteous at all.
+I lack compassion and I've broken my promise.
+I lack commitment and I'm not righteous at all.
 故失道而後德
 失德而後仁
 失仁而後義
 失義而後禮
-Is it righteous
-to inflame resentment
+Am I really so righteous
+when I deepen divisions
 and weaken good will?
 Am I some kind of prophet
 when I take them for fools
