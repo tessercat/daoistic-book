@@ -18,9 +18,9 @@ in something like their original.
 A few years later,
 I'm no expert,
 definitely not Daoist,
-still not Chinese,
 but I love how
-jazzy and pithy they are,
+jazzy and pithy
+the poems are,
 and I like spending time with
 [Kroll's dictionary](https://brill.com/view/title/20918 "A Student's Dictionary of Classical and Medieval Chinese"),
 wondering what they were on about
