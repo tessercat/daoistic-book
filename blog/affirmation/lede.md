@@ -1,1 +1,1 @@
-Laozi on virtue-signalling. 道德經 38.
+Laozi on moral authority. 道德經 38.
