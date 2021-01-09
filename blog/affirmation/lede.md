@@ -1,1 +1,1 @@
-Laozi on moral authority. 道德經 38.
+Laozi on cancel culture and moral authority. 道德經 38.

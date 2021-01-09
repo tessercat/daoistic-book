@@ -29,15 +29,19 @@ It's doing the right thing,
 and it flows directly from 道,
 the important something
 that we lose first (失)
-when we start ranting (扔).
+when we start
+making threats (攘臂)
+and ranting at people (扔).
 
 義 is the social contract.
 It's the promise that we make
 to each other
 that lets our communities work.
-It's our duty to be respectful,
-to be kind (仁),
-and to do the right thing (德).
+It's the dignity
+that comes from
+being respectful (義)
+and kind (仁),
+and from doing the right thing (德).
 
 忠信 is good will.
 It's the community spirit
@@ -54,7 +58,7 @@ incite mobs (愚之始).
 
 大丈夫 is literally
 *head-man* or *elder*,
-but *true moral authority*
+but *moral authority*
 works so well,
 and presents
 a stark moral choice
@@ -63,4 +67,4 @@ a healthy, positive attitude (厚)
 and an impoverished, cynical one (薄),
 and between
 fact-based common sense (實)
-and conspiracy theories (華).
+and flag-waving conspiracy theories (華).
