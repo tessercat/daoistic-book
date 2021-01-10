@@ -16,8 +16,8 @@ learning to read them
 in something like their original.
 
 A few years later,
-I'm no expert,
-definitely not Daoist,
+I'm certainly no expert,
+and definitely not Daoist,
 but I love how
 jazzy and pithy
 the poems are,
@@ -31,7 +31,11 @@ in my own words.
 You can contact me
 by emailing peter at daoistic.ca.
 
-Unicode data
+Vocabulary data
 is derived from the
 [Unicode Han Database](https://www.unicode.org/reports/tr38/ "tr38")
 (Unihan).
+The database is searchable
+from the
+[Unihan lookup](/unihan "Unihan lookup link")
+page.
