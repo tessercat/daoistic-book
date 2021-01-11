@@ -1,25 +1,28 @@
 # Affirmation
 
 Most people do the right thing
-and keep it to themselves,
-but some people can't do anything
+and keep it to themselves.
+Some people can't do anything
 without letting us know.
-Most people do nothing
-when there's nothing to do,
-but some people need a reason
-to do the right thing.
-But when kindness does something,
-it does so for nothing,
-and when duty does something,
-it does the right thing,
-so when I say something righteous
-and no one is moved,
-I lose something important
-when I get on my soapbox and preach.
 上德不德是以有德
 下德不失德是以無德
+
+Most people don't do anything
+when there's nothing to do.
+Some people need a reason
+to do the right thing.
 上德無為而無以為
 下德為之而有以為
+
+But when good people do something,
+they do so for nothing,
+and when decent people do something,
+they have a good reason.
+So when my cause is righteous
+but people aren't moved,
+I lose something important
+when I start making threats
+and promise the moon.
 上仁為之而無以為
 上義為之而有以為
 上禮為之而莫之應
@@ -27,7 +30,7 @@ when I get on my soapbox and preach.
 
 I'm lost and I'm not doing the right thing.
 I lack character and I'm no longer kind.
-I lack compassion and I'm no longer respectful.
+I lack compassion and I'm no longer decent.
 I lack dignity and I'm not righteous at all.
 故失道而後德
 失德而後仁
@@ -35,11 +38,11 @@ I lack dignity and I'm not righteous at all.
 失義而後禮
 
 When the righteous
-nurse grievance
-and deepen division,
-when prophets
-preach glory
-and pander to fools,
+have a legitimate grievance
+but incite violence,
+when visionaries
+dream of glory
+but make stupid decisions,
 that's when moral authority
 lies in faith, not grievance,
 in reason, not glory.

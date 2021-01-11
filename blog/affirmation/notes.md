@@ -1,7 +1,7 @@
 The more I look at the _Dao De Jing_,
 and Daoist poetry in general,
 the more optimistic and upbeat it seems,
-the more rational and humane.
+the more rational and practical.
 
 In the first three couplets,
 不德 is something like
@@ -31,40 +31,29 @@ the important something
 that we lose first (失)
 when we start
 making threats (攘臂)
-and ranting at people (扔).
+and promises (扔).
 
-義 is the social contract.
-It's the promise that we make
-to each other
-that lets our communities work.
-It's the dignity
-that comes from
-being respectful (義)
-and kind (仁),
+義 is the dignity and respect
+that come from
+being decent (義) and kind (仁),
 and from doing the right thing (德).
 
-忠信 is good will.
-It's the community spirit
-that the righteous (夫禮者)
-scorn (薄)
-when they
-incite violence (亂之首),
-just as
-道 is the truth
-that false prophets (前識)
-embellish (華)
-when they
-incite mobs (愚之始).
+The 者 couplet
+is dense and concise.
+I take it as something like:
+The righteous (夫禮者),
+legitimate (忠信) their grievance (薄)
+yet violent (亂) their means (首).
+The visionary (前識者),
+principled (道) their dreams (華)
+yet stupid (愚) their means (始 in Wangbi, 首 in Guodian).
 
-大丈夫 is literally
-*head-man* or *elder*,
-but *moral authority*
-works so well,
-and presents
-a stark moral choice
-between something like
-a healthy, positive attitude (厚)
-and an impoverished, cynical one (薄),
-and between
-fact-based common sense (實)
-and flag-waving conspiracy theories (華).
+In contrast,
+wise elders (大丈夫)
+reject (去) cynical, destructive solutions (薄)
+and welcome (取) healthy, positive ones (厚),
+and they reject (去) utopian fantasy (華)
+and welcome (取) fact-based common sense (實).
+That's how they
+persuade kind (仁) and decent (義) people
+to do the right thing (德).
