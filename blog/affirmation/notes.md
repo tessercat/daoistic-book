@@ -3,11 +3,9 @@ and Daoist poetry in general,
 the more optimistic and upbeat it seems,
 the more rational and practical.
 
-In the first three couplets,
-不德 is something like
-*not moralizing*,
-and 無以為 and 有以為,
-respectively,
+In the 上下 sayings,
+I take 不德 as *not moralizing*,
+and 無以為 and 有以為
 are something like
 *has no reason to do*
 and *has a reason to do*.
@@ -26,34 +24,30 @@ Rectify me as you like.
 
 德 is character.
 It's doing the right thing,
-and it flows directly from 道,
+and it flows directly from
+moral principle (道),
 the important something
-that we lose first (失)
+that we lose and lack (失)
 when we start
 making threats (攘臂)
 and promises (扔).
 
-義 is the dignity and respect
-that come from
-being decent (義) and kind (仁),
+義 is decency.
+It's the dignity and respect
+that come from being responsible,
+from being kind (仁),
 and from doing the right thing (德).
 
-The 者 couplet
-is dense and concise.
-I take it as something like:
 The righteous (夫禮者),
 legitimate (忠信) their grievance (薄)
 yet violent (亂) their means (首).
-The visionary (前識者),
-principled (道) their dreams (華)
+The prophet (前識者),
+principled (道) their tradition (華)
 yet stupid (愚) their means (始 in Wangbi, 首 in Guodian).
 
 In contrast,
 wise elders (大丈夫)
 reject (去) cynical, destructive solutions (薄)
 and welcome (取) healthy, positive ones (厚),
-and they reject (去) utopian fantasy (華)
-and welcome (取) fact-based common sense (實).
-That's how they
-persuade kind (仁) and decent (義) people
-to do the right thing (德).
+just as they reject utopian fantasy (華)
+and welcome fact-based common sense (實).

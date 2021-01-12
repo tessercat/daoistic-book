@@ -17,25 +17,16 @@ in something like their original.
 
 A few years later,
 I'm certainly no expert,
-and definitely not Daoist,
+definitely not Daoist,
 but I love how
 jazzy and pithy
 the poems are,
 and I like spending time with
 [Kroll's dictionary](https://brill.com/view/title/20918 "A Student's Dictionary of Classical and Medieval Chinese"),
 wondering what they were on about
-and trying to express
+and sometimes trying to express
 what I think I find there
 in my own words.
 
 You can contact me
 by emailing peter at daoistic.ca.
-
-Vocabulary data
-is derived from the
-[Unicode Han Database](https://www.unicode.org/reports/tr38/ "tr38")
-(Unihan).
-The database is searchable
-from the
-[Unihan lookup](/unihan "Unihan lookup link")
-page.
