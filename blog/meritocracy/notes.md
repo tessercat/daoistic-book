@@ -24,7 +24,7 @@ from their superior (君).
 
 In my interpretation,
 it's about the fate of
-the master as teacher (主)
+the manager, boss or master (主)
 who explains (詔)
 to followers and apprentices (下 and 官使)
 who ask questions (請)

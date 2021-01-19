@@ -1,18 +1,18 @@
 # Meritocracy
 
-Some masters think they're the smart one and everyone else is stupid.
+Some managers think they're the smart one and everyone else is stupid.
 They think they're the expert and everyone else is incompetent.
-With a master like that, idiots ask questions
+With a boss like that, idiots ask questions
 and the guru explains.
 人主自智而愚人
 自巧而拙人
 若此則愚拙者請矣
 巧智者詔矣
 
-But when the master explains, people ask more questions,
+But when the boss explains, people ask more questions,
 and questions become even more questions,
 and eventually, people ask about everything.
-Even if the master really is a genius,
+Even if the boss really is a genius,
 it's impossible to know everything,
 and since they don't know everything,
 but people ask about everything,
@@ -26,11 +26,11 @@ the only way forward is to fail.
 應無不請
 其道固窮
 
-If you're a master like that and blame followers for failing,
+If you're a boss like that and blame followers for failing,
 how does that make you a good leader?
 When you've failed and don't know you've failed,
 every mistake turns back on itself and creates more.
-They call you the master of dead ends,
+They call you the dead-end boss,
 and your legacy is to vanish without a trace.
 為人主而數窮於其下
 將何以君人乎
