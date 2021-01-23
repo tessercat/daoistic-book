@@ -1,16 +1,16 @@
 # Acceptance
 
-In the old days, a good influence was
+In the old days, a good mentor was
 a bit subtle,
 deeply gracious,
-profoundly misunderstood.
+profoundly impenetrable.
 古之善為士者
 微妙
 玄通
 深不可識
 
 Sometimes being misunderstood
-is what makes people so friendly.
+is what made them so considerate.
 夫唯不可識
 故強為之容
 
@@ -33,17 +33,17 @@ as messy as mud.
 混兮其若濁
 
 Who else could slowly clean up by calming us down,
-and who else could slowly steady us by moving us forward?
+and who else could slowly steady us by keeping us moving?
 孰能濁以靜之徐清
 孰能安以久動之徐生
 
-People with clout like that
+People with that kind of clout
 aren't perfectionists.
 保此道者不欲盈
 
 Sometimes that
-means letting us break down,
-not fixing us up.
+means just keeping us safe,
+not fixing us.
 夫唯不盈
 故能蔽
 不新成
