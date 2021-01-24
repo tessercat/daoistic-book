@@ -3,13 +3,13 @@
 In the old days, a good mentor was
 a bit subtle,
 deeply gracious,
-profoundly impenetrable.
+profoundly diplomatic.
 古之善為士者
 微妙
 玄通
 深不可識
 
-Sometimes being misunderstood
+Sometimes being unreadable
 is what made them so considerate.
 夫唯不可識
 故強為之容

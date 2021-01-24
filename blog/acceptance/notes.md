@@ -2,12 +2,26 @@ Many of the words
 in this poem
 have double meanings
 and definitions specific to Daoism,
-so I've tried to use simple English words
+so I see it as
+yet another
+description of the indescribable,
+and in this case,
+of what that looks like
+when Dao is expressed
+in human form.
+
+I've tried to use simple English words
 that don't stray too far from
 a literal meaning,
-but that might evoke
-some of the obscure significance
-of the original terms.
+though I've failed with 不可識.
+The best word in English
+is probably *inscrutable*
+as the ineffable nature of Dao
+and therefore of the good human being
+who listens well,
+keeps our secrets
+and keeps harsh opinion
+to themselves.
 
 There's a lot of variation
 in 若 expressions
@@ -19,13 +33,13 @@ as I could.
 
 容 is the *acceptance* of the title.
 It's the reserved consideration and good will
-of the skilled mentor 善士,
-of the good
-teacher,
+of 善士,
+the skilled mentor,
+the good teacher,
 boss,
 parent,
 friend,
-of anyone with the grace
+or of anyone with the grace
 to be a positive influence
 in the lives of others.
 
