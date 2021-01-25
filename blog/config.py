@@ -10,7 +10,7 @@
         },
         'various': {
             'title': 'Common weights and measures',
-            'subtitle': 'Various passages that share interesting vocabulary with the Dao De Jing',
+            'subtitle': 'Passages that share vocabulary with the Dao De Jing',
         }
     }
 }
