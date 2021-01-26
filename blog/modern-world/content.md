@@ -9,7 +9,7 @@ profoundly unbrandable.
 玄通
 深不可識
 
-That's often
+That's
 what made them so popular.
 夫唯不可識
 故強為之容
@@ -41,9 +41,9 @@ These days, people with that kind of clout
 aren't trying to get rich.
 保此道者不欲盈
 
-That's often
-why they help people help themselves
-instead of selling them something new.
+That's
+why they let people figure it out for themselves
+instead of selling them a quick fix.
 夫唯不盈
 故能蔽
 不新成

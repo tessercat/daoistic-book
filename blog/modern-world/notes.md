@@ -10,7 +10,7 @@ parent,
 friend,
 anyone
 who has a positive influence
-on the lives of others.
+in the lives of others.
 
 There's a lot of variation
 in this poem
@@ -32,7 +32,13 @@ simple English words
 that don't stray
 too far from the literal,
 but since most of the vocabulary
-of the poem
 is so obscure,
-I've also taken many, many liberties
-to modernize it somewhat.
+I've taken many, many liberties.
+
+My first instinct
+was to take 士 as
+*teacher* or *mentor*,
+but I liked 
+*unbrandable* too much
+for 不可識,
+so this is what happened instead.
